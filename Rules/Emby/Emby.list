@@ -3,81 +3,80 @@
 # HOMEPAGE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Emby/Emby.list
 # HOMEPAGE: https://github.com/mist-whisper/Surge/blob/master/Rules/Emby/Emby.list
 # UPDATED: 2024-07-11 04:01:40
-# DOMAIN: 16
-# DOMAIN-KEYWORD: 11
-# DOMAIN-SUFFIX: 47
-# PROCESS-NAME: 1
-# TOTAL: 71
+# HOST: 16
+# HOST-KEYWORD: 11
+# HOST-SUFFIX: 47
+# TOTAL: 70
 
-HOST-DOMAIN,789.123456.al
-HOST-DOMAIN,pub1.emby.wtf
-HOST-DOMAIN,pub2.emby.wtf
-HOST-DOMAIN,pub3.emby.wtf
-HOST-DOMAIN,dpx1.1110111.top
-HOST-DOMAIN,7777777.buzz
-HOST-DOMAIN,6666666.buzz
-HOST-DOMAIN,i109.com
-HOST-DOMAIN,vip.baisi.pro
-HOST-DOMAIN,581658.best
-HOST-DOMAIN,plex.tv
+HOST,789.123456.al,Emby
+HOST,pub1.emby.wtf,Emby
+HOST,pub2.emby.wtf,Emby
+HOST,pub3.emby.wtf,Emby
+HOST,dpx1.1110111.top,Emby
+HOST,7777777.buzz,Emby
+HOST,6666666.buzz,Emby
+HOST,i109.com,Emby
+HOST,vip.baisi.pro,Emby
+HOST,581658.best,Emby
+HOST,plex.tv,Emby
 
-HOST-DOMAIN,emby.enjoyit.eu.org
-HOST-DOMAIN,emby.lcloud.wiki
-HOST-DOMAIN,notnetflix.cos.cat
+HOST,emby.enjoyit.eu.org,Emby
+HOST,emby.lcloud.wiki,Emby
+HOST,notnetflix.cos.cat,Emby
 
-HOST-DOMAIN-SUFFIX,di.baisi.pro
-HOST-DOMAIN-SUFFIX,123456.al
+HOST-SUFFIX,di.baisi.pro,Emby
+HOST-SUFFIX,123456.al,Emby
 
-HOST-DOMAIN-SUFFIX,285286.xyz
-HOST-DOMAIN-SUFFIX,agahk1.jmsooo.com
-HOST-DOMAIN-SUFFIX,agajp1.jmsooo.com
-HOST-DOMAIN-SUFFIX,agasg1.jmsooo.com
-HOST-DOMAIN-SUFFIX,aws.jmsooo.com
-HOST-DOMAIN-SUFFIX,cf1.jmsooo.com
-HOST-DOMAIN-SUFFIX,cristiamo.xyz
-HOST-DOMAIN-SUFFIX,emby.cjpc.cc
-HOST-DOMAIN-SUFFIX,emby.cjpc.tv
-HOST-DOMAIN-SUFFIX,emby.cjpc.xyz
-HOST-DOMAIN-SUFFIX,emby.cristiamo.top
-HOST-DOMAIN-SUFFIX,emby.flowercloud.yt
-HOST-DOMAIN-SUFFIX,emby.immtel.com
-HOST-DOMAIN-SUFFIX,emby.maying.club
-HOST-DOMAIN-SUFFIX,emby.mcwy.me
-HOST-DOMAIN-SUFFIX,emby.mdss.cloud
-HOST-DOMAIN-SUFFIX,emby.neko.edu.rs
-HOST-DOMAIN-SUFFIX,emby.nexitally.com
-HOST-DOMAIN-SUFFIX,emby.nyancat.net
-HOST-DOMAIN-SUFFIX,emby.ok.edu.hk
-HOST-DOMAIN-SUFFIX,emby.paoche.ooo
-HOST-DOMAIN-SUFFIX,emby.prprcloud.com
-HOST-DOMAIN-SUFFIX,emby.wtf
-HOST-DOMAIN-SUFFIX,emby.xeton.dev
-HOST-DOMAIN-SUFFIX,emby.ytoo.li
-HOST-DOMAIN-SUFFIX,embymv.tk
-HOST-DOMAIN-SUFFIX,embyplus.org
-HOST-DOMAIN-SUFFIX,embyserver.ga
-HOST-DOMAIN-SUFFIX,hinet.jmsooo.com
-HOST-DOMAIN-SUFFIX,imetyou.top
-HOST-DOMAIN-SUFFIX,jellyfin.asia
-HOST-DOMAIN-SUFFIX,jellyfin.xeton.dev
-HOST-DOMAIN-SUFFIX,line.emby.men
-HOST-DOMAIN-SUFFIX,mickeycloud.com
-HOST-DOMAIN-SUFFIX,movie.xeton.dev
-HOST-DOMAIN-SUFFIX,ntt1.jmsooo.com
-HOST-DOMAIN-SUFFIX,ohhhh.org
-HOST-DOMAIN-SUFFIX,peachmv.me
-HOST-DOMAIN-SUFFIX,pilipiliultra.com
-HOST-DOMAIN-SUFFIX,plusmedia.site
-HOST-DOMAIN-SUFFIX,poloemby.xyz
-HOST-DOMAIN-SUFFIX,pornemby.club
-HOST-DOMAIN-SUFFIX,servers.xeton.dev
-HOST-DOMAIN-SUFFIX,xmsl.org
+HOST-SUFFIX,285286.xyz,Emby
+HOST-SUFFIX,agahk1.jmsooo.com,Emby
+HOST-SUFFIX,agajp1.jmsooo.com,Emby
+HOST-SUFFIX,agasg1.jmsooo.com,Emby
+HOST-SUFFIX,aws.jmsooo.com,Emby
+HOST-SUFFIX,cf1.jmsooo.com,Emby
+HOST-SUFFIX,cristiamo.xyz,Emby
+HOST-SUFFIX,emby.cjpc.cc,Emby
+HOST-SUFFIX,emby.cjpc.tv,Emby
+HOST-SUFFIX,emby.cjpc.xyz,Emby
+HOST-SUFFIX,emby.cristiamo.top,Emby
+HOST-SUFFIX,emby.flowercloud.yt,Emby
+HOST-SUFFIX,emby.immtel.com,Emby
+HOST-SUFFIX,emby.maying.club,Emby
+HOST-SUFFIX,emby.mcwy.me,Emby
+HOST-SUFFIX,emby.mdss.cloud,Emby
+HOST-SUFFIX,emby.neko.edu.rs,Emby
+HOST-SUFFIX,emby.nexitally.com,Emby
+HOST-SUFFIX,emby.nyancat.net,Emby
+HOST-SUFFIX,emby.ok.edu.hk,Emby
+HOST-SUFFIX,emby.paoche.ooo,Emby
+HOST-SUFFIX,emby.prprcloud.com,Emby
+HOST-SUFFIX,emby.wtf,Emby
+HOST-SUFFIX,emby.xeton.dev,Emby
+HOST-SUFFIX,emby.ytoo.li,Emby
+HOST-SUFFIX,embymv.tk,Emby
+HOST-SUFFIX,embyplus.org,Emby
+HOST-SUFFIX,embyserver.ga,Emby
+HOST-SUFFIX,hinet.jmsooo.com,Emby
+HOST-SUFFIX,imetyou.top,Emby
+HOST-SUFFIX,jellyfin.asia,Emby
+HOST-SUFFIX,jellyfin.xeton.dev,Emby
+HOST-SUFFIX,line.emby.men,Emby
+HOST-SUFFIX,mickeycloud.com,Emby
+HOST-SUFFIX,movie.xeton.devEmby
+HOST-SUFFIX,ntt1.jmsooo.com,Emby
+HOST-SUFFIX,ohhhh.org,Emby
+HOST-SUFFIX,peachmv.me,Emby
+HOST-SUFFIX,pilipiliultra.com,Emby
+HOST-SUFFIX,plusmedia.site,Emby
+HOST-SUFFIX,poloemby.xyz,Emby
+HOST-SUFFIX,pornemby.club,Emby
+HOST-SUFFIX,servers.xeton.dev,Emby
+HOST-SUFFIX,xmsl.org,Emby
 
-HOST-DOMAIN-KEYWORD,wtf
-HOST-DOMAIN-KEYWORD,dpx
-HOST-DOMAIN-KEYWORD,baisi
-HOST-DOMAIN-KEYWORD,heisi
+HOST-KEYWORD,wtf,Emby
+HOST-KEYWORD,dpx,Emby
+HOST-KEYWORD,baisi,Emby
+HOST-KEYWORD,heisi,Emby
 
-HOST-DOMAIN-KEYWORD,emby.wtf
-HOST-DOMAIN-KEYWORD,jmsooo
-HOST-DOMAIN-KEYWORD,odysseyplus
+HOST-KEYWORD,emby.wtf,Emby
+HOST-KEYWORD,jmsooo,Emby
+HOST-KEYWORD,odysseyplus,Emby
