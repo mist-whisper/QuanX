@@ -1,0 +1,20 @@
+# NAME: Talkatone
+# AUTHOR: Edward
+# HOMEPAGE: https://github.com/mist-whisper/Surge/blob/master/Rules/Talkatone/Talkatone.list
+#UPDATED: 2024-06-25 20:27:30
+
+HOST-DOMAIN-SUFFIX,mobilefuse.com
+HOST-DOMAIN-SUFFIX,inmobi.com
+HOST-DOMAIN-SUFFIX,crashlytics.com
+HOST-DOMAIN-SUFFIX,talkatone.com
+HOST-DOMAIN-SUFFIX,kochava.com
+# 这个域名最好走代理，我这边直连已超时
+# HOST-DOMAIN-SUFFIX,tktn.be
+HOST-DOMAIN-SUFFIX,cohere.com
+HOST-DOMAIN-SUFFIX,ip-api.com
+HOST-DOMAIN-SUFFIX,agkn.com
+HOST-DOMAIN-SUFFIX,tktn.at
+IP-CIDR,50.117.27.0/24
+IP-CIDR,69.46.75.0/24
+IP-CIDR,205.164.56.0/24
+IP-CIDR,63.251.124.0/24
