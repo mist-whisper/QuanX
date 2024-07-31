@@ -1,0 +1,83 @@
+# NAME: Emby
+# AUTHOR: justdoiting Edward
+# HOMEPAGE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Emby/Emby.list
+# HOMEPAGE: https://github.com/mist-whisper/Surge/blob/master/Rules/Emby/Emby.list
+# UPDATED: 2024-07-11 04:01:40
+# DOMAIN: 16
+# DOMAIN-KEYWORD: 11
+# DOMAIN-SUFFIX: 47
+# PROCESS-NAME: 1
+# TOTAL: 71
+
+HOST-DOMAIN,789.123456.al
+HOST-DOMAIN,pub1.emby.wtf
+HOST-DOMAIN,pub2.emby.wtf
+HOST-DOMAIN,pub3.emby.wtf
+HOST-DOMAIN,dpx1.1110111.top
+HOST-DOMAIN,7777777.buzz
+HOST-DOMAIN,6666666.buzz
+HOST-DOMAIN,i109.com
+HOST-DOMAIN,vip.baisi.pro
+HOST-DOMAIN,581658.best
+HOST-DOMAIN,plex.tv
+
+HOST-DOMAIN,emby.enjoyit.eu.org
+HOST-DOMAIN,emby.lcloud.wiki
+HOST-DOMAIN,notnetflix.cos.cat
+
+HOST-DOMAIN-SUFFIX,di.baisi.pro
+HOST-DOMAIN-SUFFIX,123456.al
+
+HOST-DOMAIN-SUFFIX,285286.xyz
+HOST-DOMAIN-SUFFIX,agahk1.jmsooo.com
+HOST-DOMAIN-SUFFIX,agajp1.jmsooo.com
+HOST-DOMAIN-SUFFIX,agasg1.jmsooo.com
+HOST-DOMAIN-SUFFIX,aws.jmsooo.com
+HOST-DOMAIN-SUFFIX,cf1.jmsooo.com
+HOST-DOMAIN-SUFFIX,cristiamo.xyz
+HOST-DOMAIN-SUFFIX,emby.cjpc.cc
+HOST-DOMAIN-SUFFIX,emby.cjpc.tv
+HOST-DOMAIN-SUFFIX,emby.cjpc.xyz
+HOST-DOMAIN-SUFFIX,emby.cristiamo.top
+HOST-DOMAIN-SUFFIX,emby.flowercloud.yt
+HOST-DOMAIN-SUFFIX,emby.immtel.com
+HOST-DOMAIN-SUFFIX,emby.maying.club
+HOST-DOMAIN-SUFFIX,emby.mcwy.me
+HOST-DOMAIN-SUFFIX,emby.mdss.cloud
+HOST-DOMAIN-SUFFIX,emby.neko.edu.rs
+HOST-DOMAIN-SUFFIX,emby.nexitally.com
+HOST-DOMAIN-SUFFIX,emby.nyancat.net
+HOST-DOMAIN-SUFFIX,emby.ok.edu.hk
+HOST-DOMAIN-SUFFIX,emby.paoche.ooo
+HOST-DOMAIN-SUFFIX,emby.prprcloud.com
+HOST-DOMAIN-SUFFIX,emby.wtf
+HOST-DOMAIN-SUFFIX,emby.xeton.dev
+HOST-DOMAIN-SUFFIX,emby.ytoo.li
+HOST-DOMAIN-SUFFIX,embymv.tk
+HOST-DOMAIN-SUFFIX,embyplus.org
+HOST-DOMAIN-SUFFIX,embyserver.ga
+HOST-DOMAIN-SUFFIX,hinet.jmsooo.com
+HOST-DOMAIN-SUFFIX,imetyou.top
+HOST-DOMAIN-SUFFIX,jellyfin.asia
+HOST-DOMAIN-SUFFIX,jellyfin.xeton.dev
+HOST-DOMAIN-SUFFIX,line.emby.men
+HOST-DOMAIN-SUFFIX,mickeycloud.com
+HOST-DOMAIN-SUFFIX,movie.xeton.dev
+HOST-DOMAIN-SUFFIX,ntt1.jmsooo.com
+HOST-DOMAIN-SUFFIX,ohhhh.org
+HOST-DOMAIN-SUFFIX,peachmv.me
+HOST-DOMAIN-SUFFIX,pilipiliultra.com
+HOST-DOMAIN-SUFFIX,plusmedia.site
+HOST-DOMAIN-SUFFIX,poloemby.xyz
+HOST-DOMAIN-SUFFIX,pornemby.club
+HOST-DOMAIN-SUFFIX,servers.xeton.dev
+HOST-DOMAIN-SUFFIX,xmsl.org
+
+HOST-DOMAIN-KEYWORD,wtf
+HOST-DOMAIN-KEYWORD,dpx
+HOST-DOMAIN-KEYWORD,baisi
+HOST-DOMAIN-KEYWORD,heisi
+
+HOST-DOMAIN-KEYWORD,emby.wtf
+HOST-DOMAIN-KEYWORD,jmsooo
+HOST-DOMAIN-KEYWORD,odysseyplus
