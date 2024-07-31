@@ -9,8 +9,8 @@
 
 #-----------------以下为解析后的规则-----------------#
 
-HOST-DOMAIN-SUFFIX,soulapp.cn
-HOST-DOMAIN-KEYWORD,soulapp
+HOST-SUFFIX,soulapp.cn
+HOST-KEYWORD,soulapp
 IP-CIDR,8.210.3.170/32,no-resolve
 IP-CIDR,43.231.145.10/32,no-resolve
 IP-CIDR,47.75.72.47/32,no-resolve
