@@ -1,5 +1,5 @@
 // 2024-07-26 13:00
-//引用地址：https://github.com/RuCu6/QuanX/blob/main/Scripts/weibo.js
+// 引用地址：https://github.com/RuCu6/QuanX/blob/main/Scripts/weibo.js
 
 const url = $request.url;
 if (!$response.body) $done({});
