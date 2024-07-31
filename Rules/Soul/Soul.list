@@ -11,9 +11,9 @@
 
 HOST-SUFFIX,soulapp.cn,soul
 HOST-KEYWORD,soulapp,soul
-IP-CIDR,8.210.3.170/32,no-resolve,soul
-IP-CIDR,43.231.145.10/32,no-resolve,soul
-IP-CIDR,47.75.72.47/32,no-resolve,soul
+IP-CIDR,8.210.3.170/32,soul
+IP-CIDR,43.231.145.10/32,soul
+IP-CIDR,47.75.72.47/32,soul
 IP-CIDR,47.96.7.91/32,soul
 IP-CIDR,47.96.11.46/32,soul
 IP-CIDR,47.96.20.45/32,soul
