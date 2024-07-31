@@ -2,26 +2,26 @@
 # AUTHOR: 可莉🅥
 # HOMEPAGE: https://gitlab.com/lodepuly/vpn_tool/-/blob/master/Tool/Loon/Rule/Filen.list?ref_type=heads
 # UPDATED: 2024-07-20 11:14:56
-# DOMAIN: 12
-# DOMAIN-SUFFIX: 7
+# HOST: 12
+# HOST-SUFFIX: 7
 # TOTAL: 19
 
-HOST-DOMAIN,cdn.filen.io
-HOST-DOMAIN,drive.filen.io
-HOST-DOMAIN,egest.filen.io
-HOST-DOMAIN,gateway.filen-1.net
-HOST-DOMAIN,gateway.filen-2.net
-HOST-DOMAIN,gateway.filen-3.net
-HOST-DOMAIN,gateway.filen-4.net
-HOST-DOMAIN,gateway.filen-5.net
-HOST-DOMAIN,gateway.filen.io
-HOST-DOMAIN,gateway.filen.net
-HOST-DOMAIN,ingest.filen.io
-HOST-DOMAIN,socket.filen.io
-HOST-DOMAIN-SUFFIX,filen.io
-HOST-DOMAIN-SUFFIX,filen.net
-HOST-DOMAIN-SUFFIX,filen-1.net
-HOST-DOMAIN-SUFFIX,filen-2.net
-HOST-DOMAIN-SUFFIX,filen-3.net
-HOST-DOMAIN-SUFFIX,filen-4.net
-HOST-DOMAIN-SUFFIX,filen-5.net
+HOST,cdn.filen.io,Filen
+HOST,drive.filen.io,Filen
+HOST,egest.filen.io,Filen
+HOST,gateway.filen-1.net,Filen
+HOST,gateway.filen-2.net,Filen
+HOST,gateway.filen-3.net,Filen
+HOST,gateway.filen-4.net,Filen
+HOST,gateway.filen-5.net,Filen
+HOST,gateway.filen.io,Filen
+HOST,gateway.filen.net,Filen
+HOST,ingest.filen.io,Filen
+HOST,socket.filen.io,Filen
+HOST-SUFFIX,filen.io,Filen
+HOST-SUFFIX,filen.net,Filen
+HOST-SUFFIX,filen-1.net,Filen
+HOST-SUFFIX,filen-2.net,Filen
+HOST-SUFFIX,filen-3.net,Filen
+HOST-SUFFIX,filen-4.net,Filen
+HOST-SUFFIX,filen-5.net,Filen
