@@ -6,8 +6,7 @@
 # HOST: 21
 # HOST-KEYWORD: 8
 # HOST-SUFFIX: 44
-# PROCESS-NAME: 1
-# TOTAL: 74
+# TOTAL: 73
 
 HOST,789.123456.al,Emby
 HOST,123456.al,Emby
@@ -86,5 +85,3 @@ HOST-KEYWORD,dpxemby,Emby
 HOST-KEYWORD,emby.wtf,Emby
 HOST-KEYWORD,jmsooo,Emby
 HOST-KEYWORD,odysseyplus,Emby
-
-PROCESS-NAME,com.mb.android,Emby
