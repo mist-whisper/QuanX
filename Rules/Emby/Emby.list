@@ -18,21 +18,19 @@ HOST,dpx1.1110111.top,Emby
 HOST,7777777.buzz,Emby
 HOST,6666666.buzz,Emby
 HOST,i109.com,Emby
-DOMAIN,h1.i109.com
-DOMAIN,h2.i109.com
+HOST,h1.i109.com,Emby
+HOST,h2.i109.com,Emby
 HOST,vip.baisi.pro,Emby
 HOST,di.baisi.pro,Emby
 HOST,581658.best,Emby
 HOST,plex.tv,Emby
-HOST,0570.123456.buzz
-HOST,test.123456.buzz //地平线测速
-HOST,cf.imetyou.top
+HOST,0570.123456.buzz,Emby
+HOST,test.123456.buzz,Emby //地平线测速
+HOST,cf.imetyou.top,Emby
 
 HOST,emby.enjoyit.eu.org,Emby
 HOST,emby.lcloud.wiki,Emby
 HOST,notnetflix.cos.cat,Emby
-
-
 
 HOST-SUFFIX,285286.xyz,Emby
 HOST-SUFFIX,agahk1.jmsooo.com,Emby
@@ -83,9 +81,10 @@ HOST-KEYWORD,wtf,Emby
 HOST-KEYWORD,dpx,Emby
 HOST-KEYWORD,baisi,Emby
 HOST-KEYWORD,heisi,Emby
-HOST-KEYWORD,dpxemby
+HOST-KEYWORD,dpxemby,Emby
 
 HOST-KEYWORD,emby.wtf,Emby
 HOST-KEYWORD,jmsooo,Emby
 HOST-KEYWORD,odysseyplus,Emby
-PROCESS-NAME,com.mb.android
+
+PROCESS-NAME,com.mb.android,Emby
