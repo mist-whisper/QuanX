@@ -5,8 +5,8 @@
 # This file contains known addresses that are avaliable in the Mainland China.
 # This ruleset is made by Sukka and Edward
 
-HOST-SUFFIX,cdn.bootcdn.net,Mainland
-HOST-SUFFIX,cdn.bootcss.com,Mainland
+HOST,cdn.bootcdn.net,Mainland
+HOST,cdn.bootcss.com,Mainland
 HOST,www.layuicdn.com,Mainland
 HOST,xboxlive.cn,Mainland
 HOST,lv.queniujq.cn,Mainland
