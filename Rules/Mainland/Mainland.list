@@ -5,14 +5,15 @@
 #This file contains known addresses that are avaliable in the Mainland China.
 
 HOST-DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
-HOST-DOMAIN,cdn.bootcdn.net
-HOST-DOMAIN,cdn.bootcss.com
-HOST-DOMAIN,www.layuicdn.com
-HOST-DOMAIN,xboxlive.cn
-HOST-DOMAIN,lv.queniujq.cn
-HOST-DOMAIN,cn.download.nvidia.com
-HOST-DOMAIN,www.intel.cn
-HOST-DOMAIN,ocsp.digicert.cn
+HOST,cdn.bootcdn.net,Mainland
+HOST,cdn.bootcss.com,Mainland
+HOST,www.layuicdn.com,Mainland
+HOST,xboxlive.cn,Mainland
+HOST,lv.queniujq.cn,Mainland
+HOST,cn.download.nvidia.com,Mainland
+HOST,www.intel.cn,Mainland
+HOST,ocsp.digicert.cn,Mainland
+HOST,plex.tv,Mainland
 HOST-DOMAIN-SUFFIX,mcd.cn
 HOST-DOMAIN-SUFFIX,vivo.com
 HOST-DOMAIN-SUFFIX,vivo.com.cn
