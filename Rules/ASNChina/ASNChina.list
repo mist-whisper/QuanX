@@ -1,0 +1,5270 @@
+# NAME: ASN China
+# AUTHOR: VirgilClyne
+# HOMEPAGE: https://github.com/VirgilClyne/GetSomeFries/blob/main/ruleset/ASN.China.list
+# UPDATED: 2024-08-02 01:57:22
+
+IP-ASN,4134,ASN China // 中国电信骨干网
+IP-ASN,4538,ASN China // 中国教育科研网络中心
+IP-ASN,4611,ASN China // 中国新华网
+IP-ASN,4789,ASN China // 中国北京清华大学教育网
+IP-ASN,4808,ASN China // 中国联通北京省网
+IP-ASN,4809,ASN China // 中国电信下一代承载网
+IP-ASN,4811,ASN China // 中国电信（集团）
+IP-ASN,4812,ASN China // 中国电信（集团）
+IP-ASN,4813,ASN China // 中国电信（集团）
+IP-ASN,4816,ASN China // 中国电信（集团）
+IP-ASN,4835,ASN China // 中国电信（集团）
+IP-ASN,4837,ASN China // 中国联通骨干网
+IP-ASN,4842,ASN China // Tianhai InfoTech
+IP-ASN,4847,ASN China // CNIX（现北京电信省网）
+IP-ASN,4859,ASN China // 中华人民共和国国家信息中心
+IP-ASN,7497,ASN China // 计算机网络信息中心
+IP-ASN,7586,ASN China // Cloudfort IT
+IP-ASN,7609,ASN China // 摩根士丹利管理服务（上海）有限公司
+IP-ASN,7640,ASN China // 中国国际信托投资公司管理信息中心
+IP-ASN,7641,ASN China // 中国广播电视网
+IP-ASN,7653,ASN China // 摩根士丹利管理服务（上海）有限公司
+# IP-ASN,7720,ASN China // Skywolf Technology LLC   【未广播中国大陆IP】
+# IP-ASN,7721,ASN China // Qin Cloud Networks       【未广播中国大陆IP】
+IP-ASN,9298,ASN China // 北京光环讯通数码科技有限公司
+IP-ASN,9306,ASN China // 中国国际电子商务中心
+IP-ASN,9308,ASN China // 北京毅云网络科技有限公司
+# IP-ASN,9384,ASN China // MIKU NETWORK LIMITED     【未广播中国大陆IP】
+IP-ASN,9389,ASN China // 北京神州长城通信
+IP-ASN,9391,ASN China // 广东省公路宽带网络服务中心
+IP-ASN,9392,ASN China // 亚太卫星宽带通信（深圳）有限公司
+IP-ASN,9394,ASN China // 中国铁通电讯公司
+IP-ASN,9395,ASN China // 北京国信比林电信科技有限公司
+IP-ASN,9401,ASN China // 中国国家图书馆
+IP-ASN,9405,ASN China // 中国清华大学测试平台服务中心
+IP-ASN,9406,ASN China // NSFC High Speed Testbed
+# IP-ASN,9516,ASN China // Sakura Network LTD       【未广播中国大陆IP】
+IP-ASN,9535,ASN China // INTERNET-SOLUTION -HK
+IP-ASN,9800,ASN China // 中国联通
+IP-ASN,9801,ASN China // 北京中关村信息技术有限公司
+IP-ASN,9802,ASN China // 北京毅云网络科技有限公司
+IP-ASN,9803,ASN China // 北京京讯公共信息技术有限公司
+IP-ASN,9805,ASN China // 西门子（中国）有限公司
+IP-ASN,9806,ASN China // 北京教育信息网
+IP-ASN,9807,ASN China // 中国国家统计局数据管理中心
+IP-ASN,9808,ASN China // 广东移动通信有限公司
+IP-ASN,9809,ASN China // 中国深圳市福田区雅柏公园
+IP-ASN,9810,ASN China // 北京时代网星科技有限公司
+IP-ASN,9811,ASN China // 国务院发展研究中心网
+IP-ASN,9812,ASN China // 东方有线网络有限公司
+IP-ASN,9814,ASN China // 北京光纤网络有限公司
+IP-ASN,9818,ASN China // 中国清华大学互联网金融实验室
+IP-ASN,9819,ASN China // 北京 Teletron 电信工程有限公司
+IP-ASN,9886,ASN China // MercyCloud Network
+IP-ASN,9929,ASN China // 中国联通工业互联网骨干网
+IP-ASN,9939,ASN China // 中国第一线(深圳)有限公司
+IP-ASN,10111,ASN China // Zeofast Network （现上海吉实信息技术有限公司）
+IP-ASN,10206,ASN China // 中国联通 中卫云
+IP-ASN,10212,ASN China // 中国企业通讯
+IP-ASN,17428,ASN China // 北京世纪互联宽带数据中心有限公司
+IP-ASN,17429,ASN China // 北京歌华有线电视网络有限公司
+IP-ASN,17430,ASN China // 北京西朗传媒文化有限公司
+IP-ASN,17442,ASN China // 中国互联网服务提供商
+# IP-ASN,17457,ASN China // 雅虎网络科技           【未广播中国大陆IP】
+IP-ASN,17490,ASN China // 3/F,Yi Qing Building,Hua Jing Xin Cheng,广州
+IP-ASN,17621,ASN China // 中国联通上海城网
+IP-ASN,17622,ASN China // 中国联通广州城网
+IP-ASN,17623,ASN China // 中国联通深圳城网
+IP-ASN,17633,ASN China // 中国电信山东省网
+IP-ASN,17638,ASN China // 中国电信天津省网
+IP-ASN,17739,ASN China // 上海电信恒联网络有限公司
+IP-ASN,17767,ASN China // 石家庄旭鼎科技有限公司
+IP-ASN,17775,ASN China // 上海科技网络通信有限公司
+IP-ASN,17776,ASN China // 中企网络通信技术有限公司
+IP-ASN,17781,ASN China // 中国新华社
+IP-ASN,17785,ASN China // 中国电信河南省网
+IP-ASN,17799,ASN China // 中国电信辽宁省网
+IP-ASN,17816,ASN China // 中国联通广东省网
+# IP-ASN,17830,ASN China // David Liu aka PotatoNet 【未广播中国大陆IP】
+IP-ASN,17897,ASN China // 中国电信黑龙江省网
+IP-ASN,17962,ASN China // 深圳市拓威视讯传播有限公司
+IP-ASN,17964,ASN China // 北京电信通网络科技有限公司
+IP-ASN,17966,ASN China // 中国信息广播网络有限公司
+IP-ASN,17968,ASN China // 大庆中基石油电信建设有限公司
+IP-ASN,17969,ASN China // 北京宽通网络科技有限公司
+IP-ASN,18011,ASN China // 中国教育实验网
+IP-ASN,18118,ASN China // 中信网络管理有限公司
+IP-ASN,18239,ASN China // 北京首都公共信息平台
+IP-ASN,18240,ASN China // 北京 Teletron 电信工程有限公司
+IP-ASN,18241,ASN China // 国家电力信息网
+IP-ASN,18242,ASN China // 成都信息港有限公司
+IP-ASN,18243,ASN China // 上海易思网络科技发展有限公司
+IP-ASN,18244,ASN China // 上海国联互联网数据中心有限公司
+IP-ASN,18245,ASN China // 北京方正宽带网络技术有限公司
+IP-ASN,18257,ASN China // 常州比特姆软件科技有限公司
+IP-ASN,23650,ASN China // 中国电信江苏省网
+IP-ASN,23724,ASN China // 中国电信IDC网络
+IP-ASN,23771,ASN China // 陕西广电网络
+IP-ASN,23839,ASN China // 辽河油田电讯公司
+IP-ASN,23840,ASN China // 天津先进信息产品有限公司
+IP-ASN,23841,ASN China // 6/F, No.3 Huatian Road, New Technology Industry Area
+IP-ASN,23842,ASN China // 深圳市信息网络中心
+IP-ASN,23844,ASN China // 北京光环新旺数码
+IP-ASN,23848,ASN China // 深圳市平安通讯科技有限公司
+IP-ASN,23851,ASN China // 重庆数控宽带网络有限公司
+IP-ASN,23852,ASN China // 广州未来科技有限公司
+IP-ASN,23853,ASN China // 上海数据解决方案有限公司
+IP-ASN,23910,ASN China // 中国电信下一代承载网 (CERNET 2)
+IP-ASN,23911,ASN China // 中国电信下一代承载网 (北京 IX)
+IP-ASN,24133,ASN China // 北京世纪互联宽带数据中心有限公司
+IP-ASN,24134,ASN China // 北京互联通网络科技有限公司
+IP-ASN,24137,ASN China // 河南平煤集团
+IP-ASN,24138,ASN China // 中国铁通电信公司
+IP-ASN,24139,ASN China // 华蜀传媒网络有限公司
+IP-ASN,24141,ASN China // 上海地面通信息网络有限公司
+IP-ASN,24143,ASN China // 青岛有线电视网络中心
+IP-ASN,24144,ASN China // 武汉蓝视云科技有限公司
+IP-ASN,24147,ASN China // 北京商务中心区通信科技有限公司
+IP-ASN,24149,ASN China // 中国互联网域名系统北京工程研究中心有限公司
+IP-ASN,24150,ASN China // 四川有线电视网络有限公司
+IP-ASN,24151,ASN China // 中国互联网络信息中心
+IP-ASN,24239,ASN China // 中国清华大学TWD2教育和研究网络
+IP-ASN,24302,ASN China // 中国清华大学
+IP-ASN,24311,ASN China // 中国移动通信集团公司 IPv6 网络
+IP-ASN,24348,ASN China // 中国清华大学 (CERNET 2 IX)
+IP-ASN,24349,ASN China // 中国北京大学 (CERNET 2 IX)
+IP-ASN,24350,ASN China // 中国北京邮电大学 (CERNET 2 IX)
+IP-ASN,24351,ASN China // 中国北京航空航天大学 (CERNET 2 IX)
+IP-ASN,24352,ASN China // 中国天津大学 (CERNET 2 IX)
+IP-ASN,24353,ASN China // 中国西安交通大学 (CERNET 2 IX)
+IP-ASN,24354,ASN China // 中国中国兰州大学 (CERNET 2 IX)
+IP-ASN,24355,ASN China // 中国电子科技大学 (CERNET 2 IX)
+IP-ASN,24356,ASN China // 中国重庆大学 (CERNET 2 IX)
+IP-ASN,24357,ASN China // 中国华南理工大学 (CERNET 2 IX)
+IP-ASN,24358,ASN China // 中国华中科技大学 (CERNET 2 IX)
+IP-ASN,24359,ASN China // 中国中南大学 (CERNET 2 IX)
+IP-ASN,24360,ASN China // 中国郑州大学 (CERNET 2 IX)
+IP-ASN,24361,ASN China // 中国东南大学 (CERNET 2 IX)
+IP-ASN,24362,ASN China // 中国科学技术大学 (CERNET 2 IX)
+IP-ASN,24363,ASN China // 中国山东大学 (CERNET 2 IX)
+IP-ASN,24364,ASN China // 中国上海交通大学 (CERNET 2 IX)
+IP-ASN,24365,ASN China // 中国复旦大学 (CERNET 2 IX)
+IP-ASN,24366,ASN China // 中国同济大学 (CERNET 2 IX)
+IP-ASN,24367,ASN China // 中国浙江大学 (CERNET 2 IX)
+IP-ASN,24368,ASN China // 中国厦门大学 (CERNET 2 IX)
+IP-ASN,24369,ASN China // 中国东北大学 (CERNET 2 IX)
+IP-ASN,24370,ASN China // 中国大连理工大学 (CERNET 2 IX)
+IP-ASN,24371,ASN China // 中国吉林大学 (CERNET 2 IX)
+IP-ASN,24372,ASN China // 哈尔滨工业大学 (CERNET 2 IX)
+IP-ASN,24376,ASN China // 雅虎中国数据中心
+IP-ASN,24400,ASN China // 上海移动通信有限公司
+IP-ASN,24404,ASN China // 北京铜牛信息科技股份有限公司
+IP-ASN,24406,ASN China // 中国互联网络信息中心
+IP-ASN,24409,ASN China // 中国互联网络信息中心
+IP-ASN,24413,ASN China // 深圳市日升科技有限公司
+IP-ASN,24416,ASN China // 北京三信时代科技有限公司
+IP-ASN,24422,ASN China // 华北石油通信有限公司
+IP-ASN,24423,ASN China // 福建广电网络集团
+IP-ASN,24424,ASN China // 北京谷翔信息技术有限公司
+IP-ASN,24426,ASN China // 北京 CE Huatong信息科技有限公司
+IP-ASN,24427,ASN China // 上海驰信信息技术有限公司
+IP-ASN,24428,ASN China // 北京方正宽带网络技术有限公司
+IP-ASN,24429,ASN China // 浙江淘宝网络有限公司
+IP-ASN,24430,ASN China // 中国国家邮政局
+IP-ASN,24444,ASN China // 山东移动通信有限公司
+IP-ASN,24445,ASN China // 河南移动通信有限公司
+IP-ASN,24489,ASN China // 跨欧亚信息网络 (TEIN2)
+# IP-ASN,24490,ASN China // 跨欧亚信息网络 (TEIN2) 【未广播中国大陆IP】
+IP-ASN,24495,ASN China // G-NET综合服务有限公司
+IP-ASN,24547,ASN China // 河北移动通信有限公司
+IP-ASN,24575,ASN China // 清华大学实验室
+IP-ASN,37936,ASN China // 北京市海淀区北四环西路58号理想国际大厦15楼
+IP-ASN,37937,ASN China // 中国电子政务信息中心
+IP-ASN,37941,ASN China // 中国数码科技有限公司
+IP-ASN,37942,ASN China // 中国文化遗产信息咨询中心
+IP-ASN,37943,ASN China // 郑州巨特计算机网络技术有限公司
+IP-ASN,37957,ASN China // 中国通讯有限公司
+IP-ASN,37963,ASN China // 杭州阿里巴巴广告有限公司
+IP-ASN,37965,ASN China // 亚太环通商务解决方案
+IP-ASN,37968,ASN China // 深圳 QianHai New-Type Internet Exchange Point 有限公司
+IP-ASN,37969,ASN China // 杭州云泽网络科技有限公司
+IP-ASN,37970,ASN China // 中国华电公司
+IP-ASN,38019,ASN China // 天津移动通信有限公司
+IP-ASN,38027,ASN China // 信息中心，科学技术部
+IP-ASN,38057,ASN China // 戴尔（中国）有限公司
+IP-ASN,38238,ASN China // 法国兴业银行（中国）有限公司
+IP-ASN,38255,ASN China // 中国教育研究网（CERNET ）
+IP-ASN,38272,ASN China // 中国教育研究网（CERNET ）
+IP-ASN,38283,ASN China // 中国电信四川电信互联网数据中心
+IP-ASN,38323,ASN China // 广州麦克疯广告有限公司
+IP-ASN,38339,ASN China // 深圳市虎盟科技有限公司
+IP-ASN,38340,ASN China // 北京百度网通科技有限公司
+IP-ASN,38341,ASN China // 中国和信信息技术有限公司
+IP-ASN,38342,ASN China // 上海维赛特网络系统有限公司
+IP-ASN,38345,ASN China // 中国互联网域名系统北京工程研究中心有限公司
+IP-ASN,38346,ASN China // 中国航天信息网络有限公司
+IP-ASN,38353,ASN China // 资本在线数据服务有限公司
+IP-ASN,38355,ASN China // 重庆广播电视宽带IP城域网
+IP-ASN,38357,ASN China // 北京数据快讯科技有限公司
+IP-ASN,38358,ASN China // 中国科学技术协会信息中心
+IP-ASN,38363,ASN China // 上海高速公路信息技术有限公司
+IP-ASN,38364,ASN China // 龙泰网络科技有限公司
+IP-ASN,38365,ASN China // 北京百度网通科技有限公司
+IP-ASN,38367,ASN China // 联合人寿保险股份有限公司
+IP-ASN,38370,ASN China // 中国铁路互联网广东分公司
+# IP-ASN,38371,ASN China //    【未广播中国大陆IP】
+IP-ASN,38372,ASN China // 佛山市瑞江科技有限公司
+IP-ASN,38375,ASN China // 北京高华证券股份有限公司
+IP-ASN,38378,ASN China // 博世（中国）投资有限公司
+IP-ASN,38379,ASN China // 上海劢杰网络数据科技有限公司
+IP-ASN,38380,ASN China // 中国南方机车车辆工业公司
+IP-ASN,38381,ASN China // 浙江民航信息科技有限公司
+IP-ASN,38439,ASN China // 北京烽鸟网络科技有限公司
+# IP-ASN,38564,ASN China // 英伟达亚洲互联网网关   【未广播中国大陆IP】
+IP-ASN,38587,ASN China // 中国教育网互联网数据中心
+IP-ASN,38834,ASN China // 上海英伟达企业网
+# IP-ASN,39753,ASN China // Kai Liu
+# IP-ASN,41979,ASN China // 杭州 CloudZone 网络科技有限公司   【未广播中国大陆IP】
+IP-ASN,42962,ASN China // 石家庄旭鼎科技有限公司
+# IP-ASN,44421,ASN China // Yifu Yu   【未广播中国大陆IP】
+IP-ASN,45057,ASN China // 中国铁通上海城网
+IP-ASN,45058,ASN China // 金桥网通通信有限公司
+IP-ASN,45061,ASN China // 上海信息网络有限公司
+IP-ASN,45062,ASN China // 广州网易电脑系统有限公司
+IP-ASN,45064,ASN China // 北京中关村软件园发展有限公司
+IP-ASN,45069,ASN China // 中国铁通山东省网
+IP-ASN,45071,ASN China // 李宁（中国）体育用品有限公司
+IP-ASN,45074,ASN China // 中国国家统计局数据管理中心
+IP-ASN,45075,ASN China // 中国中央广播电视总台
+IP-ASN,45079,ASN China // 中国长安服务有限公司
+IP-ASN,45080,ASN China // 上海联网通讯科技有限公司
+IP-ASN,45083,ASN China // 北京市海讯达通信有限责任公司
+IP-ASN,45084,ASN China // 中国北京市朝阳区建国路98号
+IP-ASN,45086,ASN China // 上海有孚网络股份有限公司
+IP-ASN,45087,ASN China // 中国免税集团
+IP-ASN,45090,ASN China // 深圳市腾讯计算机系统有限公司
+IP-ASN,45093,ASN China // 北京亿安天下科技股份有限公司 (Cnean IX)
+IP-ASN,45101,ASN China // 沃尔玛（中国）投资有限公司
+# IP-ASN,45102,ASN China // Alibaba (US) Technology 有限公司
+IP-ASN,45110,ASN China // 北京天威鑫通科技股份有限公司
+IP-ASN,45113,ASN China // 山西大同煤业集团通信有限公司
+IP-ASN,45275,ASN China // 天地互连信息技术有限公司
+IP-ASN,45576,ASN China // 中国清华大学
+IP-ASN,45587,ASN China // 中国宽带通信（CBCnet）
+# IP-ASN,49195,ASN China // 上海 Sunwen Advertising 有限公司   【未广播中国大陆IP】
+# IP-ASN,49575,ASN China // Dong Ran Yang   【未广播中国大陆IP】
+# IP-ASN,49904,ASN China // Xiaodong Qi   【未广播中国大陆IP】
+IP-ASN,49953,ASN China // 宠赞（上海）网络科技有限公司
+# IP-ASN,50922,ASN China // SHI Li Li   【未广播中国大陆IP】
+IP-ASN,55439,ASN China // 互联网系统联盟 （中国北京）
+IP-ASN,55461,ASN China // 北京日升科技有限公司
+IP-ASN,55468,ASN China // 中国国际广播电台
+# IP-ASN,55515,ASN China // GOIP-AULA 【未广播中国大陆IP】
+IP-ASN,55641,ASN China // 北京市昌平区
+IP-ASN,55786,ASN China // 肇嘉浜路1065-A
+IP-ASN,55826,ASN China // 天津大学 IPv6 Campus Network
+IP-ASN,55956,ASN China // 麦格纳汽车技术服务（上海）有限公司
+IP-ASN,55958,ASN China // Intel China Ltd.
+IP-ASN,55960,ASN China // 北京光环新旺数码
+IP-ASN,55962,ASN China // 北京 Kuaishou Technology 有限公司
+IP-ASN,55966,ASN China // 邮政储蓄银行
+IP-ASN,55967,ASN China // 北京百度网通科技有限公司
+IP-ASN,55971,ASN China // 中国社会科学院
+IP-ASN,55973,ASN China // APNIC ASN Block
+IP-ASN,55976,ASN China // 北京 DxConsole Technology有限公司
+IP-ASN,55977,ASN China // 浙江瓦苏广播电视网络有限公司
+IP-ASN,55982,ASN China // 长虹IT信息产品有限公司
+IP-ASN,55990,ASN China // 华为云服务数据中心
+IP-ASN,55991,ASN China // 
+IP-ASN,55992,ASN China // 北京奇湖科技有限公司
+IP-ASN,55994,ASN China // 上海AnchNet Tec，Inc。
+IP-ASN,55996,ASN China // CYPRESS TELECOM（CHINA）LIMITED
+IP-ASN,55998,ASN China // CNLink网络科技有限公司
+IP-ASN,56000,ASN China // 康宝莱（中国）保健品有限公司
+IP-ASN,56001,ASN China // 上海晨毅网络科技有限公司
+IP-ASN,56002,ASN China // 北京海洋通信与导航公司
+IP-ASN,56003,ASN China // 北京世纪联盟网络科技有限公司
+IP-ASN,56004,ASN China // Information Center of 上海 Municipal Education Commission
+IP-ASN,56005,ASN China // 郑州法斯特科技有限公司
+IP-ASN,56006,ASN China // 上海 Pudong Development Bank 有限公司.
+IP-ASN,56011,ASN China // UNICLOUD TECH 有限公司.
+IP-ASN,56012,ASN China // LGNET中国
+IP-ASN,56013,ASN China // 三星SDS中国
+IP-ASN,56015,ASN China // 中国体育彩票科技发展有限公司
+IP-ASN,56019,ASN China // 北京舒居佳科技有限公司
+IP-ASN,56040,ASN China // 中国移动通信公司
+IP-ASN,56041,ASN China // 中国移动通信公司
+IP-ASN,56042,ASN China // 中国移动通信公司
+IP-ASN,56044,ASN China // 中国移动通信公司
+IP-ASN,56046,ASN China // 中国移动通信公司
+IP-ASN,56047,ASN China // 中国移动通信公司
+IP-ASN,56048,ASN China // 中国移动通信公司
+IP-ASN,56282,ASN China // 北京互联网港科技有限公司
+IP-ASN,56292,ASN China // 北京 Sanxin Shidai 有限公司
+IP-ASN,58251,ASN China // 北京 Kouding Technology 有限公司
+IP-ASN,58336,ASN China // Chengde TsingYao 网络科技Service 有限公司
+IP-ASN,58416,ASN China // 佛山市四海网络科技有限公司
+IP-ASN,58448,ASN China // CONAC（中国组织名称管理中心）
+IP-ASN,58461,ASN China // 富春路288号
+IP-ASN,58466,ASN China // CHINANET 广东省网络
+IP-ASN,58517,ASN China // 中国电信
+IP-ASN,58518,ASN China // 中国电信
+IP-ASN,58519,ASN China // 云计算公司
+IP-ASN,58520,ASN China // NANTON
+IP-ASN,58536,ASN China // CONAC（中国组织名称管理中心）
+IP-ASN,58539,ASN China // 中国电信 Changsha
+IP-ASN,58540,ASN China // 株洲
+IP-ASN,58541,ASN China // 湘潭
+IP-ASN,58542,ASN China // 岳阳
+IP-ASN,58543,ASN China // 广东省
+IP-ASN,58563,ASN China // CHINANET 湖北省网络
+IP-ASN,58571,ASN China // CHINANET 广东省佛山网
+IP-ASN,58593,ASN China // 上海蓝云科技有限公司
+IP-ASN,58772,ASN China // CHINANET 福建省 福州 IDC network
+IP-ASN,58777,ASN China // CHINATELECOM Cybersecurity Tech
+IP-ASN,58811,ASN China // CONAC（中国组织名称管理中心）
+IP-ASN,58828,ASN China // 广东 RURAL CREDIT UNION
+IP-ASN,58829,ASN China // 森林永恒传播技术有限公司
+IP-ASN,58834,ASN China // 广东电缆有限公司
+IP-ASN,58842,ASN China // 北京 Sheng Hexuan Culture Communication 有限公司
+IP-ASN,58844,ASN China // 广东奥菲数据科技有限公司
+IP-ASN,58850,ASN China // 彭博财务信息（北京）有限公司
+IP-ASN,58851,ASN China // Priority of Fashion(北京)信息科技有限公司
+IP-ASN,58852,ASN China // 贵州 provincial 广电 information Network Inc
+IP-ASN,58854,ASN China // 厦门艾雅网络科技有限公司
+IP-ASN,58859,ASN China // 深圳 WSUNet Technology 有限公司
+IP-ASN,58862,ASN China // 微软（中国）有限公司
+IP-ASN,58863,ASN China // hijingshan District, 北京 to reunite the property the second floor
+IP-ASN,58866,ASN China // 中国金融认证局
+IP-ASN,58879,ASN China // 上海安昌网络安全技术有限公司
+IP-ASN,58962,ASN China // 四川世纪立新财务管理咨询有限公司
+IP-ASN,58998,ASN China // 北京 Internet Harbor Technology 有限公司
+IP-ASN,59000,ASN China // Grande Arche Technologies（上海），有限公司.
+IP-ASN,59003,ASN China // 天津 B&T broadband 网络科技有限公司
+IP-ASN,59008,ASN China // 北京 flash newsletter cas telecommunication
+IP-ASN,59009,ASN China // 青岛旺信电讯有限公司
+IP-ASN,59010,ASN China // 联合网络信息服务有限公司
+IP-ASN,59011,ASN China // 北京云林网络科技有限公司
+IP-ASN,59012,ASN China // 中粮储备集团有限公司
+IP-ASN,59019,ASN China // 北京金山云互联科技有限公司
+IP-ASN,59022,ASN China // 昆明广播电视网络有限公司
+IP-ASN,59023,ASN China // Forest Eternal 通信技术有限公司
+IP-ASN,59025,ASN China // 北京 Sankuai Technology 有限公司.
+IP-ASN,59029,ASN China // People.Cn 有限公司
+IP-ASN,59033,ASN China // 艾森科技（上海）有限公司
+IP-ASN,59034,ASN China // 北京希望网络科技有限公司
+IP-ASN,59037,ASN China // 国家计算机网络与信息
+IP-ASN,59043,ASN China // 广州兰东信息技术有限公司
+IP-ASN,59045,ASN China // APNIC ASN Block
+IP-ASN,59048,ASN China // 北京云时代科技有限公司
+IP-ASN,59049,ASN China // 沃尔玛（中国）投资有限公司
+IP-ASN,59050,ASN China // 北京云方舟科技有限公司
+IP-ASN,59056,ASN China // 上海圆通科技有限公司
+IP-ASN,59057,ASN China // 北京 yong xin chang lian 科技有限公司
+IP-ASN,59065,ASN China // 贝宝网络信息服务（上海）有限公司
+IP-ASN,59067,ASN China // 微软移动联盟互联网服务有限公司
+IP-ASN,59068,ASN China // 上海 Pudong Development Bank 有限公司
+IP-ASN,59070,ASN China // 成都 Zhongli Data Technology 有限公司
+IP-ASN,59072,ASN China // 深圳 ESIN Technology 有限公司
+IP-ASN,59073,ASN China // 中国银行股份有限公司
+IP-ASN,59074,ASN China // 泰康保险集团有限公司
+IP-ASN,59077,ASN China // 上海UCloud信息技术有限公司
+IP-ASN,59078,ASN China // 云能科技公司
+IP-ASN,59080,ASN China // 北京 HuaxiaYakue 网络科技有限公司
+IP-ASN,59081,ASN China // 上海远思网络信息服务有限公司
+IP-ASN,59083,ASN China // 上海宽辉科技有限公司
+IP-ASN,59089,ASN China // 18号建筑科技大学
+IP-ASN,59201,ASN China // 北京大学
+IP-ASN,59265,ASN China // 中国电信中国下一代互联网
+# IP-ASN,60666,ASN China // 北京 Chuangzhijie Technology 有限公司【未广播中国大陆IP】
+IP-ASN,63531,ASN China // 北京 BAIWU Technology 有限公司
+IP-ASN,63534,ASN China // 深圳春秋云集团
+IP-ASN,63535,ASN China // 成都万达电子信息技术有限公司
+IP-ASN,63540,ASN China // 山东云梳文化有限公司
+IP-ASN,63541,ASN China // 北京蓝天科技有限公司
+IP-ASN,63545,ASN China // 北京迅捷云技术有限公司
+IP-ASN,63548,ASN China // 联诺（北京）有限公司
+IP-ASN,63549,ASN China // 辽宁图隆科技有限公司
+IP-ASN,63554,ASN China // 九鹏网络有限公司
+IP-ASN,63555,ASN China // 北京北龙云海网络数据技术有限公司
+IP-ASN,63561,ASN China // 中国电子科技网络安全有限公司
+IP-ASN,63564,ASN China // 贵州白山云科技有限公司
+IP-ASN,63565,ASN China // 北京 lian guang tong 网络科技有限公司
+IP-ASN,63570,ASN China // APNIC ASN Block
+IP-ASN,63571,ASN China // APNIC ASN Block
+IP-ASN,63580,ASN China // 中国诺华生物医学研究有限公司
+IP-ASN,63581,ASN China // 广西广播电视信息网络有限公司
+IP-ASN,63582,ASN China // 中国电信研究院
+IP-ASN,63583,ASN China // 中国电信研究院
+IP-ASN,63590,ASN China // 河北 Broadcasting&TV Network
+IP-ASN,63593,ASN China // 广东 HeyTap Technology 有限公司
+IP-ASN,63598,ASN China // 河北 Kun Time 网络科技有限公司.
+IP-ASN,63603,ASN China // 北京HYCT网络有限公司
+IP-ASN,63612,ASN China // 深圳前海鸟云计算有限公司
+IP-ASN,63614,ASN China // A4, 5th Floor, Tower C, Triumph Plaza, Unit A, No 143,
+IP-ASN,63615,ASN China // 通用（中国）有限公司
+IP-ASN,63617,ASN China // 麦肯锡咨询公司上海
+IP-ASN,63619,ASN China // 北京 Sankuai 云计算有限公司
+IP-ASN,63620,ASN China // 深圳市华博科技发展有限公司
+IP-ASN,63621,ASN China // 宁夏广播电视网络有限公司
+IP-ASN,63629,ASN China // 北京汽车信息科技有限公司
+IP-ASN,63630,ASN China // 广州 Power 通信网络有限公司
+IP-ASN,63631,ASN China // 广东云基科技有限公司
+IP-ASN,63634,ASN China // APNIC ASN Block
+IP-ASN,63641,ASN China // 兆丰华帝信息咨询有限公司
+IP-ASN,63646,ASN China // 北京小巨科技有限公司
+IP-ASN,63648,ASN China // 北京小巨科技有限公司
+IP-ASN,63654,ASN China // 北京 NETEAST TECHNOLOGIES 有限公司
+IP-ASN,63655,ASN China // Huawei Technologies 有限公司
+IP-ASN,63663,ASN China // 北京 YunHaiHuLian 科学技术有限公司
+IP-ASN,63673,ASN China // 深圳市平安通讯科技有限公司
+IP-ASN,63677,ASN China // 江苏云永信息技术有限公司
+IP-ASN,63678,ASN China // 江苏云永信息技术有限公司
+IP-ASN,63679,ASN China // 江苏云联信息技术有限公司
+IP-ASN,63689,ASN China // Esun Technology(上海) 有限公司
+IP-ASN,63690,ASN China // China Dragon Telecom 有限公司
+IP-ASN,63691,ASN China // 北京智慧网络科技有限公司
+IP-ASN,63695,ASN China // WeiYi 网络科技有限公司
+IP-ASN,63696,ASN China // China Securities 有限公司
+IP-ASN,63697,ASN China // China Securities 有限公司
+IP-ASN,63701,ASN China // Jishi Media 有限公司
+IP-ASN,63704,ASN China // 贵州 provincial 广电 information Network Inc
+IP-ASN,63705,ASN China // 南京安来新西同心吉树佑县公司
+IP-ASN,63708,ASN China // 广东 LITONG 网络科技Limited
+IP-ASN,63711,ASN China // 中国铁通电讯公司
+IP-ASN,63722,ASN China // Hodo Telecom 有限公司。
+IP-ASN,63724,ASN China // APNIC ASN Block
+IP-ASN,63727,ASN China // 华为
+IP-ASN,63835,ASN China // 万宝大道293号
+IP-ASN,63838,ASN China // 衡阳
+# IP-ASN,64021,ASN China // Network-Transit
+# IP-ASN,131134,ASN China // APNIC 32位ASN Block
+IP-ASN,131137,ASN China // Inspur Software Group 有限公司
+IP-ASN,131171,ASN China // Everlife Networks
+IP-ASN,131285,ASN China // CHINATELECOM 湖北省 Shengji5G网络
+IP-ASN,131325,ASN China // 昆明
+# IP-ASN,131326,ASN China // 2308 Yinlaige # 22 Jinsui Road【未广播中国大陆IP】
+IP-ASN,131477,ASN China // 上海华娟信息技术有限公司
+IP-ASN,131482,ASN China // 杭州 Aron Teconology 有限公司
+IP-ASN,131484,ASN China // Ubisoft 上海
+IP-ASN,131486,ASN China // 北京京东360度电子商务有限公司
+IP-ASN,131495,ASN China // 北京 nine cloud infinite 网络科技有限公司
+IP-ASN,131497,ASN China // 大众（中国）投资有限公司
+IP-ASN,131503,ASN China // 中国航空技术进出口总公司
+IP-ASN,131506,ASN China // 黑龙江广播电视网络有限公司
+IP-ASN,131512,ASN China // 北京 Xinchi Technology 有限公司
+IP-ASN,131519,ASN China // 海信
+IP-ASN,131521,ASN China // Haitong Securities 有限公司
+IP-ASN,131522,ASN China // 北京 Yovole 云计算Technology 有限公司
+IP-ASN,131524,ASN China // 上海普捷通讯科技有限公司
+IP-ASN,131525,ASN China // 南京 Tuniu Technology 有限公司.
+IP-ASN,131535,ASN China // 北京博盛拓网络科技有限公司
+IP-ASN,131536,ASN China // 上海 Great Wall Broadband Network Service 有限公司
+IP-ASN,131541,ASN China // 
+IP-ASN,131542,ASN China // 
+IP-ASN,131558,ASN China // Wal-mart (China) Investment 有限公司
+IP-ASN,131562,ASN China // APNIC 32位ASN Block
+IP-ASN,131567,ASN China // Fnetlink International 有限公司
+IP-ASN,131574,ASN China // 北京 Haiyu Technology 有限公司..
+IP-ASN,131577,ASN China // APNIC 32位ASN Block
+IP-ASN,131578,ASN China // 北京外国语大学
+IP-ASN,132019,ASN China // Earth 网络科技(上海) 有限公司
+IP-ASN,132147,ASN China // 蜀马路3号
+IP-ASN,132153,ASN China // 蜀马路3号
+IP-ASN,132203,ASN China // 科技中医大道腾讯大厦
+IP-ASN,132225,ASN China // 中国电信
+IP-ASN,132352,ASN China // meshlab.net – MEGATRANS
+IP-ASN,132437,ASN China // 安顺路10号
+IP-ASN,132510,ASN China // IDC山西中国移动通信公司
+IP-ASN,132525,ASN China // 黑龙江移动通信有限公司
+IP-ASN,132553,ASN China // 中国石油大学（华东）
+IP-ASN,132623,ASN China // Tsukeru Networks
+IP-ASN,132698,ASN China // 深圳 Balian 网络科技有限公司
+IP-ASN,132719,ASN China // 成都西维数码科技有限公司
+IP-ASN,132833,ASN China // 中国电信
+IP-ASN,132886,ASN China // 聊城大学
+IP-ASN,133111,ASN China // CERNET 内容分发网络（CCDN）
+IP-ASN,133118,ASN China // 中国联通IP网络
+IP-ASN,133119,ASN China // 中国联通IP网络
+IP-ASN,133194,ASN China // 连接集线器科技（上海）有限公司
+IP-ASN,133219,ASN China // NewMedia Express Pte Ltd.
+IP-ASN,133365,ASN China // CordCloud LTD
+IP-ASN,133465,ASN China // 昆山杜克大学
+IP-ASN,133475,ASN China // 纽约大学ASN
+IP-ASN,133492,ASN China // 张爱云
+IP-ASN,133512,ASN China // CERNET 新技术有限公司
+IP-ASN,133513,ASN China // CERNET 新技术有限公司
+IP-ASN,133515,ASN China // CERNET 新技术有限公司
+IP-ASN,133517,ASN China // CERNET 新技术有限公司
+IP-ASN,133518,ASN China // CERNET 新技术有限公司
+IP-ASN,133555,ASN China // DOORPOST Limited
+IP-ASN,133731,ASN China // 鑫源互连（香港）有限公司
+IP-ASN,133774,ASN China // 福州
+IP-ASN,133775,ASN China // 厦门
+IP-ASN,133776,ASN China // 泉州
+IP-ASN,133846,ASN China // IMLONGHAO
+IP-ASN,133865,ASN China // 北京IQIYI科技有限公司
+IP-ASN,133952,ASN China // 郑州龙陵科技有限公司
+IP-ASN,134098,ASN China // Licson互联网服务
+IP-ASN,134169,ASN China // CERNEWTECH (北京) 有限公司
+IP-ASN,134238,ASN China // CHINANET 江城省IDC网络
+# IP-ASN,134413,ASN China // KMNIX LLC
+IP-ASN,134417,ASN China // 南京
+IP-ASN,134418,ASN China // 陕西省
+IP-ASN,134419,ASN China // 北海
+IP-ASN,134420,ASN China // 重庆电信
+IP-ASN,134425,ASN China // CHINANET 安徽省合肥市祁门路IDC网络
+IP-ASN,134477,ASN China // 绍兴 Junruiyunjisuan 有限公司
+# IP-ASN,134478,ASN China // JSMSR 【未广播中国大陆IP】
+IP-ASN,134488,ASN China // CTJ's Global Network
+IP-ASN,134542,ASN China // 中国联通IP网络
+IP-ASN,134543,ASN China // 中国联通广东IP网络
+IP-ASN,134578,ASN China // UNION FU WAH DIGITAL TECHNOLOGY LIMITED
+IP-ASN,134602,ASN China // shuiM数据交换中心
+IP-ASN,134708,ASN China // TLY NETWORKS S.A.
+IP-ASN,134755,ASN China // CHINANET 四川省成都市MAN网络
+IP-ASN,134756,ASN China // CHINANET 江苏省南京市IDC网络
+IP-ASN,134760,ASN China // CHINANET 河北省石家庄市IDC网络
+IP-ASN,134761,ASN China // CHINANET 四川省成都市MAN网络
+IP-ASN,134762,ASN China // CHINANET 四川省成都市MAN网络
+IP-ASN,134763,ASN China // CHINANET 广东省网络
+IP-ASN,134764,ASN China // CHINANET 广东省网络
+IP-ASN,134765,ASN China // CHINANET 四川省成都市MAN网络
+IP-ASN,134766,ASN China // CHINANET 四川省成都市MAN网络
+IP-ASN,134768,ASN China // CHINANET 四川省成都市MAN网络
+IP-ASN,134769,ASN China // CHINANET 江苏省常州市IDC网络
+IP-ASN,134770,ASN China // CHINANET 江苏省苏州市太湖IDC网络
+IP-ASN,134771,ASN China // CHINANET 四川省成都市MAN网络
+IP-ASN,134772,ASN China // CHINANET 广东省东莞市MAN网络
+IP-ASN,134773,ASN China // CHINANET 广东省广州市MAN网络
+IP-ASN,134774,ASN China // CHINANET 广东省深圳市MAN网络
+IP-ASN,134775,ASN China // CHINANET 广东省珠三角MAN网络
+IP-ASN,134810,ASN China // 中国移动集团吉林通信公司
+IP-ASN,134981,ASN China // 优步公司
+IP-ASN,134993,ASN China // iLemonrain Network
+IP-ASN,135006,ASN China // VERI2
+IP-ASN,135028,ASN China // Malindex网络
+IP-ASN,135054,ASN China // 中国移动集团海南有限公司
+IP-ASN,135061,ASN China // 中国联通广东IP网络
+IP-ASN,135089,ASN China // 中国电信
+IP-ASN,135120,ASN China // Sin Zhang Ching Industry Sdn. Bhd.
+IP-ASN,135357,ASN China // 深圳凯瑟恒科技信息有限公司
+IP-ASN,135363,ASN China // 北京敦煌和光信息技术有限公司
+IP-ASN,135364,ASN China // 四川 Suike 信息科技有限公司
+IP-ASN,135365,ASN China // 上海优祖信息技术有限公司
+IP-ASN,135629,ASN China // 宁夏西云数据科技有限公司
+IP-ASN,135646,ASN China // Luginbash AS
+IP-ASN,135663,ASN China // 深圳 rainbow Computer Network 有限公司
+IP-ASN,135671,ASN China // RBB InfoTech
+IP-ASN,135883,ASN China // Nahe (天津) 网络科技有限公司
+IP-ASN,136146,ASN China // 北京 3389 网络科技有限公司
+IP-ASN,136160,ASN China // 北京 Shijihulian Yuntong 网络科技有限公司
+IP-ASN,136173,ASN China // Quanzhou Yuntun 网络科技有限公司
+IP-ASN,136180,ASN China // 北京 Tiantexin Tech. 有限公司
+IP-ASN,136188,ASN China // 迪庆
+IP-ASN,136189,ASN China // Opera软件技术（北京）有限公司
+IP-ASN,136190,ASN China // 大理
+IP-ASN,136191,ASN China // YICHANG, 湖北省, P.R.China.
+IP-ASN,136192,ASN China // Xiangyang, 湖北省, P.R.China.
+IP-ASN,136193,ASN China // Jingzhou, 湖北省, P.R.China.
+IP-ASN,136194,ASN China // 黄石, 湖北省, P.R.China.
+IP-ASN,136195,ASN China // 中国电信 Dehong
+IP-ASN,136197,ASN China // 文山
+IP-ASN,136198,ASN China // CHINANET 广东省 Yuexi MAN网络
+IP-ASN,136199,ASN China // CHINANET 广东省 Yuedong MAN网络
+IP-ASN,136200,ASN China // CHINANET 广东省佛山市MAN网络
+IP-ASN,136237,ASN China // 双宇通讯科技有限公司
+IP-ASN,136250,ASN China // 中山市 QiYi HuDong WangLuoKeJi Ltd
+IP-ASN,136390,ASN China // 深圳市奥特科技有限公司
+IP-ASN,136535,ASN China // Yang Mengqi
+IP-ASN,136545,ASN China // 蓝色数据中心
+IP-ASN,136559,ASN China // TYPCN全球网络
+IP-ASN,136574,ASN China // 哲业网络
+IP-ASN,136591,ASN China // MxxCloud LLC
+IP-ASN,136600,ASN China // 北京丰鸟网络科技有限公司
+IP-ASN,136758,ASN China // 深圳市世纪一号有限公司
+IP-ASN,136766,ASN China // ROBLOX (深圳) DIGITAL 科学技术有限公司
+IP-ASN,136782,ASN China // 麒麟网络
+IP-ASN,136958,ASN China // 中国联通广东IP网络
+IP-ASN,136959,ASN China // 中国联通广东IP网络
+IP-ASN,137218,ASN China // 快运信息技术有限公司
+IP-ASN,137256,ASN China // CatIO网络
+IP-ASN,137266,ASN China // CHINATELECOM 湖北省武汉5G网络
+IP-ASN,137401,ASN China // CHINATELECOM 湖北省黄石5G网络
+IP-ASN,137402,ASN China // CHINATELECOM 湖北省 Shiyan5G网络
+IP-ASN,137410,ASN China // 巴卡网络
+IP-ASN,137509,ASN China // 江门市天达网络有限公司
+IP-ASN,137539,ASN China // 中国联通
+IP-ASN,137547,ASN China // 郑州绿林科信息技术有限公司
+IP-ASN,137571,ASN China // arebz.com
+IP-ASN,137686,ASN China // 中国河南省郑州
+IP-ASN,137687,ASN China // 芜湖
+IP-ASN,137688,ASN China // CHINATELECOM Liaoning Benxi MAN
+IP-ASN,137689,ASN China // 淮南
+IP-ASN,137690,ASN China // 马鞍山
+IP-ASN,137691,ASN China // 中国黑龙江省
+IP-ASN,137692,ASN China // 铜陵
+IP-ASN,137693,ASN China // 安庆
+IP-ASN,137694,ASN China // CHINATELECOM 新疆克州MAN网络
+IP-ASN,137695,ASN China // CHINATELECOM 新疆乌鲁木齐MAN网络
+IP-ASN,137697,ASN China // CHINATELECOM 江苏扬州IDC网络
+IP-ASN,137698,ASN China // 中国黑龙江省哈尔滨
+IP-ASN,137699,ASN China // CHINATELECOM 江苏宿迁IDC网络
+IP-ASN,137702,ASN China // 池州
+IP-ASN,137710,ASN China // APNIC ASN Block
+IP-ASN,137711,ASN China // 上海 GongQi 网络科技有限公司
+IP-ASN,137715,ASN China // GTJA证券
+IP-ASN,137718,ASN China // 北京 Volcano Engine Technology 有限公司
+IP-ASN,137719,ASN China // 青岛 Weidong大数据Technology 有限公司
+IP-ASN,137726,ASN China // 中国石油化工股份有限公司
+IP-ASN,137735,ASN China // APNIC ASN Block
+IP-ASN,137745,ASN China // 
+IP-ASN,137746,ASN China // 
+IP-ASN,137747,ASN China // 北京 Chijun Network Advisory Service 有限公司
+IP-ASN,137751,ASN China // 西安 Qianxi 网络科技有限公司
+IP-ASN,137753,ASN China // 北京 Jingdong Shangke信息科技有限公司
+IP-ASN,137758,ASN China // 中国工商银行股份有限公司
+IP-ASN,137759,ASN China // APNIC ASN Block
+IP-ASN,137761,ASN China // APNIC ASN Block
+IP-ASN,137762,ASN China // Guosen youyun software system 有限公司
+IP-ASN,137764,ASN China // 北京卓越科技有限公司
+IP-ASN,137767,ASN China // 上海 General Motor 有限公司
+IP-ASN,137782,ASN China // STATE GRID 上海 MUNICIPAL ELECTRIC POWER COMPANY
+IP-ASN,137784,ASN China // CACloud Services (上海) 有限公司
+IP-ASN,137785,ASN China // APNIC ASN Block
+IP-ASN,137787,ASN China // 北京 Jingdong Shangke信息科技有限公司
+IP-ASN,137788,ASN China // Shanxi Beacon Cloudscape
+IP-ASN,137791,ASN China // 广州 enjoyVC 通讯技术有限公司
+IP-ASN,137794,ASN China // Dahe tianchi (北京) network 有限公司
+IP-ASN,137798,ASN China // 5/F, Zhujiang Yide Building, 362 Dongfeng Middle Road, Yuexiu District,
+IP-ASN,137799,ASN China // 中国广发银行
+IP-ASN,137801,ASN China // AIPO Cloud (贵州) Technology 有限公司
+IP-ASN,137804,ASN China // China Internet Exchange
+IP-ASN,137805,ASN China // 北京京金融科技控股有限公司
+IP-ASN,137806,ASN China // WMGS咨询（深圳）有限公司
+# IP-ASN,137813,ASN China // LeanCloud
+IP-ASN,137835,ASN China // Nathaniel Chan Jie Le
+IP-ASN,137882,ASN China // 华娟企业网
+IP-ASN,137897,ASN China // ELIX网络
+# IP-ASN,137936,ASN China // Nyatwork
+# IP-ASN,137946,ASN China // 厦门优田科技有限公司
+IP-ASN,138029,ASN China // 深圳市胡联先锋科技有限公司
+# IP-ASN,138166,ASN China // 刘璐瑶
+IP-ASN,138169,ASN China // 中国电信
+IP-ASN,138182,ASN China // 河北师范大学 (CERNET 2 regional IX)
+# IP-ASN,138211,ASN China // MoeQing网络服务
+# IP-ASN,138333,ASN China // Hingcloud
+IP-ASN,138369,ASN China // 深圳大学 (CERNET 2 regional IX)
+IP-ASN,138370,ASN China // 南昌大学 (CERNET 2 regional IX)
+IP-ASN,138371,ASN China // 中国海洋大学 (CERNET 2 regional IX)
+IP-ASN,138373,ASN China // 福州大学 (CERNET 2 regional IX)
+IP-ASN,138374,ASN China // 太原大学 (CERNET 2 regional IX)
+IP-ASN,138375,ASN China // 内蒙古大学 (CERNET 2 regional IX)
+IP-ASN,138376,ASN China // 宁夏大学 (CERNET 2 regional IX)
+IP-ASN,138377,ASN China // 青海师范大学 (CERNET 2 regional IX)
+IP-ASN,138378,ASN China // 云南大学 (CERNET 2 regional IX)
+IP-ASN,138381,ASN China // 贵州大学 (CERNET 2 regional IX)
+IP-ASN,138387,ASN China // CHINATELECOM Shaanxi省 西安5G网络
+IP-ASN,138393,ASN China // 广西大学 (CERNET 2 regional IX)
+# IP-ASN,138405,ASN China // Lee Kinshing
+IP-ASN,138407,ASN China // 贵州移动通信有限公司互联网数据中心
+IP-ASN,138409,ASN China // CHINATELECOM Shaanxi省 Tongchuan5G网络
+IP-ASN,138421,ASN China // 中国联通
+IP-ASN,138436,ASN China // CHINATELECOM Shaanxi省 Baoji5G网络
+IP-ASN,138438,ASN China // 广西师范大学 (CERNET 2 regional IX)
+IP-ASN,138440,ASN China // 海南师范大学 (CERNET 2 regional IX)
+IP-ASN,138441,ASN China // 新疆大学 (CERNET 2 regional IX)
+IP-ASN,138442,ASN China // 西藏大学 (CERNET 2 regional IX)
+IP-ASN,138513,ASN China // CHINATELECOM Shaanxi省 Weinan5G网络
+IP-ASN,138514,ASN China // CHINATELECOM Shaanxi省 Xianyang5G网络
+IP-ASN,138517,ASN China // Poema Network
+IP-ASN,138538,ASN China // 宁波南边拓罗新溪吉树有限公司
+# IP-ASN,138542,ASN China // 云梦有限公司
+IP-ASN,138545,ASN China // Zero Cirrus 云计算(上海) 有限公司
+IP-ASN,138570,ASN China // 中国电信
+IP-ASN,138597,ASN China // CHINATELECOM Shaanxi省 Hanzhong5G网络
+IP-ASN,138635,ASN China // CHINATELECOM Shaanxi省 Ankang5G网络
+IP-ASN,138641,ASN China // CHINATELECOM Shaanxi省 Yulin5G网络
+# IP-ASN,138667,ASN China // 小狼连接
+IP-ASN,138679,ASN China // CHINATELECOM Shaanxi省 Yanan5G网络
+IP-ASN,138914,ASN China // 深圳华洋科技有限公司
+IP-ASN,138949,ASN China // 江苏 Kunshan IDC
+IP-ASN,138950,ASN China // 江苏 Wuxi International IDC network
+# IP-ASN,138979,ASN China // 广州 Shujie Suyuan Culture Communication 有限公司
+IP-ASN,138982,ASN China // 湖北 江西a IDC
+IP-ASN,138990,ASN China // WooMai Network
+IP-ASN,138991,ASN China // 中国电信
+IP-ASN,139007,ASN China // UNICOM 内蒙古省网络
+IP-ASN,139018,ASN China // 河南 Luoyang IDC
+IP-ASN,139019,ASN China // 河南 Xinxiang MAN
+IP-ASN,139023,ASN China // 武汉LSHIY网络科技有限公司
+# IP-ASN,139057,ASN China // Baishan Cloud
+IP-ASN,139061,ASN China // Societe Generale (China) Limited
+IP-ASN,139073,ASN China // Fantasy Sky Internet eXchange
+IP-ASN,139080,ASN China // The Internet Data Center of 四川移动通信有限公司
+IP-ASN,139090,ASN China // Wuxi Education Information Management Service Center
+IP-ASN,139091,ASN China // 上海 MBN tele通讯技术有限公司
+IP-ASN,139099,ASN China // 浙江 Geely Holding Group
+IP-ASN,139100,ASN China // BMW Brilliance Automotive Ltd.
+# IP-ASN,139108,ASN China // Beckman Coulter Commercial Enterprise(China)有限公司.
+IP-ASN,139110,ASN China // 联想移动通信Technology (北京) Ltd
+IP-ASN,139112,ASN China // 上海 Qnet Networking Technology 有限公司
+IP-ASN,139113,ASN China // 上海 Felizlink 通讯技术有限公司
+IP-ASN,139118,ASN China // 上海 Rugu Info&Tech 有限公司.
+IP-ASN,139122,ASN China // 北京 MUNICIPAL ADMINISTRATION COMMUNICATION CARD 有限公司
+IP-ASN,139133,ASN China // 广州 Digital Government Operation Center
+IP-ASN,139136,ASN China // 浙江省 NEW-TYPE INTERNET EXCHANGE POINT 有限公司
+IP-ASN,139138,ASN China // Gopay信息科技有限公司
+IP-ASN,139139,ASN China // Shenyang Agricultural大学
+IP-ASN,139141,ASN China // Yusys Financial Cloud
+IP-ASN,139148,ASN China // 中国银联有限公司
+IP-ASN,139154,ASN China // 大数据Center Of Shandong省
+# IP-ASN,139157,ASN China // Business-intelligence of Oriental Nations 有限公司
+IP-ASN,139161,ASN China // 新疆 Rural Credit Union
+IP-ASN,139172,ASN China // 杭州 Woodnn Technology 有限公司
+IP-ASN,139177,ASN China // New Oriental Education & Technology Group Ltd.
+IP-ASN,139178,ASN China // Rural Credit Banks Funds Clearing Center
+IP-ASN,139179,ASN China // China Pacific Insurance (Group) 有限公司.
+IP-ASN,139180,ASN China // Shandong eshinton 网络科技有限公司
+IP-ASN,139182,ASN China // ABC Life Insurance 有限公司
+IP-ASN,139183,ASN China // Thomson Reuters (北京) 技术开发有限公司
+IP-ASN,139188,ASN China // 中国招商银行有限公司
+IP-ASN,139189,ASN China // 北京 Yu Jia Heng Tong Communications and Information 有限公司
+IP-ASN,139201,ASN China // 江西 Jiujiang IDC
+IP-ASN,139203,ASN China // 贵州 GuiAn IDC
+IP-ASN,139216,ASN China // Htroy Network Research Limited
+IP-ASN,139220,ASN China // 四川 Chuanxn IDC
+IP-ASN,139231,ASN China // Zero
+# IP-ASN,139247,ASN China // PPPWAW Network
+# IP-ASN,139248,ASN China // LSC.MOE
+IP-ASN,139249,ASN China // ENMOE LTD.
+IP-ASN,139266,ASN China // 广州 Tiansui信息科技有限公司
+IP-ASN,139316,ASN China // 湖北省黄冈市 IDC
+IP-ASN,139317,ASN China // Ningbo Dahuamao信息科技有限公司
+IP-ASN,139328,ASN China // Haima Global Network
+IP-ASN,139462,ASN China // CHINANET 贵州 Yilong IDC
+IP-ASN,139587,ASN China // CHINATELECOM 河南省郑州市数据港IDC网络
+IP-ASN,139589,ASN China // GTDev Network
+IP-ASN,139618,ASN China // 珠海 Shi Fu Yuan Le Yu Technology Limited
+IP-ASN,139635,ASN China // 湖北 Yunwutong 网络科技有限公司
+IP-ASN,139721,ASN China // 合肥
+IP-ASN,139726,ASN China // 广东 Yunjie Communication 有限公司
+IP-ASN,139734,ASN China // XINGCHEN DATA HK 有限公司
+IP-ASN,139742,ASN China // Peddie Institute 有限公司
+IP-ASN,139743,ASN China // 深圳Shi Fang Technology 有限公司
+IP-ASN,139767,ASN China // 中国电信 Headquarters OA network
+IP-ASN,139774,ASN China // CERNET Center
+IP-ASN,139796,ASN China // JiuYao NET
+IP-ASN,139799,ASN China // 北京 Dajia Internet信息科技有限公司
+IP-ASN,139833,ASN China // Evsio0n Network Inc.
+IP-ASN,139866,ASN China // Ankang Puchuang 网络科技有限公司
+IP-ASN,139874,ASN China // Wu'an Chihong 网络科技有限公司
+IP-ASN,139887,ASN China // CHINANET Shandong Yantai IDC network
+IP-ASN,139888,ASN China // No.16 Hengcha Rd, Zhuhui, Hengyang, 湖南
+IP-ASN,139908,ASN China // Karamay Hzon 网络科技Development 有限公司
+IP-ASN,140043,ASN China // 广州 Jinggong信息科技有限公司
+IP-ASN,140053,ASN China // 中国电信
+IP-ASN,140056,ASN China // 中国电信
+IP-ASN,140061,ASN China // 青海电信
+IP-ASN,140083,ASN China // 中国电信
+IP-ASN,140105,ASN China // Shaanxi 移动通信有限公司
+IP-ASN,140219,ASN China // TENVM TECHNOLOGY LIMITED
+IP-ASN,140238,ASN China // CHINATELECOM Shaanxi省 Shangluo5G网络
+IP-ASN,140245,ASN China // CHINATELECOM 安徽省 Shengji5G网络
+IP-ASN,140246,ASN China // CHINATELECOM 安徽省 合肥5G网络
+IP-ASN,140247,ASN China // CHINATELECOM 安徽省 Wuhu5G网络
+IP-ASN,140248,ASN China // CHINATELECOM 安徽省 Anqing5G网络
+IP-ASN,140249,ASN China // CHINATELECOM 安徽省 Bengbu5G网络
+IP-ASN,140250,ASN China // CHINATELECOM 安徽省 Fuyang5G网络
+IP-ASN,140251,ASN China // CHINATELECOM 安徽省 Bozhou5G网络
+IP-ASN,140252,ASN China // CHINATELECOM 安徽省 Huaibei5G网络
+IP-ASN,140253,ASN China // CHINATELECOM 安徽省 Huainan5G网络
+IP-ASN,140254,ASN China // CHINATELECOM 安徽省 Shuzhou5G网络
+IP-ASN,140255,ASN China // CHINATELECOM 安徽省 Chuzhou5G网络
+IP-ASN,140256,ASN China // CHINATELECOM 安徽省 Liuan5G网络
+IP-ASN,140257,ASN China // CHINATELECOM 安徽省 Chizhou5G网络
+IP-ASN,140258,ASN China // CHINATELECOM 安徽省 Maanshan5G网络
+IP-ASN,140259,ASN China // CHINATELECOM 安徽省 Tongling5G网络
+IP-ASN,140260,ASN China // CHINATELECOM 安徽省 Xuancheng5G网络
+IP-ASN,140261,ASN China // CHINATELECOM 安徽省 Huangshan5G网络
+IP-ASN,140265,ASN China // CHINATELECOM 四川省 成都5G网络
+IP-ASN,140276,ASN China // CHINATELECOM 四川省 Luzhou 5G网络
+IP-ASN,140278,ASN China // CHINATELECOM 四川省 Mianyang 5G网络
+IP-ASN,140279,ASN China // CHINATELECOM 四川省 Nanchong 5G网络
+IP-ASN,140290,ASN China // CHINATELECOM 江苏省 5G CORE network
+IP-ASN,140291,ASN China // CHINATELECOM 江苏省 Nanjing5G网络
+IP-ASN,140292,ASN China // CHINATELECOM 江苏省 Suzhou5G网络
+IP-ASN,140293,ASN China // CHINATELECOM 江苏省 C杭州5G网络
+IP-ASN,140294,ASN China // CHINATELECOM 江苏省Yangzhou5G网络
+IP-ASN,140295,ASN China // CHINATELECOM 江苏省 Lianyungang5G网络
+IP-ASN,140296,ASN China // CHINATELECOM 江苏省 Wuxi5G网络
+IP-ASN,140297,ASN China // CHINATELECOM 江苏省 Xuzhou5G网络
+IP-ASN,140298,ASN China // CHINATELECOM 江苏省 Yancheng5G网络
+IP-ASN,140299,ASN China // CHINATELECOM 江苏省 Nantong5G网络
+IP-ASN,140300,ASN China // CHINATELECOM 江苏省 Suqian5G网络
+IP-ASN,140301,ASN China // CHINATELECOM 江苏省 Taizhou5G网络
+IP-ASN,140302,ASN China // CHINATELECOM 江苏省 Zhenjiang5G网络
+IP-ASN,140303,ASN China // CHINATELECOM 江苏省 Huaian5G网络
+IP-ASN,140308,ASN China // CHINATELECOM 广东省 Zhuhai5G网络
+IP-ASN,140309,ASN China // CHINATELECOM 广东省 Zhongshan5G网络
+IP-ASN,140310,ASN China // CHINATELECOM 广东省 Dongguan5G网络
+IP-ASN,140311,ASN China // CHINATELECOM 广东省 Jiangmen5G网络
+IP-ASN,140312,ASN China // CHINATELECOM 广东省 Zhanjiang5G网络
+IP-ASN,140313,ASN China // CHINATELECOM 广东省 Zhaoqing5G网络
+IP-ASN,140314,ASN China // CHINATELECOM 广东省 Shantou5G网络
+IP-ASN,140315,ASN China // CHINATELECOM 广东省 Jieyang5G网络
+IP-ASN,140316,ASN China // CHINATELECOM 广东省 Chaozhou5G网络
+IP-ASN,140317,ASN China // CHINATELECOM 广东省 Shaoguan5G网络
+IP-ASN,140318,ASN China // CHINATELECOM 广东省 Heyuan5G网络
+IP-ASN,140319,ASN China // CHINATELECOM 广东省 Qingyuan5G网络
+IP-ASN,140320,ASN China // CHINATELECOM 广东省 Shanwei5G网络
+IP-ASN,140328,ASN China // CHINATELECOM 福建省 Shengji5G网络
+IP-ASN,140329,ASN China // CHINATELECOM 福建省 福州5G网络
+IP-ASN,140330,ASN China // CHINATELECOM 福建省 Xiamen5G网络
+IP-ASN,140331,ASN China // CHINATELECOM 福建省 NINGDE5G网络
+IP-ASN,140332,ASN China // CHINATELECOM 福建省 Putian5G网络
+IP-ASN,140333,ASN China // CHINATELECOM 福建省 Quanzhou5G网络
+IP-ASN,140334,ASN China // CHINATELECOM 福建省 Zhangzhou5G网络
+IP-ASN,140335,ASN China // CHINATELECOM 福建省 Longyan5G网络
+IP-ASN,140336,ASN China // CHINATELECOM 福建省 Sanming5G网络
+IP-ASN,140337,ASN China // CHINATELECOM 福建省 Nanping5G网络
+IP-ASN,140345,ASN China // CHINATELECOM 云南省 Shengji5G网络
+IP-ASN,140346,ASN China // CHINATELECOM 云南省 Kunming5G网络
+IP-ASN,140347,ASN China // CHINATELECOM 云南省 Xishuangbanna5G网络
+IP-ASN,140348,ASN China // CHINATELECOM 云南省 Baoshan5G网络
+IP-ASN,140349,ASN China // CHINATELECOM 云南省 Chuxiong5G网络
+IP-ASN,140350,ASN China // CHINATELECOM 云南省 Dali5G网络
+IP-ASN,140351,ASN China // CHINATELECOM 云南省 Dehong5G网络
+IP-ASN,140352,ASN China // CHINATELECOM 云南省 Diqing5G网络
+IP-ASN,140353,ASN China // CHINATELECOM 云南省 Honghe5G网络
+IP-ASN,140354,ASN China // CHINATELECOM 云南省 Lijiang5G网络
+IP-ASN,140355,ASN China // CHINATELECOM 云南省 Lincang5G网络
+IP-ASN,140356,ASN China // CHINATELECOM 云南省 Nujiang5G网络
+IP-ASN,140357,ASN China // CHINATELECOM 云南省 Puer5G网络
+IP-ASN,140358,ASN China // CHINATELECOM 云南省 Qujing5G网络
+IP-ASN,140359,ASN China // CHINATELECOM 云南省 Wenshan5G网络
+IP-ASN,140360,ASN China // CHINATELECOM 云南省 Yuxi5G网络
+IP-ASN,140361,ASN China // CHINATELECOM 云南省 Zhaotong5G网络
+IP-ASN,140364,ASN China // CHINATELECOM 湖南省 5G Core Network5G网络
+IP-ASN,140365,ASN China // CHINATELECOM 湖南省 Changsha5G网络
+IP-ASN,140366,ASN China // CHINATELECOM 湖南省 Hengyang5G网络
+IP-ASN,140367,ASN China // CHINATELECOM 湖南省 Yueyang5G网络
+IP-ASN,140368,ASN China // CHINATELECOM 湖南省 Zhuzhou5G网络
+IP-ASN,140369,ASN China // CHINATELECOM 湖南省 Xiangtan5G网络
+IP-ASN,140370,ASN China // CHINATELECOM 湖南省 Chenzhou5G网络
+IP-ASN,140371,ASN China // CHINATELECOM 湖南省 Yongzhou5G网络
+IP-ASN,140372,ASN China // CHINATELECOM 湖南省 Yiyang5G网络
+IP-ASN,140373,ASN China // CHINATELECOM 湖南省 Changde5G网络
+IP-ASN,140374,ASN China // CHINATELECOM 湖南省 Zhangjiajie5G网络
+IP-ASN,140375,ASN China // CHINATELECOM 湖南省 Xiangxi5G网络
+IP-ASN,140376,ASN China // CHINATELECOM 湖南省 Huaihua5G网络
+IP-ASN,140377,ASN China // CHINATELECOM 湖南省 Shaoyang5G网络
+IP-ASN,140378,ASN China // CHINATELECOM 湖南省 Loudi5G网络
+IP-ASN,140483,ASN China // CHINATELECOM 浙江省 Shengji5G网络
+IP-ASN,140484,ASN China // CHINATELECOM 浙江省 Shengji EPCCE network
+IP-ASN,140485,ASN China // CHINATELECOM 浙江省 杭州 5GC network
+IP-ASN,140486,ASN China // CHINATELECOM 浙江省 JINHUA 5GC network
+IP-ASN,140487,ASN China // CHINATELECOM 浙江省 杭州5G网络
+IP-ASN,140488,ASN China // CHINATELECOM 浙江省 NINGBO5G网络
+IP-ASN,140489,ASN China // CHINATELECOM 浙江省 WENZHOU5G网络
+IP-ASN,140490,ASN China // CHINATELECOM 浙江省 JINHUA5G网络
+IP-ASN,140491,ASN China // CHINATELECOM 浙江省 TAIZHOU5G网络
+IP-ASN,140492,ASN China // CHINATELECOM 浙江省 绍兴5G网络
+IP-ASN,140493,ASN China // CHINATELECOM 浙江省 JIAXING5G网络
+IP-ASN,140494,ASN China // CHINATELECOM 浙江省 HUZHOU5G网络
+IP-ASN,140495,ASN China // CHINATELECOM 浙江省 QUZHOU5G网络
+IP-ASN,140496,ASN China // CHINATELECOM 浙江省 LISHUI5G网络
+IP-ASN,140497,ASN China // CHINATELECOM 浙江省 ZHOUSHAN5G网络
+IP-ASN,140498,ASN China // RCold Network
+IP-ASN,140506,ASN China // ZR Global Network
+IP-ASN,140508,ASN China // CHINATELECOM 广西省 Shengji5G网络
+IP-ASN,140509,ASN China // CHINATELECOM 广西省 NanNing5G网络
+IP-ASN,140510,ASN China // CHINATELECOM 广西省 LiuZhou5G网络
+IP-ASN,140511,ASN China // CHINATELECOM 广西省 GuiLin5G网络
+IP-ASN,140512,ASN China // CHINATELECOM 广西省 YuLin5G网络
+IP-ASN,140513,ASN China // CHINATELECOM 广西省 BaiSe5G网络
+IP-ASN,140514,ASN China // CHINATELECOM 广西省 GuiGang5G网络
+IP-ASN,140515,ASN China // CHINATELECOM 广西省 HeChi5G网络
+IP-ASN,140516,ASN China // CHINATELECOM 广西省 QinZhou5G网络
+IP-ASN,140517,ASN China // CHINATELECOM 广西省 WuZhou5G网络
+IP-ASN,140518,ASN China // CHINATELECOM 广西省 BeiHai5G网络
+IP-ASN,140519,ASN China // CHINATELECOM 广西省 ChongZuo5G网络
+IP-ASN,140520,ASN China // CHINATELECOM 广西省 LaiBin5G网络
+IP-ASN,140521,ASN China // CHINATELECOM 广西省 HeZhou5G网络
+IP-ASN,140522,ASN China // CHINATELECOM 广西省 FangChengGang5G网络
+IP-ASN,140527,ASN China // 中国电信
+IP-ASN,140528,ASN China // CHINATELECOM 湖北省 宜昌5G网络
+IP-ASN,140529,ASN China // CHINATELECOM 湖北省 Xiangyang5G网络
+IP-ASN,140530,ASN China // CHINATELECOM 湖北省 Ezhou5G网络
+IP-ASN,140531,ASN China // CHINATELECOM 湖北省 Jingmen5G网络
+IP-ASN,140532,ASN China // CHINATELECOM 湖北省 Xiaogan5G网络
+IP-ASN,140533,ASN China // CHINATELECOM 湖北省 Jingzhou5G网络
+IP-ASN,140534,ASN China // CHINATELECOM 湖北省 Huanggang5G网络
+IP-ASN,140535,ASN China // CHINATELECOM 湖北省 Xianning5G网络
+IP-ASN,140536,ASN China // CHINATELECOM 湖北省 Suizhou5G网络
+IP-ASN,140537,ASN China // CHINATELECOM 湖北省 Enshi5G网络
+IP-ASN,140538,ASN China // CHINATELECOM 湖北省 Xiantao5G网络
+IP-ASN,140553,ASN China // CHINATELECOM 新疆省 Shengji5G网络
+IP-ASN,140596,ASN China // 深圳 TUTENG NETWORK 有限公司
+IP-ASN,140633,ASN China // BILIBILI HK LIMITED
+IP-ASN,140636,ASN China // 中国电信
+IP-ASN,140638,ASN China // 中国电信
+IP-ASN,140647,ASN China // CHINATELECOM 贵州省 Shengji5G网络
+IP-ASN,140648,ASN China // CHINATELECOM 贵州省 Guiyang5G网络
+IP-ASN,140649,ASN China // CHINATELECOM 贵州省 Zunyi5G网络
+IP-ASN,140650,ASN China // CHINATELECOM 贵州省 Anshun5G网络
+IP-ASN,140651,ASN China // CHINATELECOM 贵州省 Qiannan5G网络
+IP-ASN,140652,ASN China // CHINATELECOM 贵州省 Qiandongnan5G网络
+IP-ASN,140653,ASN China // CHINATELECOM 贵州省 Tongren5G网络
+IP-ASN,140654,ASN China // CHINATELECOM 贵州省 Bijie5G网络
+IP-ASN,140655,ASN China // CHINATELECOM 贵州省 Liupanshui5G网络
+IP-ASN,140656,ASN China // CHINATELECOM 贵州省 Qianxinan5G网络
+IP-ASN,140657,ASN China // CHINATELECOM 贵州省 Guian5G网络
+IP-ASN,140707,ASN China // UNICOM 宁夏省 network
+# IP-ASN,140709,ASN China // 北京 Kaopu Cloud technology 有限公司【未广播中国大陆IP】
+IP-ASN,140716,ASN China // UNICOM 江苏 WuXi IDC network
+IP-ASN,140717,ASN China // UNICOM 江苏 Suzhou IDC network
+IP-ASN,140720,ASN China // UNICOM 江苏省南通市IDC网络
+IP-ASN,140726,ASN China // UNICOM 安徽省 network
+# IP-ASN,140731,ASN China // TOHU Public Internet
+IP-ASN,140852,ASN China // CHINATELECOM 江西省 Shengji5G网络
+IP-ASN,140853,ASN China // CHINATELECOM 江西省 南昌5G网络
+IP-ASN,140854,ASN China // CHINATELECOM 江西省 Jiujiang5G网络
+IP-ASN,140855,ASN China // CHINATELECOM 江西省 Jingdezhen5G网络
+IP-ASN,140856,ASN China // CHINATELECOM 江西省 Shangrao5G网络
+IP-ASN,140857,ASN China // CHINATELECOM 江西省 yingtan5G网络
+IP-ASN,140858,ASN China // CHINATELECOM 江西省 Yichun5G网络
+IP-ASN,140859,ASN China // CHINATELECOM 江西省 Pingxiang5G网络
+IP-ASN,140860,ASN China // CHINATELECOM 江西省 Xinyu5G网络
+IP-ASN,140861,ASN China // CHINATELECOM 江西省 Ganzhou5G网络
+IP-ASN,140862,ASN China // CHINATELECOM 江西省 Jian5G网络
+IP-ASN,140863,ASN China // CHINATELECOM 江西省 福州5G网络
+IP-ASN,140886,ASN China // UNICOM 广西省 network
+IP-ASN,140895,ASN China // 中国移动集团安徽 communications corporation
+IP-ASN,140903,ASN China // 中国电信
+# IP-ASN,140913,ASN China // Hentai Network Lab
+IP-ASN,140936,ASN China // SUNNET Global Network
+IP-ASN,140979,ASN China // China Unicom 上海 FuTe IDC network
+IP-ASN,141025,ASN China // Shenyang MAN, Liaoning, 中国电信
+IP-ASN,141157,ASN China // 广西 Telecom Nanning Wuxiang Yuanyang IDC
+IP-ASN,141425,ASN China // 中国移动集团广东 communications corporation
+IP-ASN,141429,ASN China // Agatha Network
+IP-ASN,141445,ASN China // Phoenix Network
+IP-ASN,141679,ASN China // 中国电信 北京 天津 河北大数据Industry Park Branch
+IP-ASN,141694,ASN China // Otaku Limited
+IP-ASN,141739,ASN China // 中国电信
+IP-ASN,141771,ASN China // 中国电信
+IP-ASN,141776,ASN China // Baoshuo Network
+IP-ASN,141998,ASN China // 中国电信
+IP-ASN,142048,ASN China // vscloud.cc
+IP-ASN,142111,ASN China // 浙江 Aiyun 网络科技有限公司
+IP-ASN,142112,ASN China // Star Horizon Tech Inc
+IP-ASN,142164,ASN China // GoldDoge Computer Technologies & Networks Information Center
+IP-ASN,142280,ASN China // NaiveTomcat Education and Research Experimental Network Backbone
+IP-ASN,142284,ASN China // Koala Network
+IP-ASN,142404,ASN China // 中国电信
+IP-ASN,142418,ASN China // TaterLi Education And Research Network
+IP-ASN,142438,ASN China // Kasumi Networks Inc
+IP-ASN,142549,ASN China // Magnetic Discovery Education and Research Network
+IP-ASN,142551,ASN China // Azurite27 Network
+IP-ASN,142553,ASN China // Airs Project Private Network Main
+IP-ASN,142554,ASN China // hongmicloud.com
+# IP-ASN,142582,ASN China // NNET-BACKBONE
+# IP-ASN,142586,ASN China // Dotnet Ltd
+# IP-ASN,142588,ASN China // Lichun Tang Trading as 400Host
+IP-ASN,142608,ASN China // 中国电信
+IP-ASN,142611,ASN China // 上海 Tujuan信息科技有限公司
+# IP-ASN,142634,ASN China // Wut Exchange RS
+IP-ASN,142642,ASN China // Atonal System
+IP-ASN,142650,ASN China // 
+IP-ASN,142651,ASN China // 
+IP-ASN,142652,ASN China // 
+IP-ASN,142653,ASN China // 
+IP-ASN,142654,ASN China // 
+IP-ASN,142655,ASN China // 
+IP-ASN,142656,ASN China // 
+IP-ASN,142657,ASN China // 
+IP-ASN,142658,ASN China // 
+IP-ASN,142659,ASN China // 
+IP-ASN,142660,ASN China // 
+IP-ASN,142661,ASN China // 
+IP-ASN,142662,ASN China // 
+IP-ASN,142663,ASN China // 
+IP-ASN,142664,ASN China // 
+IP-ASN,142665,ASN China // 
+IP-ASN,142666,ASN China // 
+IP-ASN,142667,ASN China // 
+IP-ASN,142668,ASN China // 
+IP-ASN,142669,ASN China // 
+IP-ASN,142670,ASN China // 
+IP-ASN,142671,ASN China // 
+IP-ASN,142672,ASN China // 
+IP-ASN,142673,ASN China // 
+IP-ASN,142674,ASN China // 
+IP-ASN,142675,ASN China // 
+IP-ASN,142676,ASN China // 
+IP-ASN,142677,ASN China // 
+IP-ASN,142678,ASN China // 
+IP-ASN,142679,ASN China // 
+IP-ASN,142680,ASN China // 
+IP-ASN,142681,ASN China // 
+IP-ASN,142682,ASN China // 
+IP-ASN,142683,ASN China // 
+IP-ASN,142684,ASN China // 
+IP-ASN,142685,ASN China // 
+IP-ASN,142686,ASN China // 
+IP-ASN,142687,ASN China // 
+IP-ASN,142688,ASN China // 
+IP-ASN,142689,ASN China // 
+IP-ASN,142690,ASN China // 
+IP-ASN,142691,ASN China // 
+IP-ASN,142692,ASN China // 
+IP-ASN,142693,ASN China // 
+IP-ASN,142694,ASN China // 
+IP-ASN,142695,ASN China // 
+IP-ASN,142696,ASN China // 
+IP-ASN,142697,ASN China // 
+IP-ASN,142698,ASN China // 
+IP-ASN,142699,ASN China // 
+IP-ASN,142700,ASN China // 
+IP-ASN,142701,ASN China // 
+IP-ASN,142702,ASN China // 
+IP-ASN,142703,ASN China // 
+IP-ASN,142704,ASN China // 
+IP-ASN,142705,ASN China // 
+IP-ASN,142706,ASN China // 
+IP-ASN,142707,ASN China // 
+IP-ASN,142708,ASN China // 
+IP-ASN,142709,ASN China // 
+IP-ASN,142710,ASN China // 
+IP-ASN,142711,ASN China // 
+IP-ASN,142712,ASN China // 
+IP-ASN,142713,ASN China // 
+IP-ASN,142714,ASN China // 
+IP-ASN,142715,ASN China // 
+IP-ASN,142716,ASN China // 
+IP-ASN,142717,ASN China // 
+IP-ASN,142718,ASN China // 
+IP-ASN,142719,ASN China // 
+IP-ASN,142720,ASN China // 
+IP-ASN,142721,ASN China // 
+IP-ASN,142722,ASN China // 
+IP-ASN,142723,ASN China // 
+IP-ASN,142724,ASN China // 
+IP-ASN,142725,ASN China // 
+IP-ASN,142726,ASN China // 
+IP-ASN,142727,ASN China // 
+IP-ASN,142728,ASN China // 
+IP-ASN,142729,ASN China // 
+IP-ASN,142730,ASN China // 
+IP-ASN,142731,ASN China // 
+IP-ASN,142732,ASN China // 
+IP-ASN,142733,ASN China // 
+IP-ASN,142734,ASN China // 
+IP-ASN,142735,ASN China // 
+IP-ASN,142736,ASN China // 
+IP-ASN,142737,ASN China // 
+IP-ASN,142738,ASN China // 
+IP-ASN,142739,ASN China // 
+IP-ASN,142740,ASN China // 
+IP-ASN,142741,ASN China // 
+IP-ASN,142742,ASN China // 
+IP-ASN,142743,ASN China // 
+IP-ASN,142744,ASN China // 
+IP-ASN,142745,ASN China // 
+IP-ASN,142746,ASN China // 
+IP-ASN,142747,ASN China // 
+IP-ASN,142748,ASN China // 
+IP-ASN,142749,ASN China // 
+IP-ASN,142750,ASN China // 
+IP-ASN,142751,ASN China // 
+IP-ASN,142752,ASN China // 
+IP-ASN,142753,ASN China // 
+IP-ASN,142754,ASN China // 
+IP-ASN,142755,ASN China // 
+IP-ASN,142756,ASN China // 
+IP-ASN,142757,ASN China // 
+IP-ASN,142758,ASN China // 
+IP-ASN,142759,ASN China // 
+IP-ASN,142760,ASN China // 
+IP-ASN,142761,ASN China // 
+IP-ASN,142762,ASN China // 
+IP-ASN,142763,ASN China // 
+IP-ASN,142764,ASN China // 
+IP-ASN,142765,ASN China // 
+IP-ASN,142766,ASN China // 
+IP-ASN,142767,ASN China // 
+IP-ASN,142768,ASN China // 
+IP-ASN,142769,ASN China // 
+IP-ASN,142770,ASN China // 
+IP-ASN,142771,ASN China // 
+IP-ASN,142772,ASN China // 
+IP-ASN,142773,ASN China // 
+IP-ASN,142774,ASN China // 
+IP-ASN,142775,ASN China // 
+IP-ASN,142776,ASN China // 
+IP-ASN,142777,ASN China // 
+IP-ASN,142778,ASN China // 
+IP-ASN,142779,ASN China // 
+IP-ASN,142780,ASN China // 
+IP-ASN,142781,ASN China // 
+IP-ASN,142782,ASN China // 
+IP-ASN,142783,ASN China // 
+IP-ASN,142784,ASN China // 
+IP-ASN,142785,ASN China // 
+IP-ASN,142786,ASN China // 
+IP-ASN,142787,ASN China // 
+IP-ASN,142788,ASN China // 
+IP-ASN,142789,ASN China // 
+IP-ASN,142790,ASN China // 
+IP-ASN,142791,ASN China // 
+IP-ASN,142792,ASN China // 
+IP-ASN,142793,ASN China // 
+IP-ASN,142794,ASN China // 
+IP-ASN,142795,ASN China // 
+IP-ASN,142796,ASN China // 
+IP-ASN,142797,ASN China // 
+IP-ASN,142798,ASN China // 
+IP-ASN,142799,ASN China // 
+IP-ASN,142800,ASN China // 
+IP-ASN,142801,ASN China // 
+IP-ASN,142802,ASN China // 
+IP-ASN,142803,ASN China // 
+IP-ASN,142804,ASN China // 
+IP-ASN,142805,ASN China // 
+IP-ASN,142806,ASN China // 
+IP-ASN,142807,ASN China // 
+IP-ASN,142808,ASN China // 
+IP-ASN,142809,ASN China // 
+IP-ASN,142810,ASN China // 
+IP-ASN,142811,ASN China // 
+IP-ASN,142812,ASN China // 
+IP-ASN,142813,ASN China // 
+IP-ASN,142814,ASN China // 
+IP-ASN,142815,ASN China // 
+IP-ASN,142816,ASN China // 
+IP-ASN,142817,ASN China // 
+IP-ASN,142818,ASN China // 
+IP-ASN,142819,ASN China // 
+IP-ASN,142820,ASN China // 
+IP-ASN,142821,ASN China // 
+IP-ASN,142822,ASN China // 
+IP-ASN,142823,ASN China // 
+IP-ASN,142824,ASN China // 
+IP-ASN,142825,ASN China // 
+IP-ASN,142826,ASN China // 
+IP-ASN,142827,ASN China // 
+IP-ASN,142828,ASN China // 
+IP-ASN,142829,ASN China // 
+IP-ASN,142830,ASN China // 
+IP-ASN,142831,ASN China // 
+IP-ASN,142832,ASN China // 
+IP-ASN,142833,ASN China // 
+IP-ASN,142834,ASN China // 
+IP-ASN,142835,ASN China // 
+IP-ASN,142836,ASN China // 
+IP-ASN,142837,ASN China // 
+IP-ASN,142838,ASN China // 
+IP-ASN,142839,ASN China // 
+IP-ASN,142840,ASN China // 
+IP-ASN,142841,ASN China // 
+IP-ASN,142842,ASN China // 
+IP-ASN,142843,ASN China // 
+IP-ASN,142844,ASN China // 
+IP-ASN,142845,ASN China // 
+IP-ASN,142846,ASN China // 
+IP-ASN,142847,ASN China // 
+IP-ASN,142848,ASN China // 
+IP-ASN,142849,ASN China // 
+IP-ASN,142850,ASN China // 
+IP-ASN,142851,ASN China // 
+IP-ASN,142852,ASN China // 
+IP-ASN,142853,ASN China // 
+IP-ASN,142854,ASN China // 
+IP-ASN,142855,ASN China // 
+IP-ASN,142856,ASN China // 
+IP-ASN,142857,ASN China // 
+IP-ASN,142858,ASN China // 
+IP-ASN,142859,ASN China // 
+IP-ASN,142860,ASN China // 
+IP-ASN,142861,ASN China // 
+IP-ASN,142862,ASN China // 
+IP-ASN,142863,ASN China // 
+IP-ASN,142864,ASN China // 
+IP-ASN,142865,ASN China // 
+IP-ASN,142866,ASN China // 
+IP-ASN,142867,ASN China // 
+IP-ASN,142868,ASN China // 
+IP-ASN,142869,ASN China // 
+IP-ASN,142870,ASN China // 
+IP-ASN,142871,ASN China // 
+IP-ASN,142872,ASN China // 
+IP-ASN,142873,ASN China // 
+IP-ASN,142874,ASN China // 
+IP-ASN,142875,ASN China // 
+IP-ASN,142876,ASN China // 
+IP-ASN,142877,ASN China // 
+IP-ASN,142878,ASN China // 
+IP-ASN,142879,ASN China // 
+IP-ASN,142880,ASN China // 
+IP-ASN,142881,ASN China // 
+IP-ASN,142882,ASN China // 
+IP-ASN,142883,ASN China // 
+IP-ASN,142884,ASN China // 
+IP-ASN,142885,ASN China // 
+IP-ASN,142886,ASN China // 
+IP-ASN,142887,ASN China // 
+IP-ASN,142888,ASN China // 
+IP-ASN,142889,ASN China // 
+IP-ASN,142890,ASN China // 
+IP-ASN,142891,ASN China // 
+IP-ASN,142892,ASN China // 
+IP-ASN,142893,ASN China // 
+IP-ASN,142894,ASN China // 
+IP-ASN,142895,ASN China // 
+IP-ASN,142896,ASN China // 
+IP-ASN,142897,ASN China // 
+IP-ASN,142898,ASN China // 
+IP-ASN,142899,ASN China // 
+IP-ASN,142900,ASN China // 
+IP-ASN,142901,ASN China // 
+IP-ASN,142902,ASN China // 
+IP-ASN,142903,ASN China // 
+IP-ASN,142904,ASN China // 
+IP-ASN,142905,ASN China // 
+IP-ASN,142906,ASN China // 
+IP-ASN,142907,ASN China // 
+IP-ASN,142908,ASN China // 
+IP-ASN,142909,ASN China // 
+IP-ASN,142910,ASN China // 
+IP-ASN,142911,ASN China // 
+IP-ASN,142912,ASN China // 
+IP-ASN,142913,ASN China // 
+IP-ASN,142914,ASN China // 
+IP-ASN,142915,ASN China // 
+IP-ASN,142916,ASN China // 
+IP-ASN,142917,ASN China // 
+IP-ASN,142918,ASN China // 
+IP-ASN,142919,ASN China // 
+IP-ASN,142920,ASN China // 
+IP-ASN,142921,ASN China // 
+IP-ASN,142922,ASN China // 
+IP-ASN,142923,ASN China // 
+IP-ASN,142924,ASN China // 
+IP-ASN,142925,ASN China // 
+IP-ASN,142926,ASN China // 
+IP-ASN,142927,ASN China // 
+IP-ASN,142928,ASN China // 
+IP-ASN,142929,ASN China // 
+IP-ASN,142930,ASN China // 
+IP-ASN,142931,ASN China // 
+IP-ASN,142932,ASN China // 
+IP-ASN,142933,ASN China // 
+IP-ASN,142934,ASN China // 
+IP-ASN,142935,ASN China // 
+IP-ASN,142936,ASN China // 
+IP-ASN,142937,ASN China // 
+IP-ASN,142938,ASN China // 
+IP-ASN,142939,ASN China // 
+IP-ASN,142940,ASN China // 
+IP-ASN,142941,ASN China // 
+IP-ASN,142942,ASN China // 
+IP-ASN,142943,ASN China // 
+IP-ASN,142944,ASN China // 
+IP-ASN,142945,ASN China // 
+IP-ASN,142946,ASN China // 
+IP-ASN,142947,ASN China // 
+IP-ASN,142948,ASN China // 
+IP-ASN,142949,ASN China // 
+IP-ASN,142950,ASN China // 
+IP-ASN,142951,ASN China // 
+IP-ASN,142952,ASN China // 
+IP-ASN,142953,ASN China // 
+IP-ASN,142954,ASN China // 
+IP-ASN,142955,ASN China // 
+IP-ASN,142956,ASN China // 
+IP-ASN,142957,ASN China // 
+IP-ASN,142958,ASN China // 
+IP-ASN,142959,ASN China // 
+IP-ASN,142960,ASN China // 
+IP-ASN,142961,ASN China // 
+IP-ASN,142962,ASN China // 
+IP-ASN,142963,ASN China // 
+IP-ASN,142964,ASN China // 
+IP-ASN,142965,ASN China // 
+IP-ASN,142966,ASN China // 
+IP-ASN,142967,ASN China // 
+IP-ASN,142968,ASN China // 
+IP-ASN,142969,ASN China // 
+IP-ASN,142970,ASN China // 
+IP-ASN,142971,ASN China // 
+IP-ASN,142972,ASN China // 
+IP-ASN,142973,ASN China // 
+IP-ASN,142974,ASN China // 
+IP-ASN,142975,ASN China // 
+IP-ASN,142976,ASN China // 
+IP-ASN,142977,ASN China // 
+IP-ASN,142978,ASN China // 
+IP-ASN,142979,ASN China // 
+IP-ASN,142980,ASN China // 
+IP-ASN,142981,ASN China // 
+IP-ASN,142982,ASN China // 
+IP-ASN,142983,ASN China // 
+IP-ASN,142984,ASN China // 
+IP-ASN,142985,ASN China // 
+IP-ASN,142986,ASN China // 
+IP-ASN,142987,ASN China // 
+IP-ASN,142988,ASN China // 
+IP-ASN,142989,ASN China // 
+IP-ASN,142990,ASN China // 
+IP-ASN,142991,ASN China // 
+IP-ASN,142992,ASN China // 
+IP-ASN,142993,ASN China // 
+IP-ASN,142994,ASN China // 
+IP-ASN,142995,ASN China // 
+IP-ASN,142996,ASN China // 
+IP-ASN,142997,ASN China // 
+IP-ASN,142998,ASN China // 
+IP-ASN,142999,ASN China // 
+IP-ASN,143000,ASN China // 
+IP-ASN,143001,ASN China // 
+IP-ASN,143002,ASN China // 
+IP-ASN,143003,ASN China // 
+IP-ASN,143004,ASN China // 
+IP-ASN,143005,ASN China // 
+IP-ASN,143006,ASN China // 
+IP-ASN,143007,ASN China // 
+IP-ASN,143008,ASN China // 
+IP-ASN,143009,ASN China // 
+IP-ASN,143010,ASN China // 
+IP-ASN,143011,ASN China // 
+IP-ASN,143012,ASN China // 
+IP-ASN,143013,ASN China // 
+IP-ASN,143014,ASN China // 
+IP-ASN,143015,ASN China // 
+IP-ASN,143016,ASN China // 
+IP-ASN,143017,ASN China // 
+IP-ASN,143018,ASN China // 
+IP-ASN,143019,ASN China // 
+IP-ASN,143020,ASN China // 
+IP-ASN,143021,ASN China // 
+IP-ASN,143022,ASN China // 
+IP-ASN,143023,ASN China // 
+IP-ASN,143024,ASN China // 
+IP-ASN,143025,ASN China // 
+IP-ASN,143026,ASN China // 
+IP-ASN,143027,ASN China // 
+IP-ASN,143028,ASN China // 
+IP-ASN,143029,ASN China // 
+IP-ASN,143030,ASN China // 
+IP-ASN,143031,ASN China // 
+IP-ASN,143032,ASN China // 
+IP-ASN,143033,ASN China // 
+IP-ASN,143034,ASN China // 
+IP-ASN,143035,ASN China // 
+IP-ASN,143036,ASN China // 
+IP-ASN,143037,ASN China // 
+IP-ASN,143038,ASN China // 
+IP-ASN,143039,ASN China // 
+IP-ASN,143040,ASN China // 
+IP-ASN,143041,ASN China // 
+IP-ASN,143042,ASN China // 
+IP-ASN,143043,ASN China // 
+IP-ASN,143044,ASN China // 
+IP-ASN,143045,ASN China // 
+IP-ASN,143046,ASN China // 
+IP-ASN,143047,ASN China // 
+IP-ASN,143048,ASN China // 
+IP-ASN,143049,ASN China // 
+IP-ASN,143050,ASN China // 
+IP-ASN,143051,ASN China // 
+IP-ASN,143052,ASN China // 
+IP-ASN,143053,ASN China // 
+IP-ASN,143054,ASN China // 
+IP-ASN,143055,ASN China // 
+IP-ASN,143056,ASN China // 
+IP-ASN,143057,ASN China // 
+IP-ASN,143058,ASN China // 
+IP-ASN,143059,ASN China // 
+IP-ASN,143060,ASN China // 
+IP-ASN,143061,ASN China // 
+IP-ASN,143062,ASN China // 
+IP-ASN,143063,ASN China // 
+IP-ASN,143064,ASN China // 
+IP-ASN,143065,ASN China // 
+IP-ASN,143066,ASN China // 
+IP-ASN,143067,ASN China // 
+IP-ASN,143068,ASN China // 
+IP-ASN,143069,ASN China // 
+IP-ASN,143070,ASN China // 
+IP-ASN,143071,ASN China // 
+IP-ASN,143072,ASN China // 
+IP-ASN,143073,ASN China // 
+IP-ASN,143074,ASN China // 
+IP-ASN,143075,ASN China // 
+IP-ASN,143076,ASN China // 
+IP-ASN,143077,ASN China // 
+IP-ASN,143078,ASN China // 
+IP-ASN,143079,ASN China // 
+IP-ASN,143080,ASN China // 
+IP-ASN,143081,ASN China // 
+IP-ASN,143082,ASN China // 
+IP-ASN,143083,ASN China // 
+IP-ASN,143084,ASN China // 
+IP-ASN,143085,ASN China // 
+IP-ASN,143086,ASN China // 
+IP-ASN,143087,ASN China // 
+IP-ASN,143088,ASN China // 
+IP-ASN,143089,ASN China // 
+IP-ASN,143090,ASN China // 
+IP-ASN,143091,ASN China // 
+IP-ASN,143092,ASN China // 
+IP-ASN,143093,ASN China // 
+IP-ASN,143094,ASN China // 
+IP-ASN,143095,ASN China // 
+IP-ASN,143096,ASN China // 
+IP-ASN,143097,ASN China // 
+IP-ASN,143098,ASN China // 
+IP-ASN,143099,ASN China // 
+IP-ASN,143100,ASN China // 
+IP-ASN,143101,ASN China // 
+IP-ASN,143102,ASN China // 
+IP-ASN,143103,ASN China // 
+IP-ASN,143104,ASN China // 
+IP-ASN,143105,ASN China // 
+IP-ASN,143106,ASN China // 
+IP-ASN,143107,ASN China // 
+IP-ASN,143108,ASN China // 
+IP-ASN,143109,ASN China // 
+IP-ASN,143110,ASN China // 
+IP-ASN,143111,ASN China // 
+IP-ASN,143112,ASN China // 
+IP-ASN,143113,ASN China // 
+IP-ASN,143114,ASN China // 
+IP-ASN,143115,ASN China // 
+IP-ASN,143116,ASN China // 
+IP-ASN,143117,ASN China // 
+IP-ASN,143118,ASN China // 
+IP-ASN,143119,ASN China // 
+IP-ASN,143120,ASN China // 
+IP-ASN,143121,ASN China // 
+IP-ASN,143122,ASN China // 
+IP-ASN,143123,ASN China // 
+IP-ASN,143124,ASN China // 
+IP-ASN,143125,ASN China // 
+IP-ASN,143126,ASN China // 
+IP-ASN,143127,ASN China // 
+IP-ASN,143128,ASN China // 
+IP-ASN,143129,ASN China // 
+IP-ASN,143130,ASN China // 
+IP-ASN,143131,ASN China // 
+IP-ASN,143132,ASN China // 
+IP-ASN,143133,ASN China // 
+IP-ASN,143134,ASN China // 
+IP-ASN,143135,ASN China // 
+IP-ASN,143136,ASN China // 
+IP-ASN,143137,ASN China // 
+IP-ASN,143138,ASN China // 
+IP-ASN,143139,ASN China // 
+IP-ASN,143140,ASN China // 
+IP-ASN,143141,ASN China // 
+IP-ASN,143142,ASN China // 
+IP-ASN,143143,ASN China // 
+IP-ASN,143144,ASN China // 
+IP-ASN,143145,ASN China // 
+IP-ASN,143146,ASN China // 
+IP-ASN,143147,ASN China // 
+IP-ASN,143148,ASN China // 
+IP-ASN,143149,ASN China // 
+IP-ASN,143150,ASN China // 
+IP-ASN,143151,ASN China // 
+IP-ASN,143152,ASN China // 
+IP-ASN,143153,ASN China // 
+IP-ASN,143154,ASN China // 
+IP-ASN,143155,ASN China // 
+IP-ASN,143156,ASN China // 
+IP-ASN,143157,ASN China // 
+IP-ASN,143158,ASN China // 
+IP-ASN,143159,ASN China // 
+IP-ASN,143160,ASN China // 
+IP-ASN,143161,ASN China // 
+IP-ASN,143162,ASN China // 
+IP-ASN,143163,ASN China // 
+IP-ASN,143164,ASN China // 
+IP-ASN,143165,ASN China // 
+IP-ASN,143166,ASN China // 
+IP-ASN,143167,ASN China // 
+IP-ASN,143168,ASN China // 
+IP-ASN,143169,ASN China // 
+IP-ASN,143170,ASN China // 
+IP-ASN,143171,ASN China // 
+IP-ASN,143172,ASN China // 
+IP-ASN,143173,ASN China // 
+IP-ASN,143174,ASN China // 
+IP-ASN,143175,ASN China // 
+IP-ASN,143176,ASN China // 
+IP-ASN,143177,ASN China // 
+IP-ASN,143178,ASN China // 
+IP-ASN,143179,ASN China // 
+IP-ASN,143180,ASN China // 
+IP-ASN,143181,ASN China // 
+IP-ASN,143182,ASN China // 
+IP-ASN,143183,ASN China // 
+IP-ASN,143184,ASN China // 
+IP-ASN,143185,ASN China // 
+IP-ASN,143186,ASN China // 
+IP-ASN,143187,ASN China // 
+IP-ASN,143188,ASN China // 
+IP-ASN,143189,ASN China // 
+IP-ASN,143190,ASN China // 
+IP-ASN,143191,ASN China // 
+IP-ASN,143192,ASN China // 
+IP-ASN,143193,ASN China // 
+IP-ASN,143194,ASN China // 
+IP-ASN,143195,ASN China // 
+IP-ASN,143196,ASN China // 
+IP-ASN,143197,ASN China // 
+IP-ASN,143198,ASN China // 
+IP-ASN,143199,ASN China // 
+IP-ASN,143200,ASN China // 
+IP-ASN,143201,ASN China // 
+IP-ASN,143202,ASN China // 
+IP-ASN,143203,ASN China // 
+IP-ASN,143204,ASN China // 
+IP-ASN,143205,ASN China // 
+IP-ASN,143206,ASN China // 
+IP-ASN,143207,ASN China // 
+IP-ASN,143208,ASN China // 
+IP-ASN,143209,ASN China // 
+IP-ASN,143210,ASN China // 
+IP-ASN,143211,ASN China // 
+IP-ASN,143212,ASN China // 
+IP-ASN,143213,ASN China // 
+IP-ASN,143214,ASN China // 
+IP-ASN,143215,ASN China // 
+IP-ASN,143216,ASN China // 
+IP-ASN,143217,ASN China // 
+IP-ASN,143218,ASN China // 
+IP-ASN,143219,ASN China // 
+IP-ASN,143220,ASN China // 
+IP-ASN,143221,ASN China // 
+IP-ASN,143222,ASN China // 
+IP-ASN,143223,ASN China // 
+IP-ASN,143224,ASN China // 
+IP-ASN,143225,ASN China // 
+IP-ASN,143226,ASN China // 
+IP-ASN,143227,ASN China // 
+IP-ASN,143228,ASN China // 
+IP-ASN,143229,ASN China // 
+IP-ASN,143230,ASN China // 
+IP-ASN,143231,ASN China // 
+IP-ASN,143232,ASN China // 
+IP-ASN,143233,ASN China // 
+IP-ASN,143234,ASN China // 
+IP-ASN,143235,ASN China // 
+IP-ASN,143236,ASN China // 
+IP-ASN,143237,ASN China // 
+IP-ASN,143238,ASN China // 
+IP-ASN,143239,ASN China // 
+IP-ASN,143240,ASN China // 
+IP-ASN,143241,ASN China // 
+IP-ASN,143242,ASN China // 
+IP-ASN,143243,ASN China // 
+IP-ASN,143244,ASN China // 
+IP-ASN,143245,ASN China // 
+IP-ASN,143246,ASN China // 
+IP-ASN,143247,ASN China // 
+IP-ASN,143248,ASN China // 
+IP-ASN,143249,ASN China // 
+IP-ASN,143250,ASN China // 
+IP-ASN,143251,ASN China // 
+IP-ASN,143252,ASN China // 
+IP-ASN,143253,ASN China // 
+IP-ASN,143254,ASN China // 
+IP-ASN,143255,ASN China // 
+IP-ASN,143256,ASN China // 
+IP-ASN,143257,ASN China // 
+IP-ASN,143258,ASN China // 
+IP-ASN,143259,ASN China // 
+IP-ASN,143260,ASN China // 
+IP-ASN,143261,ASN China // 
+IP-ASN,143262,ASN China // 
+IP-ASN,143263,ASN China // 
+IP-ASN,143264,ASN China // 
+IP-ASN,143265,ASN China // 
+IP-ASN,143266,ASN China // 
+IP-ASN,143267,ASN China // 
+IP-ASN,143268,ASN China // 
+IP-ASN,143269,ASN China // 
+IP-ASN,143270,ASN China // 
+IP-ASN,143271,ASN China // 
+IP-ASN,143272,ASN China // 
+IP-ASN,143273,ASN China // 
+IP-ASN,143274,ASN China // 
+IP-ASN,143275,ASN China // 
+IP-ASN,143276,ASN China // 
+IP-ASN,143277,ASN China // 
+IP-ASN,143278,ASN China // 
+IP-ASN,143279,ASN China // 
+IP-ASN,143280,ASN China // 
+IP-ASN,143281,ASN China // 
+IP-ASN,143282,ASN China // 
+IP-ASN,143283,ASN China // 
+IP-ASN,143284,ASN China // 
+IP-ASN,143285,ASN China // 
+IP-ASN,143286,ASN China // 
+IP-ASN,143287,ASN China // 
+IP-ASN,143288,ASN China // 
+IP-ASN,143289,ASN China // 
+IP-ASN,143290,ASN China // 
+IP-ASN,143291,ASN China // 
+IP-ASN,143292,ASN China // 
+IP-ASN,143293,ASN China // 
+IP-ASN,143294,ASN China // 
+IP-ASN,143295,ASN China // 
+IP-ASN,143296,ASN China // 
+IP-ASN,143297,ASN China // 
+IP-ASN,143298,ASN China // 
+IP-ASN,143299,ASN China // 
+IP-ASN,143300,ASN China // 
+IP-ASN,143301,ASN China // 
+IP-ASN,143302,ASN China // 
+IP-ASN,143303,ASN China // 
+IP-ASN,143304,ASN China // 
+IP-ASN,143305,ASN China // 
+IP-ASN,143306,ASN China // 
+IP-ASN,143307,ASN China // 
+IP-ASN,143308,ASN China // 
+IP-ASN,143309,ASN China // 
+IP-ASN,143310,ASN China // 
+IP-ASN,143311,ASN China // 
+IP-ASN,143312,ASN China // 
+IP-ASN,143313,ASN China // 
+IP-ASN,143314,ASN China // 
+IP-ASN,143315,ASN China // 
+IP-ASN,143316,ASN China // 
+IP-ASN,143317,ASN China // 
+IP-ASN,143318,ASN China // 
+IP-ASN,143319,ASN China // 
+IP-ASN,143320,ASN China // 
+IP-ASN,143321,ASN China // 
+IP-ASN,143322,ASN China // 
+IP-ASN,143323,ASN China // 
+IP-ASN,143324,ASN China // 
+IP-ASN,143325,ASN China // 
+IP-ASN,143326,ASN China // 
+IP-ASN,143327,ASN China // 
+IP-ASN,143328,ASN China // 
+IP-ASN,143329,ASN China // 
+IP-ASN,143330,ASN China // 
+IP-ASN,143331,ASN China // 
+IP-ASN,143332,ASN China // 
+IP-ASN,143333,ASN China // 
+IP-ASN,143334,ASN China // 
+IP-ASN,143335,ASN China // 
+IP-ASN,143336,ASN China // 
+IP-ASN,143337,ASN China // 
+IP-ASN,143338,ASN China // 
+IP-ASN,143339,ASN China // 
+IP-ASN,143340,ASN China // 
+IP-ASN,143341,ASN China // 
+IP-ASN,143342,ASN China // 
+IP-ASN,143343,ASN China // 
+IP-ASN,143344,ASN China // 
+IP-ASN,143345,ASN China // 
+IP-ASN,143346,ASN China // 
+IP-ASN,143347,ASN China // 
+IP-ASN,143348,ASN China // 
+IP-ASN,143349,ASN China // 
+IP-ASN,143350,ASN China // 
+IP-ASN,143351,ASN China // 
+IP-ASN,143352,ASN China // 
+IP-ASN,143353,ASN China // 
+IP-ASN,143354,ASN China // 
+IP-ASN,143355,ASN China // 
+IP-ASN,143356,ASN China // 
+IP-ASN,143357,ASN China // 
+IP-ASN,143358,ASN China // 
+IP-ASN,143359,ASN China // 
+IP-ASN,143360,ASN China // 
+IP-ASN,143361,ASN China // 
+IP-ASN,143362,ASN China // 
+IP-ASN,143363,ASN China // 
+IP-ASN,143364,ASN China // 
+IP-ASN,143365,ASN China // 
+IP-ASN,143366,ASN China // 
+IP-ASN,143367,ASN China // 
+IP-ASN,143368,ASN China // 
+IP-ASN,143369,ASN China // 
+IP-ASN,143370,ASN China // 
+IP-ASN,143371,ASN China // 
+IP-ASN,143372,ASN China // 
+IP-ASN,143373,ASN China // 
+IP-ASN,143374,ASN China // 
+IP-ASN,143375,ASN China // 
+IP-ASN,143376,ASN China // 
+IP-ASN,143377,ASN China // 
+IP-ASN,143378,ASN China // 
+IP-ASN,143379,ASN China // 
+IP-ASN,143380,ASN China // 
+IP-ASN,143381,ASN China // 
+IP-ASN,143382,ASN China // 
+IP-ASN,143383,ASN China // 
+IP-ASN,143384,ASN China // 
+IP-ASN,143385,ASN China // 
+IP-ASN,143386,ASN China // 
+IP-ASN,143387,ASN China // 
+IP-ASN,143388,ASN China // 
+IP-ASN,143389,ASN China // 
+IP-ASN,143390,ASN China // 
+IP-ASN,143391,ASN China // 
+IP-ASN,143392,ASN China // 
+IP-ASN,143393,ASN China // 
+IP-ASN,143394,ASN China // 
+IP-ASN,143395,ASN China // 
+IP-ASN,143396,ASN China // 
+IP-ASN,143397,ASN China // 
+IP-ASN,143398,ASN China // 
+IP-ASN,143399,ASN China // 
+IP-ASN,143400,ASN China // 
+IP-ASN,143401,ASN China // 
+IP-ASN,143402,ASN China // 
+IP-ASN,143403,ASN China // 
+IP-ASN,143404,ASN China // 
+IP-ASN,143405,ASN China // 
+IP-ASN,143406,ASN China // 
+IP-ASN,143407,ASN China // 
+IP-ASN,143408,ASN China // 
+IP-ASN,143409,ASN China // 
+IP-ASN,143410,ASN China // 
+IP-ASN,143411,ASN China // 
+IP-ASN,143412,ASN China // 
+IP-ASN,143413,ASN China // 
+IP-ASN,143414,ASN China // 
+IP-ASN,143415,ASN China // 
+IP-ASN,143416,ASN China // 
+IP-ASN,143417,ASN China // 
+IP-ASN,143418,ASN China // 
+IP-ASN,143419,ASN China // 
+IP-ASN,143420,ASN China // 
+IP-ASN,143421,ASN China // 
+IP-ASN,143422,ASN China // 
+IP-ASN,143423,ASN China // 
+IP-ASN,143424,ASN China // 
+IP-ASN,143425,ASN China // 
+IP-ASN,143426,ASN China // 
+IP-ASN,143427,ASN China // 
+IP-ASN,143428,ASN China // 
+IP-ASN,143429,ASN China // 
+IP-ASN,143430,ASN China // 
+IP-ASN,143431,ASN China // 
+IP-ASN,143432,ASN China // 
+IP-ASN,143433,ASN China // 
+IP-ASN,143434,ASN China // 
+IP-ASN,143435,ASN China // 
+IP-ASN,143436,ASN China // 
+IP-ASN,143437,ASN China // 
+IP-ASN,143438,ASN China // 
+IP-ASN,143439,ASN China // 
+IP-ASN,143440,ASN China // 
+IP-ASN,143441,ASN China // 
+IP-ASN,143442,ASN China // 
+IP-ASN,143443,ASN China // 
+IP-ASN,143444,ASN China // 
+IP-ASN,143445,ASN China // 
+IP-ASN,143446,ASN China // 
+IP-ASN,143447,ASN China // 
+IP-ASN,143448,ASN China // 
+IP-ASN,143449,ASN China // 
+IP-ASN,143450,ASN China // 
+IP-ASN,143451,ASN China // 
+IP-ASN,143452,ASN China // 
+IP-ASN,143453,ASN China // 
+IP-ASN,143454,ASN China // 
+IP-ASN,143455,ASN China // 
+IP-ASN,143456,ASN China // 
+IP-ASN,143457,ASN China // 
+IP-ASN,143458,ASN China // 
+IP-ASN,143459,ASN China // 
+IP-ASN,143460,ASN China // 
+IP-ASN,143461,ASN China // 
+IP-ASN,143462,ASN China // 
+IP-ASN,143463,ASN China // 
+IP-ASN,143464,ASN China // 
+IP-ASN,143465,ASN China // 
+IP-ASN,143466,ASN China // 
+IP-ASN,143467,ASN China // 
+IP-ASN,143468,ASN China // 
+IP-ASN,143469,ASN China // 
+IP-ASN,143470,ASN China // 
+IP-ASN,143471,ASN China // 
+IP-ASN,143472,ASN China // 
+IP-ASN,143473,ASN China // 
+IP-ASN,143474,ASN China // 
+IP-ASN,143475,ASN China // 
+IP-ASN,143476,ASN China // 
+IP-ASN,143477,ASN China // 
+IP-ASN,143478,ASN China // 
+IP-ASN,143479,ASN China // 
+IP-ASN,143480,ASN China // 
+IP-ASN,143481,ASN China // 
+IP-ASN,143482,ASN China // 
+IP-ASN,143483,ASN China // 
+IP-ASN,143484,ASN China // 
+IP-ASN,143485,ASN China // 
+IP-ASN,143486,ASN China // 
+IP-ASN,143487,ASN China // 
+IP-ASN,143488,ASN China // 
+IP-ASN,143489,ASN China // 
+IP-ASN,143490,ASN China // 
+IP-ASN,143491,ASN China // 
+IP-ASN,143492,ASN China // 
+IP-ASN,143493,ASN China // 
+IP-ASN,143494,ASN China // 
+IP-ASN,143495,ASN China // 
+IP-ASN,143496,ASN China // 
+IP-ASN,143497,ASN China // 
+IP-ASN,143498,ASN China // 
+IP-ASN,143499,ASN China // 
+IP-ASN,143500,ASN China // 
+IP-ASN,143501,ASN China // 
+IP-ASN,143502,ASN China // 
+IP-ASN,143503,ASN China // 
+IP-ASN,143504,ASN China // 
+IP-ASN,143505,ASN China // 
+IP-ASN,143506,ASN China // 
+IP-ASN,143507,ASN China // 
+IP-ASN,143508,ASN China // 
+IP-ASN,143509,ASN China // 
+IP-ASN,143510,ASN China // 
+IP-ASN,143511,ASN China // 
+IP-ASN,143512,ASN China // 
+IP-ASN,143513,ASN China // 
+IP-ASN,143514,ASN China // 
+IP-ASN,143515,ASN China // 
+IP-ASN,143516,ASN China // 
+IP-ASN,143517,ASN China // 
+IP-ASN,143518,ASN China // 
+IP-ASN,143519,ASN China // 
+IP-ASN,143520,ASN China // 
+IP-ASN,143521,ASN China // 
+IP-ASN,143522,ASN China // 
+IP-ASN,143523,ASN China // 
+IP-ASN,143524,ASN China // 
+IP-ASN,143525,ASN China // 
+IP-ASN,143526,ASN China // 
+IP-ASN,143527,ASN China // 
+IP-ASN,143528,ASN China // 
+IP-ASN,143529,ASN China // 
+IP-ASN,143530,ASN China // 
+IP-ASN,143531,ASN China // 
+IP-ASN,143532,ASN China // 
+IP-ASN,143533,ASN China // 
+IP-ASN,143534,ASN China // 
+IP-ASN,143535,ASN China // 
+IP-ASN,143536,ASN China // 
+IP-ASN,143537,ASN China // 
+IP-ASN,143538,ASN China // 
+IP-ASN,143539,ASN China // 
+IP-ASN,143540,ASN China // 
+IP-ASN,143541,ASN China // 
+IP-ASN,143542,ASN China // 
+IP-ASN,143543,ASN China // 
+IP-ASN,143544,ASN China // 
+IP-ASN,143545,ASN China // 
+IP-ASN,143546,ASN China // 
+IP-ASN,143547,ASN China // 
+IP-ASN,143548,ASN China // 
+IP-ASN,143549,ASN China // 
+IP-ASN,143550,ASN China // 
+IP-ASN,143551,ASN China // 
+IP-ASN,143552,ASN China // 
+IP-ASN,143553,ASN China // 
+IP-ASN,143554,ASN China // 
+IP-ASN,143555,ASN China // 
+IP-ASN,143556,ASN China // 
+IP-ASN,143557,ASN China // 
+IP-ASN,143558,ASN China // 
+IP-ASN,143559,ASN China // 
+IP-ASN,143560,ASN China // 
+IP-ASN,143561,ASN China // 
+IP-ASN,143562,ASN China // 
+IP-ASN,143563,ASN China // 
+IP-ASN,143564,ASN China // 
+IP-ASN,143565,ASN China // 
+IP-ASN,143566,ASN China // 
+IP-ASN,143567,ASN China // 
+IP-ASN,143568,ASN China // 
+IP-ASN,143569,ASN China // 
+IP-ASN,143570,ASN China // 
+IP-ASN,143571,ASN China // 
+IP-ASN,143572,ASN China // 
+IP-ASN,143573,ASN China // 
+IP-ASN,143574,ASN China // 
+IP-ASN,143575,ASN China // 
+IP-ASN,143576,ASN China // 
+IP-ASN,143577,ASN China // 
+IP-ASN,143578,ASN China // 
+IP-ASN,143579,ASN China // 
+IP-ASN,143580,ASN China // 
+IP-ASN,143581,ASN China // 
+IP-ASN,143582,ASN China // 
+IP-ASN,143583,ASN China // 
+IP-ASN,143584,ASN China // 
+IP-ASN,143585,ASN China // 
+IP-ASN,143586,ASN China // 
+IP-ASN,143587,ASN China // 
+IP-ASN,143588,ASN China // 
+IP-ASN,143589,ASN China // 
+IP-ASN,143590,ASN China // 
+IP-ASN,143591,ASN China // 
+IP-ASN,143592,ASN China // 
+IP-ASN,143593,ASN China // 
+IP-ASN,143594,ASN China // 
+IP-ASN,143595,ASN China // 
+IP-ASN,143596,ASN China // 
+IP-ASN,143597,ASN China // 
+IP-ASN,143598,ASN China // 
+IP-ASN,143599,ASN China // 
+IP-ASN,143600,ASN China // 
+IP-ASN,143601,ASN China // 
+IP-ASN,143602,ASN China // 
+IP-ASN,143603,ASN China // 
+IP-ASN,143604,ASN China // 
+IP-ASN,143605,ASN China // 
+IP-ASN,143606,ASN China // 
+IP-ASN,143607,ASN China // 
+IP-ASN,143608,ASN China // 
+IP-ASN,143609,ASN China // 
+IP-ASN,143610,ASN China // 
+IP-ASN,143611,ASN China // 
+IP-ASN,143612,ASN China // 
+IP-ASN,143613,ASN China // 
+IP-ASN,143614,ASN China // 
+IP-ASN,143615,ASN China // 
+IP-ASN,143616,ASN China // 
+IP-ASN,143617,ASN China // 
+IP-ASN,143618,ASN China // 
+IP-ASN,143619,ASN China // 
+IP-ASN,143620,ASN China // 
+IP-ASN,143621,ASN China // 
+IP-ASN,143622,ASN China // 
+IP-ASN,143623,ASN China // 
+IP-ASN,143624,ASN China // 
+IP-ASN,143625,ASN China // 
+IP-ASN,143626,ASN China // 
+IP-ASN,143627,ASN China // 
+IP-ASN,143628,ASN China // 
+IP-ASN,143629,ASN China // 
+IP-ASN,143630,ASN China // 
+IP-ASN,143631,ASN China // 
+IP-ASN,143632,ASN China // 
+IP-ASN,143633,ASN China // 
+IP-ASN,143634,ASN China // 
+IP-ASN,143635,ASN China // 
+IP-ASN,143636,ASN China // 
+IP-ASN,143637,ASN China // 
+IP-ASN,143638,ASN China // 
+IP-ASN,143639,ASN China // 
+IP-ASN,143640,ASN China // 
+IP-ASN,143641,ASN China // 
+IP-ASN,143642,ASN China // 
+IP-ASN,143643,ASN China // 
+IP-ASN,143644,ASN China // 
+IP-ASN,143645,ASN China // 
+IP-ASN,143646,ASN China // 
+IP-ASN,143647,ASN China // 
+IP-ASN,143648,ASN China // 
+IP-ASN,143649,ASN China // 
+IP-ASN,143650,ASN China // 
+IP-ASN,143651,ASN China // 
+IP-ASN,143652,ASN China // 
+IP-ASN,143653,ASN China // 
+IP-ASN,143654,ASN China // 
+IP-ASN,143655,ASN China // 
+IP-ASN,143656,ASN China // 
+IP-ASN,143657,ASN China // 
+IP-ASN,143658,ASN China // 
+IP-ASN,143659,ASN China // 
+IP-ASN,143660,ASN China // 
+IP-ASN,143661,ASN China // 
+IP-ASN,143662,ASN China // 
+IP-ASN,143663,ASN China // 
+IP-ASN,143664,ASN China // 
+IP-ASN,143665,ASN China // 
+IP-ASN,143666,ASN China // 
+IP-ASN,143667,ASN China // 
+IP-ASN,143668,ASN China // 
+IP-ASN,143669,ASN China // 
+IP-ASN,143670,ASN China // 
+IP-ASN,143671,ASN China // 
+IP-ASN,143672,ASN China // 
+IP-ASN,143673,ASN China // 
+IP-ASN,143674,ASN China // 
+IP-ASN,143675,ASN China // 
+IP-ASN,143676,ASN China // 
+IP-ASN,143677,ASN China // 
+IP-ASN,143678,ASN China // 
+IP-ASN,143679,ASN China // 
+IP-ASN,143680,ASN China // 
+IP-ASN,143681,ASN China // 
+IP-ASN,143682,ASN China // 
+IP-ASN,143683,ASN China // 
+IP-ASN,143684,ASN China // 
+IP-ASN,143685,ASN China // 
+IP-ASN,143686,ASN China // 
+IP-ASN,143687,ASN China // 
+IP-ASN,143688,ASN China // 
+IP-ASN,143689,ASN China // 
+IP-ASN,143690,ASN China // 
+IP-ASN,143691,ASN China // 
+IP-ASN,143692,ASN China // 
+IP-ASN,143693,ASN China // 
+IP-ASN,143694,ASN China // 
+IP-ASN,143695,ASN China // 
+IP-ASN,143696,ASN China // 
+IP-ASN,143697,ASN China // 
+IP-ASN,143698,ASN China // 
+IP-ASN,143699,ASN China // 
+IP-ASN,143700,ASN China // 
+IP-ASN,143701,ASN China // 
+IP-ASN,143702,ASN China // 
+IP-ASN,143703,ASN China // 
+IP-ASN,143704,ASN China // 
+IP-ASN,143705,ASN China // 
+IP-ASN,143706,ASN China // 
+IP-ASN,143707,ASN China // 
+IP-ASN,143708,ASN China // 
+IP-ASN,143709,ASN China // 
+IP-ASN,143710,ASN China // 
+IP-ASN,143711,ASN China // 
+IP-ASN,143712,ASN China // 
+IP-ASN,143713,ASN China // 
+IP-ASN,143714,ASN China // 
+IP-ASN,143715,ASN China // 
+IP-ASN,143716,ASN China // 
+IP-ASN,143717,ASN China // 
+IP-ASN,143718,ASN China // 
+IP-ASN,143719,ASN China // 
+IP-ASN,143720,ASN China // 
+IP-ASN,143721,ASN China // 
+IP-ASN,143722,ASN China // 
+IP-ASN,143723,ASN China // 
+IP-ASN,143724,ASN China // 
+IP-ASN,143725,ASN China // 
+IP-ASN,143726,ASN China // 
+IP-ASN,143727,ASN China // 
+IP-ASN,143728,ASN China // 
+IP-ASN,143729,ASN China // 
+IP-ASN,143730,ASN China // 
+IP-ASN,143731,ASN China // 
+IP-ASN,143732,ASN China // 
+IP-ASN,143733,ASN China // 
+IP-ASN,143734,ASN China // 
+IP-ASN,143735,ASN China // 
+IP-ASN,143736,ASN China // 
+IP-ASN,143737,ASN China // 
+IP-ASN,143738,ASN China // 
+IP-ASN,143739,ASN China // 
+IP-ASN,143740,ASN China // 
+IP-ASN,143741,ASN China // 
+IP-ASN,143742,ASN China // 
+IP-ASN,143743,ASN China // 
+IP-ASN,143744,ASN China // 
+IP-ASN,143745,ASN China // 
+IP-ASN,143746,ASN China // 
+IP-ASN,143747,ASN China // 
+IP-ASN,143748,ASN China // 
+IP-ASN,143749,ASN China // 
+IP-ASN,143750,ASN China // 
+IP-ASN,143751,ASN China // 
+IP-ASN,143752,ASN China // 
+IP-ASN,143753,ASN China // 
+IP-ASN,143754,ASN China // 
+IP-ASN,143755,ASN China // 
+IP-ASN,143756,ASN China // 
+IP-ASN,143757,ASN China // 
+IP-ASN,143758,ASN China // 
+IP-ASN,143759,ASN China // 
+IP-ASN,143760,ASN China // 
+IP-ASN,143761,ASN China // 
+IP-ASN,143762,ASN China // 
+IP-ASN,143763,ASN China // 
+IP-ASN,143764,ASN China // 
+IP-ASN,143765,ASN China // 
+IP-ASN,143766,ASN China // 
+IP-ASN,143767,ASN China // 
+IP-ASN,143768,ASN China // 
+IP-ASN,143769,ASN China // 
+IP-ASN,143770,ASN China // 
+IP-ASN,143771,ASN China // 
+IP-ASN,143772,ASN China // 
+IP-ASN,143773,ASN China // 
+IP-ASN,143774,ASN China // 
+IP-ASN,143775,ASN China // 
+IP-ASN,143776,ASN China // 
+IP-ASN,143777,ASN China // 
+IP-ASN,143778,ASN China // 
+IP-ASN,143779,ASN China // 
+IP-ASN,143780,ASN China // 
+IP-ASN,143781,ASN China // 
+IP-ASN,143782,ASN China // 
+IP-ASN,143783,ASN China // 
+IP-ASN,143784,ASN China // 
+IP-ASN,143785,ASN China // 
+IP-ASN,143786,ASN China // 
+IP-ASN,143787,ASN China // 
+IP-ASN,143788,ASN China // 
+IP-ASN,143789,ASN China // 
+IP-ASN,143790,ASN China // 
+IP-ASN,143791,ASN China // 
+IP-ASN,143792,ASN China // 
+IP-ASN,143793,ASN China // 
+IP-ASN,143794,ASN China // 
+IP-ASN,143795,ASN China // 
+IP-ASN,143796,ASN China // 
+IP-ASN,143797,ASN China // 
+IP-ASN,143798,ASN China // 
+IP-ASN,143799,ASN China // 
+IP-ASN,143800,ASN China // 
+IP-ASN,143801,ASN China // 
+IP-ASN,143802,ASN China // 
+IP-ASN,143803,ASN China // 
+IP-ASN,143804,ASN China // 
+IP-ASN,143805,ASN China // 
+IP-ASN,143806,ASN China // 
+IP-ASN,143807,ASN China // 
+IP-ASN,143808,ASN China // 
+IP-ASN,143809,ASN China // 
+IP-ASN,143810,ASN China // 
+IP-ASN,143811,ASN China // 
+IP-ASN,143812,ASN China // 
+IP-ASN,143813,ASN China // 
+IP-ASN,143814,ASN China // 
+IP-ASN,143815,ASN China // 
+IP-ASN,143816,ASN China // 
+IP-ASN,143817,ASN China // 
+IP-ASN,143818,ASN China // 
+IP-ASN,143819,ASN China // 
+IP-ASN,143820,ASN China // 
+IP-ASN,143821,ASN China // 
+IP-ASN,143822,ASN China // 
+IP-ASN,143823,ASN China // 
+IP-ASN,143824,ASN China // 
+IP-ASN,143825,ASN China // 
+IP-ASN,143826,ASN China // 
+IP-ASN,143827,ASN China // 
+IP-ASN,143828,ASN China // 
+IP-ASN,143829,ASN China // 
+IP-ASN,143830,ASN China // 
+IP-ASN,143831,ASN China // 
+IP-ASN,143832,ASN China // 
+IP-ASN,143833,ASN China // 
+IP-ASN,143834,ASN China // 
+IP-ASN,143835,ASN China // 
+IP-ASN,143836,ASN China // 
+IP-ASN,143837,ASN China // 
+IP-ASN,143838,ASN China // 
+IP-ASN,143839,ASN China // 
+IP-ASN,143840,ASN China // 
+IP-ASN,143841,ASN China // 
+IP-ASN,143842,ASN China // 
+IP-ASN,143843,ASN China // 
+IP-ASN,143844,ASN China // 
+IP-ASN,143845,ASN China // 
+IP-ASN,143846,ASN China // 
+IP-ASN,143847,ASN China // 
+IP-ASN,143848,ASN China // 
+IP-ASN,143849,ASN China // 
+IP-ASN,143850,ASN China // 
+IP-ASN,143851,ASN China // 
+IP-ASN,143852,ASN China // 
+IP-ASN,143853,ASN China // 
+IP-ASN,143854,ASN China // 
+IP-ASN,143855,ASN China // 
+IP-ASN,143856,ASN China // 
+IP-ASN,143857,ASN China // 
+IP-ASN,143858,ASN China // 
+IP-ASN,143859,ASN China // 
+IP-ASN,143860,ASN China // 
+IP-ASN,143861,ASN China // 
+IP-ASN,143862,ASN China // 
+IP-ASN,143863,ASN China // 
+IP-ASN,143864,ASN China // 
+IP-ASN,143865,ASN China // 
+IP-ASN,143866,ASN China // 
+IP-ASN,143867,ASN China // 
+IP-ASN,143868,ASN China // 
+IP-ASN,143869,ASN China // 
+IP-ASN,143870,ASN China // 
+IP-ASN,143871,ASN China // 
+IP-ASN,143872,ASN China // 
+IP-ASN,143873,ASN China // 
+IP-ASN,143874,ASN China // 
+IP-ASN,143875,ASN China // 
+IP-ASN,143876,ASN China // 
+IP-ASN,143877,ASN China // 
+IP-ASN,143878,ASN China // 
+IP-ASN,143879,ASN China // 
+IP-ASN,143880,ASN China // 
+IP-ASN,143881,ASN China // 
+IP-ASN,143882,ASN China // 
+IP-ASN,143883,ASN China // 
+IP-ASN,143884,ASN China // 
+IP-ASN,143885,ASN China // 
+IP-ASN,143886,ASN China // 
+IP-ASN,143887,ASN China // 
+IP-ASN,143888,ASN China // 
+IP-ASN,143889,ASN China // 
+IP-ASN,143890,ASN China // 
+IP-ASN,143891,ASN China // 
+IP-ASN,143892,ASN China // 
+IP-ASN,143893,ASN China // 
+IP-ASN,143894,ASN China // 
+IP-ASN,143895,ASN China // 
+IP-ASN,143896,ASN China // 
+IP-ASN,143897,ASN China // 
+IP-ASN,143898,ASN China // 
+IP-ASN,143899,ASN China // 
+IP-ASN,143900,ASN China // 
+IP-ASN,143901,ASN China // 
+IP-ASN,143902,ASN China // 
+IP-ASN,143903,ASN China // 
+IP-ASN,143904,ASN China // 
+IP-ASN,143905,ASN China // 
+IP-ASN,143906,ASN China // 
+IP-ASN,143907,ASN China // 
+IP-ASN,143908,ASN China // 
+IP-ASN,143909,ASN China // 
+IP-ASN,143910,ASN China // 
+IP-ASN,143911,ASN China // 
+IP-ASN,143912,ASN China // 
+IP-ASN,143913,ASN China // 
+IP-ASN,143914,ASN China // 
+IP-ASN,143915,ASN China // 
+IP-ASN,143916,ASN China // 
+IP-ASN,143917,ASN China // 
+IP-ASN,143918,ASN China // 
+IP-ASN,143919,ASN China // 
+IP-ASN,143920,ASN China // 
+IP-ASN,143921,ASN China // 
+IP-ASN,143922,ASN China // 
+IP-ASN,143923,ASN China // 
+IP-ASN,143924,ASN China // 
+IP-ASN,143925,ASN China // 
+IP-ASN,143926,ASN China // 
+IP-ASN,143927,ASN China // 
+IP-ASN,143928,ASN China // 
+IP-ASN,143929,ASN China // 
+IP-ASN,143930,ASN China // 
+IP-ASN,143931,ASN China // 
+IP-ASN,143932,ASN China // 
+IP-ASN,143933,ASN China // 
+IP-ASN,143934,ASN China // 
+IP-ASN,143935,ASN China // 
+IP-ASN,143936,ASN China // 
+IP-ASN,143937,ASN China // 
+IP-ASN,143938,ASN China // 
+IP-ASN,143939,ASN China // 
+IP-ASN,143940,ASN China // 
+IP-ASN,143941,ASN China // 
+IP-ASN,143942,ASN China // 
+IP-ASN,143943,ASN China // 
+IP-ASN,143944,ASN China // 
+IP-ASN,143945,ASN China // 
+IP-ASN,143946,ASN China // 
+IP-ASN,143947,ASN China // 
+IP-ASN,143948,ASN China // 
+IP-ASN,143949,ASN China // 
+IP-ASN,143950,ASN China // 
+IP-ASN,143951,ASN China // 
+IP-ASN,143952,ASN China // 
+IP-ASN,143953,ASN China // 
+IP-ASN,143954,ASN China // 
+IP-ASN,143955,ASN China // 
+IP-ASN,143956,ASN China // 
+IP-ASN,143957,ASN China // 
+IP-ASN,143958,ASN China // 
+IP-ASN,143959,ASN China // 
+IP-ASN,143960,ASN China // 
+IP-ASN,143961,ASN China // 
+IP-ASN,143962,ASN China // 
+IP-ASN,143963,ASN China // 
+IP-ASN,143964,ASN China // 
+IP-ASN,143965,ASN China // 
+IP-ASN,143966,ASN China // 
+IP-ASN,143967,ASN China // 
+IP-ASN,143968,ASN China // 
+IP-ASN,143969,ASN China // 
+IP-ASN,143970,ASN China // 
+IP-ASN,143971,ASN China // 
+IP-ASN,143972,ASN China // 
+IP-ASN,143973,ASN China // 
+IP-ASN,143974,ASN China // 
+IP-ASN,143975,ASN China // 
+IP-ASN,143976,ASN China // 
+IP-ASN,143977,ASN China // 
+IP-ASN,143978,ASN China // 
+IP-ASN,143979,ASN China // 
+IP-ASN,143980,ASN China // 
+IP-ASN,143981,ASN China // 
+IP-ASN,143982,ASN China // 
+IP-ASN,143983,ASN China // 
+IP-ASN,143984,ASN China // 
+IP-ASN,143985,ASN China // 
+IP-ASN,143986,ASN China // 
+IP-ASN,143987,ASN China // 
+IP-ASN,143988,ASN China // 
+IP-ASN,143989,ASN China // 
+IP-ASN,143990,ASN China // 
+IP-ASN,143991,ASN China // 
+IP-ASN,143992,ASN China // 
+IP-ASN,143993,ASN China // 
+IP-ASN,143994,ASN China // 
+IP-ASN,143995,ASN China // 
+IP-ASN,143996,ASN China // 
+IP-ASN,143997,ASN China // 
+IP-ASN,143998,ASN China // 
+IP-ASN,143999,ASN China // 
+IP-ASN,144000,ASN China // 
+IP-ASN,144001,ASN China // 
+IP-ASN,144002,ASN China // 
+IP-ASN,144003,ASN China // 
+IP-ASN,144004,ASN China // 
+IP-ASN,144005,ASN China // 
+IP-ASN,144006,ASN China // 
+IP-ASN,144007,ASN China // 
+IP-ASN,144008,ASN China // 
+IP-ASN,144009,ASN China // 
+IP-ASN,144010,ASN China // 
+IP-ASN,144011,ASN China // 
+IP-ASN,144012,ASN China // 
+IP-ASN,144013,ASN China // 
+IP-ASN,144014,ASN China // 
+IP-ASN,144015,ASN China // 
+IP-ASN,144016,ASN China // 
+IP-ASN,144017,ASN China // 
+IP-ASN,144018,ASN China // 
+IP-ASN,144019,ASN China // 
+IP-ASN,144020,ASN China // 
+IP-ASN,144021,ASN China // 
+IP-ASN,144022,ASN China // 
+IP-ASN,144023,ASN China // 
+IP-ASN,144024,ASN China // 
+IP-ASN,144025,ASN China // 
+IP-ASN,144026,ASN China // 
+IP-ASN,144027,ASN China // 
+IP-ASN,144028,ASN China // 
+IP-ASN,144029,ASN China // 
+IP-ASN,144030,ASN China // 
+IP-ASN,144031,ASN China // 
+IP-ASN,144032,ASN China // 
+IP-ASN,144033,ASN China // 
+IP-ASN,144034,ASN China // 
+IP-ASN,144035,ASN China // 
+IP-ASN,144036,ASN China // 
+IP-ASN,144037,ASN China // 
+IP-ASN,144038,ASN China // 
+IP-ASN,144039,ASN China // 
+IP-ASN,144040,ASN China // 
+IP-ASN,144041,ASN China // 
+IP-ASN,144042,ASN China // 
+IP-ASN,144043,ASN China // 
+IP-ASN,144044,ASN China // 
+IP-ASN,144045,ASN China // 
+IP-ASN,144046,ASN China // 
+IP-ASN,144047,ASN China // 
+IP-ASN,144048,ASN China // 
+IP-ASN,144049,ASN China // 
+IP-ASN,144050,ASN China // 
+IP-ASN,144051,ASN China // 
+IP-ASN,144052,ASN China // 
+IP-ASN,144053,ASN China // 
+IP-ASN,144054,ASN China // 
+IP-ASN,144055,ASN China // 
+IP-ASN,144056,ASN China // 
+IP-ASN,144057,ASN China // 
+IP-ASN,144058,ASN China // 
+IP-ASN,144059,ASN China // 
+IP-ASN,144060,ASN China // 
+IP-ASN,144061,ASN China // 
+IP-ASN,144062,ASN China // 
+IP-ASN,144063,ASN China // 
+IP-ASN,144064,ASN China // 
+IP-ASN,144065,ASN China // 
+IP-ASN,144066,ASN China // 
+IP-ASN,144067,ASN China // 
+IP-ASN,144068,ASN China // 
+IP-ASN,144069,ASN China // 
+IP-ASN,144070,ASN China // 
+IP-ASN,144071,ASN China // 
+IP-ASN,144072,ASN China // 
+IP-ASN,144073,ASN China // 
+IP-ASN,144074,ASN China // 
+IP-ASN,144075,ASN China // 
+IP-ASN,144076,ASN China // 
+IP-ASN,144077,ASN China // 
+IP-ASN,144078,ASN China // 
+IP-ASN,144079,ASN China // 
+IP-ASN,144080,ASN China // 
+IP-ASN,144081,ASN China // 
+IP-ASN,144082,ASN China // 
+IP-ASN,144083,ASN China // 
+IP-ASN,144084,ASN China // 
+IP-ASN,144085,ASN China // 
+IP-ASN,144086,ASN China // 
+IP-ASN,144087,ASN China // 
+IP-ASN,144088,ASN China // 
+IP-ASN,144089,ASN China // 
+IP-ASN,144090,ASN China // 
+IP-ASN,144091,ASN China // 
+IP-ASN,144092,ASN China // 
+IP-ASN,144093,ASN China // 
+IP-ASN,144094,ASN China // 
+IP-ASN,144095,ASN China // 
+IP-ASN,144096,ASN China // 
+IP-ASN,144097,ASN China // 
+IP-ASN,144098,ASN China // 
+IP-ASN,144099,ASN China // 
+IP-ASN,144100,ASN China // 
+IP-ASN,144101,ASN China // 
+IP-ASN,144102,ASN China // 
+IP-ASN,144103,ASN China // 
+IP-ASN,144104,ASN China // 
+IP-ASN,144105,ASN China // 
+IP-ASN,144106,ASN China // 
+IP-ASN,144107,ASN China // 
+IP-ASN,144108,ASN China // 
+IP-ASN,144109,ASN China // 
+IP-ASN,144110,ASN China // 
+IP-ASN,144111,ASN China // 
+IP-ASN,144112,ASN China // 
+IP-ASN,144113,ASN China // 
+IP-ASN,144114,ASN China // 
+IP-ASN,144115,ASN China // 
+IP-ASN,144116,ASN China // 
+IP-ASN,144117,ASN China // 
+IP-ASN,144118,ASN China // 
+IP-ASN,144119,ASN China // 
+IP-ASN,144120,ASN China // 
+IP-ASN,144121,ASN China // 
+IP-ASN,144122,ASN China // 
+IP-ASN,144123,ASN China // 
+IP-ASN,144124,ASN China // 
+IP-ASN,144125,ASN China // 
+IP-ASN,144126,ASN China // 
+IP-ASN,144127,ASN China // 
+IP-ASN,144128,ASN China // 
+IP-ASN,144129,ASN China // 
+IP-ASN,144130,ASN China // 
+IP-ASN,144131,ASN China // 
+IP-ASN,144132,ASN China // 
+IP-ASN,144133,ASN China // 
+IP-ASN,144134,ASN China // 
+IP-ASN,144135,ASN China // 
+IP-ASN,144136,ASN China // 
+IP-ASN,144137,ASN China // 
+IP-ASN,144138,ASN China // 
+IP-ASN,144139,ASN China // 
+IP-ASN,144140,ASN China // 
+IP-ASN,144141,ASN China // 
+IP-ASN,144142,ASN China // 
+IP-ASN,144143,ASN China // 
+IP-ASN,144144,ASN China // 
+IP-ASN,144145,ASN China // 
+IP-ASN,144146,ASN China // 
+IP-ASN,144147,ASN China // 
+IP-ASN,144148,ASN China // 
+IP-ASN,144149,ASN China // 
+IP-ASN,144150,ASN China // 
+IP-ASN,144151,ASN China // 
+IP-ASN,144152,ASN China // 
+IP-ASN,144153,ASN China // 
+IP-ASN,144154,ASN China // 
+IP-ASN,144155,ASN China // 
+IP-ASN,144156,ASN China // 
+IP-ASN,144157,ASN China // 
+IP-ASN,144158,ASN China // 
+IP-ASN,144159,ASN China // 
+IP-ASN,144160,ASN China // 
+IP-ASN,144161,ASN China // 
+IP-ASN,144162,ASN China // 
+IP-ASN,144163,ASN China // 
+IP-ASN,144164,ASN China // 
+IP-ASN,144165,ASN China // 
+IP-ASN,144166,ASN China // 
+IP-ASN,144167,ASN China // 
+IP-ASN,144168,ASN China // 
+IP-ASN,144169,ASN China // 
+IP-ASN,144170,ASN China // 
+IP-ASN,144171,ASN China // 
+IP-ASN,144172,ASN China // 
+IP-ASN,144173,ASN China // 
+IP-ASN,144174,ASN China // 
+IP-ASN,144175,ASN China // 
+IP-ASN,144176,ASN China // 
+IP-ASN,144177,ASN China // 
+IP-ASN,144178,ASN China // 
+IP-ASN,144179,ASN China // 
+IP-ASN,144180,ASN China // 
+IP-ASN,144181,ASN China // 
+IP-ASN,144182,ASN China // 
+IP-ASN,144183,ASN China // 
+IP-ASN,144184,ASN China // 
+IP-ASN,144185,ASN China // 
+IP-ASN,144186,ASN China // 
+IP-ASN,144187,ASN China // 
+IP-ASN,144188,ASN China // 
+IP-ASN,144189,ASN China // 
+IP-ASN,144190,ASN China // 
+IP-ASN,144191,ASN China // 
+IP-ASN,144192,ASN China // 
+IP-ASN,144193,ASN China // 
+IP-ASN,144194,ASN China // 
+IP-ASN,144195,ASN China // 
+IP-ASN,144196,ASN China // 
+IP-ASN,144197,ASN China // 
+IP-ASN,144198,ASN China // 
+IP-ASN,144199,ASN China // 
+IP-ASN,144200,ASN China // 
+IP-ASN,144201,ASN China // 
+IP-ASN,144202,ASN China // 
+IP-ASN,144203,ASN China // 
+IP-ASN,144204,ASN China // 
+IP-ASN,144205,ASN China // 
+IP-ASN,144206,ASN China // 
+IP-ASN,144207,ASN China // 
+IP-ASN,144208,ASN China // 
+IP-ASN,144209,ASN China // 
+IP-ASN,144210,ASN China // 
+IP-ASN,144211,ASN China // 
+IP-ASN,144212,ASN China // 
+IP-ASN,144213,ASN China // 
+IP-ASN,144214,ASN China // 
+IP-ASN,144215,ASN China // 
+IP-ASN,144216,ASN China // 
+IP-ASN,144217,ASN China // 
+IP-ASN,144218,ASN China // 
+IP-ASN,144219,ASN China // 
+IP-ASN,144220,ASN China // 
+IP-ASN,144221,ASN China // 
+IP-ASN,144222,ASN China // 
+IP-ASN,144223,ASN China // 
+IP-ASN,144224,ASN China // 
+IP-ASN,144225,ASN China // 
+IP-ASN,144226,ASN China // 
+IP-ASN,144227,ASN China // 
+IP-ASN,144228,ASN China // 
+IP-ASN,144229,ASN China // 
+IP-ASN,144230,ASN China // 
+IP-ASN,144231,ASN China // 
+IP-ASN,144232,ASN China // 
+IP-ASN,144233,ASN China // 
+IP-ASN,144234,ASN China // 
+IP-ASN,144235,ASN China // 
+IP-ASN,144236,ASN China // 
+IP-ASN,144237,ASN China // 
+IP-ASN,144238,ASN China // 
+IP-ASN,144239,ASN China // 
+IP-ASN,144240,ASN China // 
+IP-ASN,144241,ASN China // 
+IP-ASN,144242,ASN China // 
+IP-ASN,144243,ASN China // 
+IP-ASN,144244,ASN China // 
+IP-ASN,144245,ASN China // 
+IP-ASN,144246,ASN China // 
+IP-ASN,144247,ASN China // 
+IP-ASN,144248,ASN China // 
+IP-ASN,144249,ASN China // 
+IP-ASN,144250,ASN China // 
+IP-ASN,144251,ASN China // 
+IP-ASN,144252,ASN China // 
+IP-ASN,144253,ASN China // 
+IP-ASN,144254,ASN China // 
+IP-ASN,144255,ASN China // 
+IP-ASN,144256,ASN China // 
+IP-ASN,144257,ASN China // 
+IP-ASN,144258,ASN China // 
+IP-ASN,144259,ASN China // 
+IP-ASN,144260,ASN China // 
+IP-ASN,144261,ASN China // 
+IP-ASN,144262,ASN China // 
+IP-ASN,144263,ASN China // 
+IP-ASN,144264,ASN China // 
+IP-ASN,144265,ASN China // 
+IP-ASN,144266,ASN China // 
+IP-ASN,144267,ASN China // 
+IP-ASN,144268,ASN China // 
+IP-ASN,144269,ASN China // 
+IP-ASN,144270,ASN China // 
+IP-ASN,144271,ASN China // 
+IP-ASN,144272,ASN China // 
+IP-ASN,144273,ASN China // 
+IP-ASN,144274,ASN China // 
+IP-ASN,144275,ASN China // 
+IP-ASN,144276,ASN China // 
+IP-ASN,144277,ASN China // 
+IP-ASN,144278,ASN China // 
+IP-ASN,144279,ASN China // 
+IP-ASN,144280,ASN China // 
+IP-ASN,144281,ASN China // 
+IP-ASN,144282,ASN China // 
+IP-ASN,144283,ASN China // 
+IP-ASN,144284,ASN China // 
+IP-ASN,144285,ASN China // 
+IP-ASN,144286,ASN China // 
+IP-ASN,144287,ASN China // 
+IP-ASN,144288,ASN China // 
+IP-ASN,144289,ASN China // 
+IP-ASN,144290,ASN China // 
+IP-ASN,144291,ASN China // 
+IP-ASN,144292,ASN China // 
+IP-ASN,144293,ASN China // 
+IP-ASN,144294,ASN China // 
+IP-ASN,144295,ASN China // 
+IP-ASN,144296,ASN China // 
+IP-ASN,144297,ASN China // 
+IP-ASN,144298,ASN China // 
+IP-ASN,144299,ASN China // 
+IP-ASN,144300,ASN China // 
+IP-ASN,144301,ASN China // 
+IP-ASN,144302,ASN China // 
+IP-ASN,144303,ASN China // 
+IP-ASN,144304,ASN China // 
+IP-ASN,144305,ASN China // 
+IP-ASN,144306,ASN China // 
+IP-ASN,144307,ASN China // 
+IP-ASN,144308,ASN China // 
+IP-ASN,144309,ASN China // 
+IP-ASN,144310,ASN China // 
+IP-ASN,144311,ASN China // 
+IP-ASN,144312,ASN China // 
+IP-ASN,144313,ASN China // 
+IP-ASN,144314,ASN China // 
+IP-ASN,144315,ASN China // 
+IP-ASN,144316,ASN China // 
+IP-ASN,144317,ASN China // 
+IP-ASN,144318,ASN China // 
+IP-ASN,144319,ASN China // 
+IP-ASN,144320,ASN China // 
+IP-ASN,144321,ASN China // 
+IP-ASN,144322,ASN China // 
+IP-ASN,144323,ASN China // 
+IP-ASN,144324,ASN China // 
+IP-ASN,144325,ASN China // 
+IP-ASN,144326,ASN China // 
+IP-ASN,144327,ASN China // 
+IP-ASN,144328,ASN China // 
+IP-ASN,144329,ASN China // 
+IP-ASN,144330,ASN China // 
+IP-ASN,144331,ASN China // 
+IP-ASN,144332,ASN China // 
+IP-ASN,144333,ASN China // 
+IP-ASN,144334,ASN China // 
+IP-ASN,144335,ASN China // 
+IP-ASN,144336,ASN China // 
+IP-ASN,144337,ASN China // 
+IP-ASN,144338,ASN China // 
+IP-ASN,144339,ASN China // 
+IP-ASN,144340,ASN China // 
+IP-ASN,144341,ASN China // 
+IP-ASN,144342,ASN China // 
+IP-ASN,144343,ASN China // 
+IP-ASN,144344,ASN China // 
+IP-ASN,144345,ASN China // 
+IP-ASN,144346,ASN China // 
+IP-ASN,144347,ASN China // 
+IP-ASN,144348,ASN China // 
+IP-ASN,144349,ASN China // 
+IP-ASN,144350,ASN China // 
+IP-ASN,144351,ASN China // 
+IP-ASN,144352,ASN China // 
+IP-ASN,144353,ASN China // 
+IP-ASN,144354,ASN China // 
+IP-ASN,144355,ASN China // 
+IP-ASN,144356,ASN China // 
+IP-ASN,144357,ASN China // 
+IP-ASN,144358,ASN China // 
+IP-ASN,144359,ASN China // 
+IP-ASN,144360,ASN China // 
+IP-ASN,144361,ASN China // 
+IP-ASN,144362,ASN China // 
+IP-ASN,144363,ASN China // 
+IP-ASN,144364,ASN China // 
+IP-ASN,144365,ASN China // 
+IP-ASN,144366,ASN China // 
+IP-ASN,144367,ASN China // 
+IP-ASN,144368,ASN China // 
+IP-ASN,144369,ASN China // 
+IP-ASN,144370,ASN China // 
+IP-ASN,144371,ASN China // 
+IP-ASN,144372,ASN China // 
+IP-ASN,144373,ASN China // 
+IP-ASN,144374,ASN China // 
+IP-ASN,144375,ASN China // 
+IP-ASN,144376,ASN China // 
+IP-ASN,144377,ASN China // 
+IP-ASN,144378,ASN China // 
+IP-ASN,144379,ASN China // 
+IP-ASN,144380,ASN China // 
+IP-ASN,144381,ASN China // 
+IP-ASN,144382,ASN China // 
+IP-ASN,144383,ASN China // 
+IP-ASN,144384,ASN China // 
+IP-ASN,144385,ASN China // 
+IP-ASN,144386,ASN China // 
+IP-ASN,144387,ASN China // 
+IP-ASN,144388,ASN China // 
+IP-ASN,144389,ASN China // 
+IP-ASN,144390,ASN China // 
+IP-ASN,144391,ASN China // 
+IP-ASN,144392,ASN China // 
+IP-ASN,144393,ASN China // 
+IP-ASN,144394,ASN China // 
+IP-ASN,144395,ASN China // 
+IP-ASN,144396,ASN China // 
+IP-ASN,144397,ASN China // 
+IP-ASN,144398,ASN China // 
+IP-ASN,144399,ASN China // 
+IP-ASN,144400,ASN China // 
+IP-ASN,144401,ASN China // 
+IP-ASN,144402,ASN China // 
+IP-ASN,144403,ASN China // 
+IP-ASN,144404,ASN China // 
+IP-ASN,144405,ASN China // 
+IP-ASN,144406,ASN China // 
+IP-ASN,144407,ASN China // 
+IP-ASN,144408,ASN China // 
+IP-ASN,144409,ASN China // 
+IP-ASN,144410,ASN China // 
+IP-ASN,144411,ASN China // 
+IP-ASN,144412,ASN China // 
+IP-ASN,144413,ASN China // 
+IP-ASN,144414,ASN China // 
+IP-ASN,144415,ASN China // 
+IP-ASN,144416,ASN China // 
+IP-ASN,144417,ASN China // 
+IP-ASN,144418,ASN China // 
+IP-ASN,144419,ASN China // 
+IP-ASN,144420,ASN China // 
+IP-ASN,144421,ASN China // 
+IP-ASN,144422,ASN China // 
+IP-ASN,144423,ASN China // 
+IP-ASN,144424,ASN China // 
+IP-ASN,144425,ASN China // 
+IP-ASN,144426,ASN China // 
+IP-ASN,144427,ASN China // 
+IP-ASN,144428,ASN China // 
+IP-ASN,144429,ASN China // 
+IP-ASN,144430,ASN China // 
+IP-ASN,144431,ASN China // 
+IP-ASN,144432,ASN China // 
+IP-ASN,144433,ASN China // 
+IP-ASN,144434,ASN China // 
+IP-ASN,144435,ASN China // 
+IP-ASN,144436,ASN China // 
+IP-ASN,144437,ASN China // 
+IP-ASN,144438,ASN China // 
+IP-ASN,144439,ASN China // 
+IP-ASN,144440,ASN China // 
+IP-ASN,144441,ASN China // 
+IP-ASN,144442,ASN China // 
+IP-ASN,144443,ASN China // 
+IP-ASN,144444,ASN China // 
+IP-ASN,144445,ASN China // 
+IP-ASN,144446,ASN China // 
+IP-ASN,144447,ASN China // 
+IP-ASN,144448,ASN China // 
+IP-ASN,144449,ASN China // 
+IP-ASN,144450,ASN China // 
+IP-ASN,144451,ASN China // 
+IP-ASN,144452,ASN China // 
+IP-ASN,144453,ASN China // 
+IP-ASN,144454,ASN China // 
+IP-ASN,144455,ASN China // 
+IP-ASN,144456,ASN China // 
+IP-ASN,144457,ASN China // 
+IP-ASN,144458,ASN China // 
+IP-ASN,144459,ASN China // 
+IP-ASN,144460,ASN China // 
+IP-ASN,144461,ASN China // 
+IP-ASN,144462,ASN China // 
+IP-ASN,144463,ASN China // 
+IP-ASN,144464,ASN China // 
+IP-ASN,144465,ASN China // 
+IP-ASN,144466,ASN China // 
+IP-ASN,144467,ASN China // 
+IP-ASN,144468,ASN China // 
+IP-ASN,144469,ASN China // 
+IP-ASN,144470,ASN China // 
+IP-ASN,144471,ASN China // 
+IP-ASN,144472,ASN China // 
+IP-ASN,144473,ASN China // 
+IP-ASN,144474,ASN China // 
+IP-ASN,144475,ASN China // 
+IP-ASN,144476,ASN China // 
+IP-ASN,144477,ASN China // 
+IP-ASN,144478,ASN China // 
+IP-ASN,144479,ASN China // 
+IP-ASN,144480,ASN China // 
+IP-ASN,144481,ASN China // 
+IP-ASN,144482,ASN China // 
+IP-ASN,144483,ASN China // 
+IP-ASN,144484,ASN China // 
+IP-ASN,144485,ASN China // 
+IP-ASN,144486,ASN China // 
+IP-ASN,144487,ASN China // 
+IP-ASN,144488,ASN China // 
+IP-ASN,144489,ASN China // 
+IP-ASN,144490,ASN China // 
+IP-ASN,144491,ASN China // 
+IP-ASN,144492,ASN China // 
+IP-ASN,144493,ASN China // 
+IP-ASN,144494,ASN China // 
+IP-ASN,144495,ASN China // 
+IP-ASN,144496,ASN China // 
+IP-ASN,144497,ASN China // 
+IP-ASN,144498,ASN China // 
+IP-ASN,144499,ASN China // 
+IP-ASN,144500,ASN China // 
+IP-ASN,144501,ASN China // 
+IP-ASN,144502,ASN China // 
+IP-ASN,144503,ASN China // 
+IP-ASN,144504,ASN China // 
+IP-ASN,144505,ASN China // 
+IP-ASN,144506,ASN China // 
+IP-ASN,144507,ASN China // 
+IP-ASN,144508,ASN China // 
+IP-ASN,144509,ASN China // 
+IP-ASN,144510,ASN China // 
+IP-ASN,144511,ASN China // 
+IP-ASN,144512,ASN China // 
+IP-ASN,144513,ASN China // 
+IP-ASN,144514,ASN China // 
+IP-ASN,144515,ASN China // 
+IP-ASN,144516,ASN China // 
+IP-ASN,144517,ASN China // 
+IP-ASN,144518,ASN China // 
+IP-ASN,144519,ASN China // 
+IP-ASN,144520,ASN China // 
+IP-ASN,144521,ASN China // 
+IP-ASN,144522,ASN China // 
+IP-ASN,144523,ASN China // 
+IP-ASN,144524,ASN China // 
+IP-ASN,144525,ASN China // 
+IP-ASN,144526,ASN China // 
+IP-ASN,144527,ASN China // 
+IP-ASN,144528,ASN China // 
+IP-ASN,144529,ASN China // 
+IP-ASN,144530,ASN China // 
+IP-ASN,144531,ASN China // 
+IP-ASN,144532,ASN China // 
+IP-ASN,144533,ASN China // 
+IP-ASN,144534,ASN China // 
+IP-ASN,144535,ASN China // 
+IP-ASN,144536,ASN China // 
+IP-ASN,144537,ASN China // 
+IP-ASN,144538,ASN China // 
+IP-ASN,144539,ASN China // 
+IP-ASN,144540,ASN China // 
+IP-ASN,144541,ASN China // 
+IP-ASN,144542,ASN China // 
+IP-ASN,144543,ASN China // 
+IP-ASN,144544,ASN China // 
+IP-ASN,144545,ASN China // 
+IP-ASN,144546,ASN China // 
+IP-ASN,144547,ASN China // 
+IP-ASN,144548,ASN China // 
+IP-ASN,144549,ASN China // 
+IP-ASN,144550,ASN China // 
+IP-ASN,144551,ASN China // 
+IP-ASN,144552,ASN China // 
+IP-ASN,144553,ASN China // 
+IP-ASN,144554,ASN China // 
+IP-ASN,144555,ASN China // 
+IP-ASN,144556,ASN China // 
+IP-ASN,144557,ASN China // 
+IP-ASN,144558,ASN China // 
+IP-ASN,144559,ASN China // 
+IP-ASN,144560,ASN China // 
+IP-ASN,144561,ASN China // 
+IP-ASN,144562,ASN China // 
+IP-ASN,144563,ASN China // 
+IP-ASN,144564,ASN China // 
+IP-ASN,144565,ASN China // 
+IP-ASN,144566,ASN China // 
+IP-ASN,144567,ASN China // 
+IP-ASN,144568,ASN China // 
+IP-ASN,144569,ASN China // 
+IP-ASN,144570,ASN China // 
+IP-ASN,144571,ASN China // 
+IP-ASN,144572,ASN China // 
+IP-ASN,144573,ASN China // 
+IP-ASN,144574,ASN China // 
+IP-ASN,144575,ASN China // 
+IP-ASN,144576,ASN China // 
+IP-ASN,144577,ASN China // 
+IP-ASN,144578,ASN China // 
+IP-ASN,144579,ASN China // 
+IP-ASN,144580,ASN China // 
+IP-ASN,144581,ASN China // 
+IP-ASN,144582,ASN China // 
+IP-ASN,144583,ASN China // 
+IP-ASN,144584,ASN China // 
+IP-ASN,144585,ASN China // 
+IP-ASN,144586,ASN China // 
+IP-ASN,144587,ASN China // 
+IP-ASN,144588,ASN China // 
+IP-ASN,144589,ASN China // 
+IP-ASN,144590,ASN China // 
+IP-ASN,144591,ASN China // 
+IP-ASN,144592,ASN China // 
+IP-ASN,144593,ASN China // 
+IP-ASN,144594,ASN China // 
+IP-ASN,144595,ASN China // 
+IP-ASN,144596,ASN China // 
+IP-ASN,144597,ASN China // 
+IP-ASN,144598,ASN China // 
+IP-ASN,144599,ASN China // 
+IP-ASN,144600,ASN China // 
+IP-ASN,144601,ASN China // 
+IP-ASN,144602,ASN China // 
+IP-ASN,144603,ASN China // 
+IP-ASN,144604,ASN China // 
+IP-ASN,144605,ASN China // 
+IP-ASN,144606,ASN China // 
+IP-ASN,144607,ASN China // 
+IP-ASN,144608,ASN China // 
+IP-ASN,144609,ASN China // 
+IP-ASN,144610,ASN China // 
+IP-ASN,144611,ASN China // 
+IP-ASN,144612,ASN China // 
+IP-ASN,144613,ASN China // 
+IP-ASN,144614,ASN China // 
+IP-ASN,144615,ASN China // 
+IP-ASN,144616,ASN China // 
+IP-ASN,144617,ASN China // 
+IP-ASN,144618,ASN China // 
+IP-ASN,144619,ASN China // 
+IP-ASN,144620,ASN China // 
+IP-ASN,144621,ASN China // 
+IP-ASN,144622,ASN China // 
+IP-ASN,144623,ASN China // 
+IP-ASN,144624,ASN China // 
+IP-ASN,144625,ASN China // 
+IP-ASN,144626,ASN China // 
+IP-ASN,144627,ASN China // 
+IP-ASN,144628,ASN China // 
+IP-ASN,144629,ASN China // 
+IP-ASN,144630,ASN China // 
+IP-ASN,144631,ASN China // 
+IP-ASN,144632,ASN China // 
+IP-ASN,144633,ASN China // 
+IP-ASN,144634,ASN China // 
+IP-ASN,144635,ASN China // 
+IP-ASN,144636,ASN China // 
+IP-ASN,144637,ASN China // 
+IP-ASN,144638,ASN China // 
+IP-ASN,144639,ASN China // 
+IP-ASN,144640,ASN China // 
+IP-ASN,144641,ASN China // 
+IP-ASN,144642,ASN China // 
+IP-ASN,144643,ASN China // 
+IP-ASN,144644,ASN China // 
+IP-ASN,144645,ASN China // 
+IP-ASN,144646,ASN China // 
+IP-ASN,144647,ASN China // 
+IP-ASN,144648,ASN China // 
+IP-ASN,144649,ASN China // 
+IP-ASN,144650,ASN China // 
+IP-ASN,144651,ASN China // 
+IP-ASN,144652,ASN China // 
+IP-ASN,144653,ASN China // 
+IP-ASN,144654,ASN China // 
+IP-ASN,144655,ASN China // 
+IP-ASN,144656,ASN China // 
+IP-ASN,144657,ASN China // 
+IP-ASN,144658,ASN China // 
+IP-ASN,144659,ASN China // 
+IP-ASN,144660,ASN China // 
+IP-ASN,144661,ASN China // 
+IP-ASN,144662,ASN China // 
+IP-ASN,144663,ASN China // 
+IP-ASN,144664,ASN China // 
+IP-ASN,144665,ASN China // 
+IP-ASN,144666,ASN China // 
+IP-ASN,144667,ASN China // 
+IP-ASN,144668,ASN China // 
+IP-ASN,144669,ASN China // 
+IP-ASN,144670,ASN China // 
+IP-ASN,144671,ASN China // 
+IP-ASN,144672,ASN China // 
+IP-ASN,144673,ASN China // 
+IP-ASN,144674,ASN China // 
+IP-ASN,144675,ASN China // 
+IP-ASN,144676,ASN China // 
+IP-ASN,144677,ASN China // 
+IP-ASN,144678,ASN China // 
+IP-ASN,144679,ASN China // 
+IP-ASN,144680,ASN China // 
+IP-ASN,144681,ASN China // 
+IP-ASN,144682,ASN China // 
+IP-ASN,144683,ASN China // 
+IP-ASN,144684,ASN China // 
+IP-ASN,144685,ASN China // 
+IP-ASN,144686,ASN China // 
+IP-ASN,144687,ASN China // 
+IP-ASN,144688,ASN China // 
+IP-ASN,144689,ASN China // 
+IP-ASN,144690,ASN China // 
+IP-ASN,144691,ASN China // 
+IP-ASN,144692,ASN China // 
+IP-ASN,144693,ASN China // 
+IP-ASN,144694,ASN China // 
+IP-ASN,144695,ASN China // 
+IP-ASN,144696,ASN China // 
+IP-ASN,144697,ASN China // 
+IP-ASN,144698,ASN China // 
+IP-ASN,144699,ASN China // 
+IP-ASN,144700,ASN China // 
+IP-ASN,144701,ASN China // 
+IP-ASN,144702,ASN China // 
+IP-ASN,144703,ASN China // 
+IP-ASN,144704,ASN China // 
+IP-ASN,144705,ASN China // 
+IP-ASN,144706,ASN China // 
+IP-ASN,144707,ASN China // 
+IP-ASN,144708,ASN China // 
+IP-ASN,144709,ASN China // 
+IP-ASN,144710,ASN China // 
+IP-ASN,144711,ASN China // 
+IP-ASN,144712,ASN China // 
+IP-ASN,144713,ASN China // 
+IP-ASN,144714,ASN China // 
+IP-ASN,144715,ASN China // 
+IP-ASN,144716,ASN China // 
+IP-ASN,144717,ASN China // 
+IP-ASN,144718,ASN China // 
+IP-ASN,144719,ASN China // 
+IP-ASN,144720,ASN China // 
+IP-ASN,144721,ASN China // 
+IP-ASN,144722,ASN China // 
+IP-ASN,144723,ASN China // 
+IP-ASN,144724,ASN China // 
+IP-ASN,144725,ASN China // 
+IP-ASN,144726,ASN China // 
+IP-ASN,144727,ASN China // 
+IP-ASN,144728,ASN China // 
+IP-ASN,144729,ASN China // 
+IP-ASN,144730,ASN China // 
+IP-ASN,144731,ASN China // 
+IP-ASN,144732,ASN China // 
+IP-ASN,144733,ASN China // 
+IP-ASN,144734,ASN China // 
+IP-ASN,144735,ASN China // 
+IP-ASN,144736,ASN China // 
+IP-ASN,144737,ASN China // 
+IP-ASN,144738,ASN China // 
+IP-ASN,144739,ASN China // 
+IP-ASN,144740,ASN China // 
+IP-ASN,144741,ASN China // 
+IP-ASN,144742,ASN China // 
+IP-ASN,144743,ASN China // 
+IP-ASN,144744,ASN China // 
+IP-ASN,144745,ASN China // 
+IP-ASN,144746,ASN China // 
+IP-ASN,144747,ASN China // 
+IP-ASN,144748,ASN China // 
+IP-ASN,144749,ASN China // 
+IP-ASN,144750,ASN China // 
+IP-ASN,144751,ASN China // 
+IP-ASN,144752,ASN China // 
+IP-ASN,144753,ASN China // 
+IP-ASN,144754,ASN China // 
+IP-ASN,144755,ASN China // 
+IP-ASN,144756,ASN China // 
+IP-ASN,144757,ASN China // 
+IP-ASN,144758,ASN China // 
+IP-ASN,144759,ASN China // 
+IP-ASN,144760,ASN China // 
+IP-ASN,144761,ASN China // 
+IP-ASN,144762,ASN China // 
+IP-ASN,144763,ASN China // 
+IP-ASN,144764,ASN China // 
+IP-ASN,144765,ASN China // 
+IP-ASN,144766,ASN China // 
+IP-ASN,144767,ASN China // 
+IP-ASN,144768,ASN China // 
+IP-ASN,144769,ASN China // 
+IP-ASN,144770,ASN China // 
+IP-ASN,144771,ASN China // 
+IP-ASN,144772,ASN China // 
+IP-ASN,144773,ASN China // 
+IP-ASN,144774,ASN China // 
+IP-ASN,144775,ASN China // 
+IP-ASN,144776,ASN China // 
+IP-ASN,144777,ASN China // 
+IP-ASN,144778,ASN China // 
+IP-ASN,144779,ASN China // 
+IP-ASN,144780,ASN China // 
+IP-ASN,144781,ASN China // 
+IP-ASN,144782,ASN China // 
+IP-ASN,144783,ASN China // 
+IP-ASN,144784,ASN China // 
+IP-ASN,144785,ASN China // 
+IP-ASN,144786,ASN China // 
+IP-ASN,144787,ASN China // 
+IP-ASN,144788,ASN China // 
+IP-ASN,144789,ASN China // 
+IP-ASN,144790,ASN China // 
+IP-ASN,144791,ASN China // 
+IP-ASN,144792,ASN China // 
+IP-ASN,144793,ASN China // 
+IP-ASN,144794,ASN China // 
+IP-ASN,144795,ASN China // 
+IP-ASN,144796,ASN China // 
+IP-ASN,144797,ASN China // 
+IP-ASN,144798,ASN China // 
+IP-ASN,144799,ASN China // 
+IP-ASN,144800,ASN China // 
+IP-ASN,144801,ASN China // 
+IP-ASN,144802,ASN China // 
+IP-ASN,144803,ASN China // 
+IP-ASN,144804,ASN China // 
+IP-ASN,144805,ASN China // 
+IP-ASN,144806,ASN China // 
+IP-ASN,144807,ASN China // 
+IP-ASN,144808,ASN China // 
+IP-ASN,144809,ASN China // 
+IP-ASN,144810,ASN China // 
+IP-ASN,144811,ASN China // 
+IP-ASN,144812,ASN China // 
+IP-ASN,144813,ASN China // 
+IP-ASN,144814,ASN China // 
+IP-ASN,144815,ASN China // 
+IP-ASN,144816,ASN China // 
+IP-ASN,144817,ASN China // 
+IP-ASN,144818,ASN China // 
+IP-ASN,144819,ASN China // 
+IP-ASN,144820,ASN China // 
+IP-ASN,144821,ASN China // 
+IP-ASN,144822,ASN China // 
+IP-ASN,144823,ASN China // 
+IP-ASN,144824,ASN China // 
+IP-ASN,144825,ASN China // 
+IP-ASN,144826,ASN China // 
+IP-ASN,144827,ASN China // 
+IP-ASN,144828,ASN China // 
+IP-ASN,144829,ASN China // 
+IP-ASN,144830,ASN China // 
+IP-ASN,144831,ASN China // 
+IP-ASN,144832,ASN China // 
+IP-ASN,144833,ASN China // 
+IP-ASN,144834,ASN China // 
+IP-ASN,144835,ASN China // 
+IP-ASN,144836,ASN China // 
+IP-ASN,144837,ASN China // 
+IP-ASN,144838,ASN China // 
+IP-ASN,144839,ASN China // 
+IP-ASN,144840,ASN China // 
+IP-ASN,144841,ASN China // 
+IP-ASN,144842,ASN China // 
+IP-ASN,144843,ASN China // 
+IP-ASN,144844,ASN China // 
+IP-ASN,144845,ASN China // 
+IP-ASN,144846,ASN China // 
+IP-ASN,144847,ASN China // 
+IP-ASN,144848,ASN China // 
+IP-ASN,144849,ASN China // 
+IP-ASN,144850,ASN China // 
+IP-ASN,144851,ASN China // 
+IP-ASN,144852,ASN China // 
+IP-ASN,144853,ASN China // 
+IP-ASN,144854,ASN China // 
+IP-ASN,144855,ASN China // 
+IP-ASN,144856,ASN China // 
+IP-ASN,144857,ASN China // 
+IP-ASN,144858,ASN China // 
+IP-ASN,144859,ASN China // 
+IP-ASN,144860,ASN China // 
+IP-ASN,144861,ASN China // 
+IP-ASN,144862,ASN China // 
+IP-ASN,144863,ASN China // 
+IP-ASN,144864,ASN China // 
+IP-ASN,144865,ASN China // 
+IP-ASN,144866,ASN China // 
+IP-ASN,144867,ASN China // 
+IP-ASN,144868,ASN China // 
+IP-ASN,144869,ASN China // 
+IP-ASN,144870,ASN China // 
+IP-ASN,144871,ASN China // 
+IP-ASN,144872,ASN China // 
+IP-ASN,144873,ASN China // 
+IP-ASN,144874,ASN China // 
+IP-ASN,144875,ASN China // 
+IP-ASN,144876,ASN China // 
+IP-ASN,144877,ASN China // 
+IP-ASN,144878,ASN China // 
+IP-ASN,144879,ASN China // 
+IP-ASN,144880,ASN China // 
+IP-ASN,144881,ASN China // 
+IP-ASN,144882,ASN China // 
+IP-ASN,144883,ASN China // 
+IP-ASN,144884,ASN China // 
+IP-ASN,144885,ASN China // 
+IP-ASN,144886,ASN China // 
+IP-ASN,144887,ASN China // 
+IP-ASN,144888,ASN China // 
+IP-ASN,144889,ASN China // 
+IP-ASN,144890,ASN China // 
+IP-ASN,144891,ASN China // 
+IP-ASN,144892,ASN China // 
+IP-ASN,144893,ASN China // 
+IP-ASN,144894,ASN China // 
+IP-ASN,144895,ASN China // 
+IP-ASN,144896,ASN China // 
+IP-ASN,144897,ASN China // 
+IP-ASN,144898,ASN China // 
+IP-ASN,144899,ASN China // 
+IP-ASN,144900,ASN China // 
+IP-ASN,144901,ASN China // 
+IP-ASN,144902,ASN China // 
+IP-ASN,144903,ASN China // 
+IP-ASN,144904,ASN China // 
+IP-ASN,144905,ASN China // 
+IP-ASN,144906,ASN China // 
+IP-ASN,144907,ASN China // 
+IP-ASN,144908,ASN China // 
+IP-ASN,144909,ASN China // 
+IP-ASN,144910,ASN China // 
+IP-ASN,144911,ASN China // 
+IP-ASN,144912,ASN China // 
+IP-ASN,144913,ASN China // 
+IP-ASN,144914,ASN China // 
+IP-ASN,144915,ASN China // 
+IP-ASN,144916,ASN China // 
+IP-ASN,144917,ASN China // 
+IP-ASN,144918,ASN China // 
+IP-ASN,144919,ASN China // 
+IP-ASN,144920,ASN China // 
+IP-ASN,144921,ASN China // 
+IP-ASN,144922,ASN China // 
+IP-ASN,144923,ASN China // 
+IP-ASN,144924,ASN China // 
+IP-ASN,144925,ASN China // 
+IP-ASN,144926,ASN China // 
+IP-ASN,144927,ASN China // 
+IP-ASN,144928,ASN China // 
+IP-ASN,144929,ASN China // 
+IP-ASN,144930,ASN China // 
+IP-ASN,144931,ASN China // 
+IP-ASN,144932,ASN China // 
+IP-ASN,144933,ASN China // 
+IP-ASN,144934,ASN China // 
+IP-ASN,144935,ASN China // 
+IP-ASN,144936,ASN China // 
+IP-ASN,144937,ASN China // 
+IP-ASN,144938,ASN China // 
+IP-ASN,144939,ASN China // 
+IP-ASN,144940,ASN China // 
+IP-ASN,144941,ASN China // 
+IP-ASN,144942,ASN China // 
+IP-ASN,144943,ASN China // 
+IP-ASN,144944,ASN China // 
+IP-ASN,144945,ASN China // 
+IP-ASN,144946,ASN China // 
+IP-ASN,144947,ASN China // 
+IP-ASN,144948,ASN China // 
+IP-ASN,144949,ASN China // 
+IP-ASN,144950,ASN China // 
+IP-ASN,144951,ASN China // 
+IP-ASN,144952,ASN China // 
+IP-ASN,144953,ASN China // 
+IP-ASN,144954,ASN China // 
+IP-ASN,144955,ASN China // 
+IP-ASN,144956,ASN China // 
+IP-ASN,144957,ASN China // 
+IP-ASN,144958,ASN China // 
+IP-ASN,144959,ASN China // 
+IP-ASN,144960,ASN China // 
+IP-ASN,144961,ASN China // 
+IP-ASN,144962,ASN China // 
+IP-ASN,144963,ASN China // 
+IP-ASN,144964,ASN China // 
+IP-ASN,144965,ASN China // 
+IP-ASN,144966,ASN China // 
+IP-ASN,144967,ASN China // 
+IP-ASN,144968,ASN China // 
+IP-ASN,144969,ASN China // 
+IP-ASN,144970,ASN China // 
+IP-ASN,144971,ASN China // 
+IP-ASN,144972,ASN China // 
+IP-ASN,144973,ASN China // 
+IP-ASN,144974,ASN China // 
+IP-ASN,144975,ASN China // 
+IP-ASN,144976,ASN China // 
+IP-ASN,144977,ASN China // 
+IP-ASN,144978,ASN China // 
+IP-ASN,144979,ASN China // 
+IP-ASN,144980,ASN China // 
+IP-ASN,144981,ASN China // 
+IP-ASN,144982,ASN China // 
+IP-ASN,144983,ASN China // 
+IP-ASN,144984,ASN China // 
+IP-ASN,144985,ASN China // 
+IP-ASN,144986,ASN China // 
+IP-ASN,144987,ASN China // 
+IP-ASN,144988,ASN China // 
+IP-ASN,144989,ASN China // 
+IP-ASN,144990,ASN China // 
+IP-ASN,144991,ASN China // 
+IP-ASN,144992,ASN China // 
+IP-ASN,144993,ASN China // 
+IP-ASN,144994,ASN China // 
+IP-ASN,144995,ASN China // 
+IP-ASN,144996,ASN China // 
+IP-ASN,144997,ASN China // 
+IP-ASN,144998,ASN China // 
+IP-ASN,144999,ASN China // 
+IP-ASN,145000,ASN China // 
+IP-ASN,145001,ASN China // 
+IP-ASN,145002,ASN China // 
+IP-ASN,145003,ASN China // 
+IP-ASN,145004,ASN China // 
+IP-ASN,145005,ASN China // 
+IP-ASN,145006,ASN China // 
+IP-ASN,145007,ASN China // 
+IP-ASN,145008,ASN China // 
+IP-ASN,145009,ASN China // 
+IP-ASN,145010,ASN China // 
+IP-ASN,145011,ASN China // 
+IP-ASN,145012,ASN China // 
+IP-ASN,145013,ASN China // 
+IP-ASN,145014,ASN China // 
+IP-ASN,145015,ASN China // 
+IP-ASN,145016,ASN China // 
+IP-ASN,145017,ASN China // 
+IP-ASN,145018,ASN China // 
+IP-ASN,145019,ASN China // 
+IP-ASN,145020,ASN China // 
+IP-ASN,145021,ASN China // 
+IP-ASN,145022,ASN China // 
+IP-ASN,145023,ASN China // 
+IP-ASN,145024,ASN China // 
+IP-ASN,145025,ASN China // 
+IP-ASN,145026,ASN China // 
+IP-ASN,145027,ASN China // 
+IP-ASN,145028,ASN China // 
+IP-ASN,145029,ASN China // 
+IP-ASN,145030,ASN China // 
+IP-ASN,145031,ASN China // 
+IP-ASN,145032,ASN China // 
+IP-ASN,145033,ASN China // 
+IP-ASN,145034,ASN China // 
+IP-ASN,145035,ASN China // 
+IP-ASN,145036,ASN China // 
+IP-ASN,145037,ASN China // 
+IP-ASN,145038,ASN China // 
+IP-ASN,145039,ASN China // 
+IP-ASN,145040,ASN China // 
+IP-ASN,145041,ASN China // 
+IP-ASN,145042,ASN China // 
+IP-ASN,145043,ASN China // 
+IP-ASN,145044,ASN China // 
+IP-ASN,145045,ASN China // 
+IP-ASN,145046,ASN China // 
+IP-ASN,145047,ASN China // 
+IP-ASN,145048,ASN China // 
+IP-ASN,145049,ASN China // 
+IP-ASN,145050,ASN China // 
+IP-ASN,145051,ASN China // 
+IP-ASN,145052,ASN China // 
+IP-ASN,145053,ASN China // 
+IP-ASN,145054,ASN China // 
+IP-ASN,145055,ASN China // 
+IP-ASN,145056,ASN China // 
+IP-ASN,145057,ASN China // 
+IP-ASN,145058,ASN China // 
+IP-ASN,145059,ASN China // 
+IP-ASN,145060,ASN China // 
+IP-ASN,145061,ASN China // 
+IP-ASN,145062,ASN China // 
+IP-ASN,145063,ASN China // 
+IP-ASN,145064,ASN China // 
+IP-ASN,145065,ASN China // 
+IP-ASN,145066,ASN China // 
+IP-ASN,145067,ASN China // 
+IP-ASN,145068,ASN China // 
+IP-ASN,145069,ASN China // 
+IP-ASN,145070,ASN China // 
+IP-ASN,145071,ASN China // 
+IP-ASN,145072,ASN China // 
+IP-ASN,145073,ASN China // 
+IP-ASN,145074,ASN China // 
+IP-ASN,145075,ASN China // 
+IP-ASN,145076,ASN China // 
+IP-ASN,145077,ASN China // 
+IP-ASN,145078,ASN China // 
+IP-ASN,145079,ASN China // 
+IP-ASN,145080,ASN China // 
+IP-ASN,145081,ASN China // 
+IP-ASN,145082,ASN China // 
+IP-ASN,145083,ASN China // 
+IP-ASN,145084,ASN China // 
+IP-ASN,145085,ASN China // 
+IP-ASN,145086,ASN China // 
+IP-ASN,145087,ASN China // 
+IP-ASN,145088,ASN China // 
+IP-ASN,145089,ASN China // 
+IP-ASN,145090,ASN China // 
+IP-ASN,145091,ASN China // 
+IP-ASN,145092,ASN China // 
+IP-ASN,145093,ASN China // 
+IP-ASN,145094,ASN China // 
+IP-ASN,145095,ASN China // 
+IP-ASN,145096,ASN China // 
+IP-ASN,145097,ASN China // 
+IP-ASN,145098,ASN China // 
+IP-ASN,145099,ASN China // 
+IP-ASN,145100,ASN China // 
+IP-ASN,145101,ASN China // 
+IP-ASN,145102,ASN China // 
+IP-ASN,145103,ASN China // 
+IP-ASN,145104,ASN China // 
+IP-ASN,145105,ASN China // 
+IP-ASN,145106,ASN China // 
+IP-ASN,145107,ASN China // 
+IP-ASN,145108,ASN China // 
+IP-ASN,145109,ASN China // 
+IP-ASN,145110,ASN China // 
+IP-ASN,145111,ASN China // 
+IP-ASN,145112,ASN China // 
+IP-ASN,145113,ASN China // 
+IP-ASN,145114,ASN China // 
+IP-ASN,145115,ASN China // 
+IP-ASN,145116,ASN China // 
+IP-ASN,145117,ASN China // 
+IP-ASN,145118,ASN China // 
+IP-ASN,145119,ASN China // 
+IP-ASN,145120,ASN China // 
+IP-ASN,145121,ASN China // 
+IP-ASN,145122,ASN China // 
+IP-ASN,145123,ASN China // 
+IP-ASN,145124,ASN China // 
+IP-ASN,145125,ASN China // 
+IP-ASN,145126,ASN China // 
+IP-ASN,145127,ASN China // 
+IP-ASN,145128,ASN China // 
+IP-ASN,145129,ASN China // 
+IP-ASN,145130,ASN China // 
+IP-ASN,145131,ASN China // 
+IP-ASN,145132,ASN China // 
+IP-ASN,145133,ASN China // 
+IP-ASN,145134,ASN China // 
+IP-ASN,145135,ASN China // 
+IP-ASN,145136,ASN China // 
+IP-ASN,145137,ASN China // 
+IP-ASN,145138,ASN China // 
+IP-ASN,145139,ASN China // 
+IP-ASN,145140,ASN China // 
+IP-ASN,145141,ASN China // 
+IP-ASN,145142,ASN China // 
+IP-ASN,145143,ASN China // 
+IP-ASN,145144,ASN China // 
+IP-ASN,145145,ASN China // 
+IP-ASN,145146,ASN China // 
+IP-ASN,145147,ASN China // 
+IP-ASN,145148,ASN China // 
+IP-ASN,145149,ASN China // 
+IP-ASN,145150,ASN China // 
+IP-ASN,145151,ASN China // 
+IP-ASN,145152,ASN China // 
+IP-ASN,145153,ASN China // 
+IP-ASN,145154,ASN China // 
+IP-ASN,145155,ASN China // 
+IP-ASN,145156,ASN China // 
+IP-ASN,145157,ASN China // 
+IP-ASN,145158,ASN China // 
+IP-ASN,145159,ASN China // 
+IP-ASN,145160,ASN China // 
+IP-ASN,145161,ASN China // 
+IP-ASN,145162,ASN China // 
+IP-ASN,145163,ASN China // 
+IP-ASN,145164,ASN China // 
+IP-ASN,145165,ASN China // 
+IP-ASN,145166,ASN China // 
+IP-ASN,145167,ASN China // 
+IP-ASN,145168,ASN China // 
+IP-ASN,145169,ASN China // 
+IP-ASN,145170,ASN China // 
+IP-ASN,145171,ASN China // 
+IP-ASN,145172,ASN China // 
+IP-ASN,145173,ASN China // 
+IP-ASN,145174,ASN China // 
+IP-ASN,145175,ASN China // 
+IP-ASN,145176,ASN China // 
+IP-ASN,145177,ASN China // 
+IP-ASN,145178,ASN China // 
+IP-ASN,145179,ASN China // 
+IP-ASN,145180,ASN China // 
+IP-ASN,145181,ASN China // 
+IP-ASN,145182,ASN China // 
+IP-ASN,145183,ASN China // 
+IP-ASN,145184,ASN China // 
+IP-ASN,145185,ASN China // 
+IP-ASN,145186,ASN China // 
+IP-ASN,145187,ASN China // 
+IP-ASN,145188,ASN China // 
+IP-ASN,145189,ASN China // 
+IP-ASN,145190,ASN China // 
+IP-ASN,145191,ASN China // 
+IP-ASN,145192,ASN China // 
+IP-ASN,145193,ASN China // 
+IP-ASN,145194,ASN China // 
+IP-ASN,145195,ASN China // 
+IP-ASN,145196,ASN China // 
+IP-ASN,145197,ASN China // 
+IP-ASN,145198,ASN China // 
+IP-ASN,145199,ASN China // 
+IP-ASN,145200,ASN China // 
+IP-ASN,145201,ASN China // 
+IP-ASN,145202,ASN China // 
+IP-ASN,145203,ASN China // 
+IP-ASN,145204,ASN China // 
+IP-ASN,145205,ASN China // 
+IP-ASN,145206,ASN China // 
+IP-ASN,145207,ASN China // 
+IP-ASN,145208,ASN China // 
+IP-ASN,145209,ASN China // 
+IP-ASN,145210,ASN China // 
+IP-ASN,145211,ASN China // 
+IP-ASN,145212,ASN China // 
+IP-ASN,145213,ASN China // 
+IP-ASN,145214,ASN China // 
+IP-ASN,145215,ASN China // 
+IP-ASN,145216,ASN China // 
+IP-ASN,145217,ASN China // 
+IP-ASN,145218,ASN China // 
+IP-ASN,145219,ASN China // 
+IP-ASN,145220,ASN China // 
+IP-ASN,145221,ASN China // 
+IP-ASN,145222,ASN China // 
+IP-ASN,145223,ASN China // 
+IP-ASN,145224,ASN China // 
+IP-ASN,145225,ASN China // 
+IP-ASN,145226,ASN China // 
+IP-ASN,145227,ASN China // 
+IP-ASN,145228,ASN China // 
+IP-ASN,145229,ASN China // 
+IP-ASN,145230,ASN China // 
+IP-ASN,145231,ASN China // 
+IP-ASN,145232,ASN China // 
+IP-ASN,145233,ASN China // 
+IP-ASN,145234,ASN China // 
+IP-ASN,145235,ASN China // 
+IP-ASN,145236,ASN China // 
+IP-ASN,145237,ASN China // 
+IP-ASN,145238,ASN China // 
+IP-ASN,145239,ASN China // 
+IP-ASN,145240,ASN China // 
+IP-ASN,145241,ASN China // 
+IP-ASN,145242,ASN China // 
+IP-ASN,145243,ASN China // 
+IP-ASN,145244,ASN China // 
+IP-ASN,145245,ASN China // 
+IP-ASN,145246,ASN China // 
+IP-ASN,145247,ASN China // 
+IP-ASN,145248,ASN China // 
+IP-ASN,145249,ASN China // 
+IP-ASN,145250,ASN China // 
+IP-ASN,145251,ASN China // 
+IP-ASN,145252,ASN China // 
+IP-ASN,145253,ASN China // 
+IP-ASN,145254,ASN China // 
+IP-ASN,145255,ASN China // 
+IP-ASN,145256,ASN China // 
+IP-ASN,145257,ASN China // 
+IP-ASN,145258,ASN China // 
+IP-ASN,145259,ASN China // 
+IP-ASN,145260,ASN China // 
+IP-ASN,145261,ASN China // 
+IP-ASN,145262,ASN China // 
+IP-ASN,145263,ASN China // 
+IP-ASN,145264,ASN China // 
+IP-ASN,145265,ASN China // 
+IP-ASN,145266,ASN China // 
+IP-ASN,145267,ASN China // 
+IP-ASN,145268,ASN China // 
+IP-ASN,145269,ASN China // 
+IP-ASN,145270,ASN China // 
+IP-ASN,145271,ASN China // 
+IP-ASN,145272,ASN China // 
+IP-ASN,145273,ASN China // 
+IP-ASN,145274,ASN China // 
+IP-ASN,145275,ASN China // 
+IP-ASN,145276,ASN China // 
+IP-ASN,145277,ASN China // 
+IP-ASN,145278,ASN China // 
+IP-ASN,145279,ASN China // 
+IP-ASN,145280,ASN China // 
+IP-ASN,145281,ASN China // 
+IP-ASN,145282,ASN China // 
+IP-ASN,145283,ASN China // 
+IP-ASN,145284,ASN China // 
+IP-ASN,145285,ASN China // 
+IP-ASN,145286,ASN China // 
+IP-ASN,145287,ASN China // 
+IP-ASN,145288,ASN China // 
+IP-ASN,145289,ASN China // 
+IP-ASN,145290,ASN China // 
+IP-ASN,145291,ASN China // 
+IP-ASN,145292,ASN China // 
+IP-ASN,145293,ASN China // 
+IP-ASN,145294,ASN China // 
+IP-ASN,145295,ASN China // 
+IP-ASN,145296,ASN China // 
+IP-ASN,145297,ASN China // 
+IP-ASN,145298,ASN China // 
+IP-ASN,145299,ASN China // 
+IP-ASN,145300,ASN China // 
+IP-ASN,145301,ASN China // 
+IP-ASN,145302,ASN China // 
+IP-ASN,145303,ASN China // 
+IP-ASN,145304,ASN China // 
+IP-ASN,145305,ASN China // 
+IP-ASN,145306,ASN China // 
+IP-ASN,145307,ASN China // 
+IP-ASN,145308,ASN China // 
+IP-ASN,145309,ASN China // 
+IP-ASN,145310,ASN China // 
+IP-ASN,145311,ASN China // 
+IP-ASN,145312,ASN China // 
+IP-ASN,145313,ASN China // 
+IP-ASN,145314,ASN China // 
+IP-ASN,145315,ASN China // 
+IP-ASN,145316,ASN China // 
+IP-ASN,145317,ASN China // 
+IP-ASN,145318,ASN China // 
+IP-ASN,145319,ASN China // 
+IP-ASN,145320,ASN China // 
+IP-ASN,145321,ASN China // 
+IP-ASN,145322,ASN China // 
+IP-ASN,145323,ASN China // 
+IP-ASN,145324,ASN China // 
+IP-ASN,145325,ASN China // 
+IP-ASN,145326,ASN China // 
+IP-ASN,145327,ASN China // 
+IP-ASN,145328,ASN China // 
+IP-ASN,145329,ASN China // 
+IP-ASN,145330,ASN China // 
+IP-ASN,145331,ASN China // 
+IP-ASN,145332,ASN China // 
+IP-ASN,145333,ASN China // 
+IP-ASN,145334,ASN China // 
+IP-ASN,145335,ASN China // 
+IP-ASN,145336,ASN China // 
+IP-ASN,145337,ASN China // 
+IP-ASN,145338,ASN China // 
+IP-ASN,145339,ASN China // 
+IP-ASN,145340,ASN China // 
+IP-ASN,145341,ASN China // 
+IP-ASN,145342,ASN China // 
+IP-ASN,145343,ASN China // 
+IP-ASN,145344,ASN China // 
+IP-ASN,145345,ASN China // 
+IP-ASN,145346,ASN China // 
+IP-ASN,145347,ASN China // 
+IP-ASN,145348,ASN China // 
+IP-ASN,145349,ASN China // 
+IP-ASN,145350,ASN China // 
+IP-ASN,145351,ASN China // 
+IP-ASN,145352,ASN China // 
+IP-ASN,145353,ASN China // 
+IP-ASN,145354,ASN China // 
+IP-ASN,145355,ASN China // 
+IP-ASN,145356,ASN China // 
+IP-ASN,145357,ASN China // 
+IP-ASN,145358,ASN China // 
+IP-ASN,145359,ASN China // 
+IP-ASN,145360,ASN China // 
+IP-ASN,145361,ASN China // 
+IP-ASN,145362,ASN China // 
+IP-ASN,145363,ASN China // 
+IP-ASN,145364,ASN China // 
+IP-ASN,145365,ASN China // 
+IP-ASN,145366,ASN China // 
+IP-ASN,145367,ASN China // 
+IP-ASN,145368,ASN China // 
+IP-ASN,145369,ASN China // 
+IP-ASN,145370,ASN China // 
+IP-ASN,145371,ASN China // 
+IP-ASN,145372,ASN China // 
+IP-ASN,145373,ASN China // 
+IP-ASN,145374,ASN China // 
+IP-ASN,145375,ASN China // 
+IP-ASN,145376,ASN China // 
+IP-ASN,145377,ASN China // 
+IP-ASN,145378,ASN China // 
+IP-ASN,145379,ASN China // 
+IP-ASN,145380,ASN China // 
+IP-ASN,145381,ASN China // 
+IP-ASN,145382,ASN China // 
+IP-ASN,145383,ASN China // 
+IP-ASN,145384,ASN China // 
+IP-ASN,145385,ASN China // 
+IP-ASN,145386,ASN China // 
+IP-ASN,145387,ASN China // 
+IP-ASN,145388,ASN China // 
+IP-ASN,145389,ASN China // 
+IP-ASN,145390,ASN China // 
+IP-ASN,145391,ASN China // 
+IP-ASN,145392,ASN China // 
+IP-ASN,145393,ASN China // 
+IP-ASN,145394,ASN China // 
+IP-ASN,145395,ASN China // 
+IP-ASN,145396,ASN China // 
+IP-ASN,145397,ASN China // 
+IP-ASN,145398,ASN China // 
+IP-ASN,145399,ASN China // 
+IP-ASN,145400,ASN China // 
+IP-ASN,145401,ASN China // 
+IP-ASN,145402,ASN China // 
+IP-ASN,145403,ASN China // 
+IP-ASN,145404,ASN China // 
+IP-ASN,145405,ASN China // 
+IP-ASN,145406,ASN China // 
+IP-ASN,145407,ASN China // 
+IP-ASN,145408,ASN China // 
+IP-ASN,145409,ASN China // 
+IP-ASN,145410,ASN China // 
+IP-ASN,145411,ASN China // 
+IP-ASN,145412,ASN China // 
+IP-ASN,145413,ASN China // 
+IP-ASN,145414,ASN China // 
+IP-ASN,145415,ASN China // 
+IP-ASN,145416,ASN China // 
+IP-ASN,145417,ASN China // 
+IP-ASN,145418,ASN China // 
+IP-ASN,145419,ASN China // 
+IP-ASN,145420,ASN China // 
+IP-ASN,145421,ASN China // 
+IP-ASN,145422,ASN China // 
+IP-ASN,145423,ASN China // 
+IP-ASN,145424,ASN China // 
+IP-ASN,145425,ASN China // 
+IP-ASN,145426,ASN China // 
+IP-ASN,145427,ASN China // 
+IP-ASN,145428,ASN China // 
+IP-ASN,145429,ASN China // 
+IP-ASN,145430,ASN China // 
+IP-ASN,145431,ASN China // 
+IP-ASN,145432,ASN China // 
+IP-ASN,145433,ASN China // 
+IP-ASN,145434,ASN China // 
+IP-ASN,145435,ASN China // 
+IP-ASN,145436,ASN China // 
+IP-ASN,145437,ASN China // 
+IP-ASN,145438,ASN China // 
+IP-ASN,145439,ASN China // 
+IP-ASN,145440,ASN China // 
+IP-ASN,145441,ASN China // 
+IP-ASN,145442,ASN China // 
+IP-ASN,145443,ASN China // 
+IP-ASN,145444,ASN China // 
+IP-ASN,145445,ASN China // 
+IP-ASN,145446,ASN China // 
+IP-ASN,145447,ASN China // 
+IP-ASN,145448,ASN China // 
+IP-ASN,145449,ASN China // 
+IP-ASN,145450,ASN China // 
+IP-ASN,145451,ASN China // 
+IP-ASN,145452,ASN China // 
+IP-ASN,145453,ASN China // 
+IP-ASN,145454,ASN China // 
+IP-ASN,145455,ASN China // 
+IP-ASN,145456,ASN China // 
+IP-ASN,145457,ASN China // 
+IP-ASN,145458,ASN China // 
+IP-ASN,145459,ASN China // 
+IP-ASN,145460,ASN China // 
+IP-ASN,145461,ASN China // 
+IP-ASN,145462,ASN China // 
+IP-ASN,145463,ASN China // 
+IP-ASN,145464,ASN China // 
+IP-ASN,145465,ASN China // 
+IP-ASN,145466,ASN China // 
+IP-ASN,145467,ASN China // 
+IP-ASN,145468,ASN China // 
+IP-ASN,145469,ASN China // 
+IP-ASN,145470,ASN China // 
+IP-ASN,145471,ASN China // 
+IP-ASN,145472,ASN China // 
+IP-ASN,145473,ASN China // 
+IP-ASN,145474,ASN China // 
+IP-ASN,145475,ASN China // 
+IP-ASN,145476,ASN China // 
+IP-ASN,145477,ASN China // 
+IP-ASN,145478,ASN China // 
+IP-ASN,145479,ASN China // 
+IP-ASN,145480,ASN China // 
+IP-ASN,145481,ASN China // 
+IP-ASN,145482,ASN China // 
+IP-ASN,145483,ASN China // 
+IP-ASN,145484,ASN China // 
+IP-ASN,145485,ASN China // 
+IP-ASN,145486,ASN China // 
+IP-ASN,145487,ASN China // 
+IP-ASN,145488,ASN China // 
+IP-ASN,145489,ASN China // 
+IP-ASN,145490,ASN China // 
+IP-ASN,145491,ASN China // 
+IP-ASN,145492,ASN China // 
+IP-ASN,145493,ASN China // 
+IP-ASN,145494,ASN China // 
+IP-ASN,145495,ASN China // 
+IP-ASN,145496,ASN China // 
+IP-ASN,145497,ASN China // 
+IP-ASN,145498,ASN China // 
+IP-ASN,145499,ASN China // 
+IP-ASN,145500,ASN China // 
+IP-ASN,145501,ASN China // 
+IP-ASN,145502,ASN China // 
+IP-ASN,145503,ASN China // 
+IP-ASN,145504,ASN China // 
+IP-ASN,145505,ASN China // 
+IP-ASN,145506,ASN China // 
+IP-ASN,145507,ASN China // 
+IP-ASN,145508,ASN China // 
+IP-ASN,145509,ASN China // 
+IP-ASN,145510,ASN China // 
+IP-ASN,145511,ASN China // 
+IP-ASN,145512,ASN China // 
+IP-ASN,145513,ASN China // 
+IP-ASN,145514,ASN China // 
+IP-ASN,145515,ASN China // 
+IP-ASN,145516,ASN China // 
+IP-ASN,145517,ASN China // 
+IP-ASN,145518,ASN China // 
+IP-ASN,145519,ASN China // 
+IP-ASN,145520,ASN China // 
+IP-ASN,145521,ASN China // 
+IP-ASN,145522,ASN China // 
+IP-ASN,145523,ASN China // 
+IP-ASN,145524,ASN China // 
+IP-ASN,145525,ASN China // 
+IP-ASN,145526,ASN China // 
+IP-ASN,145527,ASN China // 
+IP-ASN,145528,ASN China // 
+IP-ASN,145529,ASN China // 
+IP-ASN,145530,ASN China // 
+IP-ASN,145531,ASN China // 
+IP-ASN,145532,ASN China // 
+IP-ASN,145533,ASN China // 
+IP-ASN,145534,ASN China // 
+IP-ASN,145535,ASN China // 
+IP-ASN,145536,ASN China // 
+IP-ASN,145537,ASN China // 
+IP-ASN,145538,ASN China // 
+IP-ASN,145539,ASN China // 
+IP-ASN,145540,ASN China // 
+IP-ASN,145541,ASN China // 
+IP-ASN,145542,ASN China // 
+IP-ASN,145543,ASN China // 
+IP-ASN,145544,ASN China // 
+IP-ASN,145545,ASN China // 
+IP-ASN,145546,ASN China // 
+IP-ASN,145547,ASN China // 
+IP-ASN,145548,ASN China // 
+IP-ASN,145549,ASN China // 
+IP-ASN,145550,ASN China // 
+IP-ASN,145551,ASN China // 
+IP-ASN,145552,ASN China // 
+IP-ASN,145553,ASN China // 
+IP-ASN,145554,ASN China // 
+IP-ASN,145555,ASN China // 
+IP-ASN,145556,ASN China // 
+IP-ASN,145557,ASN China // 
+IP-ASN,145558,ASN China // 
+IP-ASN,145559,ASN China // 
+IP-ASN,145560,ASN China // 
+IP-ASN,145561,ASN China // 
+IP-ASN,145562,ASN China // 
+IP-ASN,145563,ASN China // 
+IP-ASN,145564,ASN China // 
+IP-ASN,145565,ASN China // 
+IP-ASN,145566,ASN China // 
+IP-ASN,145567,ASN China // 
+IP-ASN,145568,ASN China // 
+IP-ASN,145569,ASN China // 
+IP-ASN,145570,ASN China // 
+IP-ASN,145571,ASN China // 
+IP-ASN,145572,ASN China // 
+IP-ASN,145573,ASN China // 
+IP-ASN,145574,ASN China // 
+IP-ASN,145575,ASN China // 
+IP-ASN,145576,ASN China // 
+IP-ASN,145577,ASN China // 
+IP-ASN,145578,ASN China // 
+IP-ASN,145579,ASN China // 
+IP-ASN,145580,ASN China // 
+IP-ASN,145581,ASN China // 
+IP-ASN,145582,ASN China // 
+IP-ASN,145583,ASN China // 
+IP-ASN,145584,ASN China // 
+IP-ASN,145585,ASN China // 
+IP-ASN,145586,ASN China // 
+IP-ASN,145587,ASN China // 
+IP-ASN,145588,ASN China // 
+IP-ASN,145589,ASN China // 
+IP-ASN,145590,ASN China // 
+IP-ASN,145591,ASN China // 
+IP-ASN,145592,ASN China // 
+IP-ASN,145593,ASN China // 
+IP-ASN,145594,ASN China // 
+IP-ASN,145595,ASN China // 
+IP-ASN,145596,ASN China // 
+IP-ASN,145597,ASN China // 
+IP-ASN,145598,ASN China // 
+IP-ASN,145599,ASN China // 
+IP-ASN,145600,ASN China // 
+IP-ASN,145601,ASN China // 
+IP-ASN,145602,ASN China // 
+IP-ASN,145603,ASN China // 
+IP-ASN,145604,ASN China // 
+IP-ASN,145605,ASN China // 
+IP-ASN,145606,ASN China // 
+IP-ASN,145607,ASN China // 
+IP-ASN,145608,ASN China // 
+IP-ASN,145609,ASN China // 
+IP-ASN,145610,ASN China // 
+IP-ASN,145611,ASN China // 
+IP-ASN,145612,ASN China // 
+IP-ASN,145613,ASN China // 
+IP-ASN,145614,ASN China // 
+IP-ASN,145615,ASN China // 
+IP-ASN,145616,ASN China // 
+IP-ASN,145617,ASN China // 
+IP-ASN,145618,ASN China // 
+IP-ASN,145619,ASN China // 
+IP-ASN,145620,ASN China // 
+IP-ASN,145621,ASN China // 
+IP-ASN,145622,ASN China // 
+IP-ASN,145623,ASN China // 
+IP-ASN,145624,ASN China // 
+IP-ASN,145625,ASN China // 
+IP-ASN,145626,ASN China // 
+IP-ASN,145627,ASN China // 
+IP-ASN,145628,ASN China // 
+IP-ASN,145629,ASN China // 
+IP-ASN,145630,ASN China // 
+IP-ASN,145631,ASN China // 
+IP-ASN,145632,ASN China // 
+IP-ASN,145633,ASN China // 
+IP-ASN,145634,ASN China // 
+IP-ASN,145635,ASN China // 
+IP-ASN,145636,ASN China // 
+IP-ASN,145637,ASN China // 
+IP-ASN,145638,ASN China // 
+IP-ASN,145639,ASN China // 
+IP-ASN,145640,ASN China // 
+IP-ASN,145641,ASN China // 
+IP-ASN,145642,ASN China // 
+IP-ASN,145643,ASN China // 
+IP-ASN,145644,ASN China // 
+IP-ASN,145645,ASN China // 
+IP-ASN,145646,ASN China // 
+IP-ASN,145647,ASN China // 
+IP-ASN,145648,ASN China // 
+IP-ASN,145649,ASN China // 
+IP-ASN,145650,ASN China // 
+IP-ASN,145651,ASN China // 
+IP-ASN,145652,ASN China // 
+IP-ASN,145653,ASN China // 
+IP-ASN,145654,ASN China // 
+IP-ASN,145655,ASN China // 
+IP-ASN,145656,ASN China // 
+IP-ASN,145657,ASN China // 
+IP-ASN,145658,ASN China // 
+IP-ASN,145659,ASN China // 
+IP-ASN,145660,ASN China // 
+IP-ASN,145661,ASN China // 
+IP-ASN,145662,ASN China // 
+IP-ASN,145663,ASN China // 
+IP-ASN,145664,ASN China // 
+IP-ASN,145665,ASN China // 
+IP-ASN,145666,ASN China // 
+IP-ASN,145667,ASN China // 
+IP-ASN,145668,ASN China // 
+IP-ASN,145669,ASN China // 
+IP-ASN,145670,ASN China // 
+IP-ASN,145671,ASN China // 
+IP-ASN,145672,ASN China // 
+IP-ASN,145673,ASN China // 
+IP-ASN,145674,ASN China // 
+IP-ASN,145675,ASN China // 
+IP-ASN,145676,ASN China // 
+IP-ASN,145677,ASN China // 
+IP-ASN,145678,ASN China // 
+IP-ASN,145679,ASN China // 
+IP-ASN,145680,ASN China // 
+IP-ASN,145681,ASN China // 
+IP-ASN,145682,ASN China // 
+IP-ASN,145683,ASN China // 
+IP-ASN,145684,ASN China // 
+IP-ASN,145685,ASN China // 
+IP-ASN,145686,ASN China // 
+IP-ASN,145687,ASN China // 
+IP-ASN,145688,ASN China // 
+IP-ASN,145689,ASN China // 
+IP-ASN,145690,ASN China // 
+IP-ASN,145691,ASN China // 
+IP-ASN,145692,ASN China // 
+IP-ASN,145693,ASN China // 
+IP-ASN,145694,ASN China // 
+IP-ASN,145695,ASN China // 
+IP-ASN,145696,ASN China // 
+IP-ASN,145697,ASN China // 
+IP-ASN,145698,ASN China // 
+IP-ASN,145699,ASN China // 
+IP-ASN,145700,ASN China // 
+IP-ASN,145701,ASN China // 
+IP-ASN,145702,ASN China // 
+IP-ASN,145703,ASN China // 
+IP-ASN,145704,ASN China // 
+IP-ASN,145705,ASN China // 
+IP-ASN,145706,ASN China // 
+IP-ASN,145707,ASN China // 
+IP-ASN,145708,ASN China // 
+IP-ASN,145709,ASN China // 
+IP-ASN,145710,ASN China // 
+IP-ASN,145711,ASN China // 
+IP-ASN,145712,ASN China // 
+IP-ASN,145713,ASN China // 
+IP-ASN,145714,ASN China // 
+IP-ASN,145715,ASN China // 
+IP-ASN,145716,ASN China // 
+IP-ASN,145717,ASN China // 
+IP-ASN,145718,ASN China // 
+IP-ASN,145719,ASN China // 
+IP-ASN,145720,ASN China // 
+IP-ASN,145721,ASN China // 
+IP-ASN,145722,ASN China // 
+IP-ASN,145723,ASN China // 
+IP-ASN,145724,ASN China // 
+IP-ASN,145725,ASN China // 
+IP-ASN,145726,ASN China // 
+IP-ASN,145727,ASN China // 
+IP-ASN,145728,ASN China // 
+IP-ASN,145729,ASN China // 
+IP-ASN,145730,ASN China // 
+IP-ASN,145731,ASN China // 
+IP-ASN,145732,ASN China // 
+IP-ASN,145733,ASN China // 
+IP-ASN,145734,ASN China // 
+IP-ASN,145735,ASN China // 
+IP-ASN,145736,ASN China // 
+IP-ASN,145737,ASN China // 
+IP-ASN,145738,ASN China // 
+IP-ASN,145739,ASN China // 
+IP-ASN,145740,ASN China // 
+IP-ASN,145741,ASN China // 
+IP-ASN,145742,ASN China // 
+IP-ASN,145743,ASN China // 
+IP-ASN,145744,ASN China // 
+IP-ASN,145745,ASN China // 
+IP-ASN,145746,ASN China // 
+IP-ASN,145747,ASN China // 
+IP-ASN,145748,ASN China // 
+IP-ASN,145749,ASN China // 
+IP-ASN,145750,ASN China // 
+IP-ASN,145751,ASN China // 
+IP-ASN,145752,ASN China // 
+IP-ASN,145753,ASN China // 
+IP-ASN,145754,ASN China // 
+IP-ASN,145755,ASN China // 
+IP-ASN,145756,ASN China // 
+IP-ASN,145757,ASN China // 
+IP-ASN,145758,ASN China // 
+IP-ASN,145759,ASN China // 
+IP-ASN,145760,ASN China // 
+IP-ASN,145761,ASN China // 
+IP-ASN,145762,ASN China // 
+IP-ASN,145763,ASN China // 
+IP-ASN,145764,ASN China // 
+IP-ASN,145765,ASN China // 
+IP-ASN,145766,ASN China // 
+IP-ASN,145767,ASN China // 
+IP-ASN,145768,ASN China // 
+IP-ASN,145769,ASN China // 
+IP-ASN,145770,ASN China // 
+IP-ASN,145771,ASN China // 
+IP-ASN,145772,ASN China // 
+IP-ASN,145773,ASN China // 
+IP-ASN,145774,ASN China // 
+IP-ASN,145775,ASN China // 
+IP-ASN,145776,ASN China // 
+IP-ASN,145777,ASN China // 
+IP-ASN,145778,ASN China // 
+IP-ASN,145779,ASN China // 
+IP-ASN,145780,ASN China // 
+IP-ASN,145781,ASN China // 
+IP-ASN,145782,ASN China // 
+IP-ASN,145783,ASN China // 
+IP-ASN,145784,ASN China // 
+IP-ASN,145785,ASN China // 
+IP-ASN,145786,ASN China // 
+IP-ASN,145787,ASN China // 
+IP-ASN,145788,ASN China // 
+IP-ASN,145789,ASN China // 
+IP-ASN,145790,ASN China // 
+IP-ASN,145791,ASN China // 
+IP-ASN,145792,ASN China // 
+IP-ASN,145793,ASN China // 
+IP-ASN,145794,ASN China // 
+IP-ASN,145795,ASN China // 
+IP-ASN,145796,ASN China // 
+IP-ASN,145797,ASN China // 
+IP-ASN,145798,ASN China // 
+IP-ASN,145799,ASN China // 
+IP-ASN,145800,ASN China // 
+IP-ASN,145801,ASN China // 
+IP-ASN,145802,ASN China // 
+IP-ASN,145803,ASN China // 
+IP-ASN,145804,ASN China // 
+IP-ASN,145805,ASN China // 
+IP-ASN,145806,ASN China // 
+IP-ASN,145807,ASN China // 
+IP-ASN,145808,ASN China // 
+IP-ASN,145809,ASN China // 
+IP-ASN,145810,ASN China // 
+IP-ASN,145811,ASN China // 
+IP-ASN,145812,ASN China // 
+IP-ASN,145813,ASN China // 
+IP-ASN,145814,ASN China // 
+IP-ASN,145815,ASN China // 
+IP-ASN,145816,ASN China // 
+IP-ASN,145817,ASN China // 
+IP-ASN,145818,ASN China // 
+IP-ASN,145819,ASN China // 
+IP-ASN,145820,ASN China // 
+IP-ASN,145821,ASN China // 
+IP-ASN,145822,ASN China // 
+IP-ASN,145823,ASN China // 
+IP-ASN,145824,ASN China // 
+IP-ASN,145825,ASN China // 
+IP-ASN,145826,ASN China // 
+IP-ASN,145827,ASN China // 
+IP-ASN,145828,ASN China // 
+IP-ASN,145829,ASN China // 
+IP-ASN,145830,ASN China // 
+IP-ASN,145831,ASN China // 
+IP-ASN,145832,ASN China // 
+IP-ASN,145833,ASN China // 
+IP-ASN,145834,ASN China // 
+IP-ASN,145835,ASN China // 
+IP-ASN,145836,ASN China // 
+IP-ASN,145837,ASN China // 
+IP-ASN,145838,ASN China // 
+IP-ASN,145839,ASN China // 
+IP-ASN,145840,ASN China // 
+IP-ASN,145841,ASN China // 
+IP-ASN,145842,ASN China // 
+IP-ASN,145843,ASN China // 
+IP-ASN,145844,ASN China // 
+IP-ASN,145845,ASN China // 
+IP-ASN,145846,ASN China // 
+IP-ASN,145847,ASN China // 
+IP-ASN,145848,ASN China // 
+IP-ASN,145849,ASN China // 
+IP-ASN,145850,ASN China // 
+IP-ASN,145851,ASN China // 
+IP-ASN,145852,ASN China // 
+IP-ASN,145853,ASN China // 
+IP-ASN,145854,ASN China // 
+IP-ASN,145855,ASN China // 
+IP-ASN,145856,ASN China // 
+IP-ASN,145857,ASN China // 
+IP-ASN,145858,ASN China // 
+IP-ASN,145859,ASN China // 
+IP-ASN,145860,ASN China // 
+IP-ASN,145861,ASN China // 
+IP-ASN,145862,ASN China // 
+IP-ASN,145863,ASN China // 
+IP-ASN,145864,ASN China // 
+IP-ASN,145865,ASN China // 
+IP-ASN,145866,ASN China // 
+IP-ASN,145867,ASN China // 
+IP-ASN,145868,ASN China // 
+IP-ASN,145869,ASN China // 
+IP-ASN,145870,ASN China // 
+IP-ASN,145871,ASN China // 
+IP-ASN,145872,ASN China // 
+IP-ASN,145873,ASN China // 
+IP-ASN,145874,ASN China // 
+IP-ASN,145875,ASN China // 
+IP-ASN,145876,ASN China // 
+IP-ASN,145877,ASN China // 
+IP-ASN,145878,ASN China // 
+IP-ASN,145879,ASN China // 
+IP-ASN,145880,ASN China // 
+IP-ASN,145881,ASN China // 
+IP-ASN,145882,ASN China // 
+IP-ASN,145883,ASN China // 
+IP-ASN,145884,ASN China // 
+IP-ASN,145885,ASN China // 
+IP-ASN,145886,ASN China // 
+IP-ASN,145887,ASN China // 
+IP-ASN,145888,ASN China // 
+IP-ASN,145889,ASN China // 
+IP-ASN,145890,ASN China // 
+IP-ASN,145891,ASN China // 
+IP-ASN,145892,ASN China // 
+IP-ASN,145893,ASN China // 
+IP-ASN,145894,ASN China // 
+IP-ASN,145895,ASN China // 
+IP-ASN,145896,ASN China // 
+IP-ASN,145897,ASN China // 
+IP-ASN,145898,ASN China // 
+IP-ASN,145899,ASN China // 
+IP-ASN,145900,ASN China // 
+IP-ASN,145901,ASN China // 
+IP-ASN,145902,ASN China // 
+IP-ASN,145903,ASN China // 
+IP-ASN,145904,ASN China // 
+IP-ASN,145905,ASN China // 
+IP-ASN,145906,ASN China // 
+IP-ASN,145907,ASN China // 
+IP-ASN,145908,ASN China // 
+IP-ASN,145909,ASN China // 
+IP-ASN,145910,ASN China // 
+IP-ASN,145911,ASN China // 
+IP-ASN,145912,ASN China // 
+IP-ASN,145913,ASN China // 
+IP-ASN,145914,ASN China // 
+IP-ASN,145915,ASN China // 
+IP-ASN,145916,ASN China // 
+IP-ASN,145917,ASN China // 
+IP-ASN,145918,ASN China // 
+IP-ASN,145919,ASN China // 
+IP-ASN,145920,ASN China // 
+IP-ASN,145921,ASN China // 
+IP-ASN,145922,ASN China // 
+IP-ASN,145923,ASN China // 
+IP-ASN,145924,ASN China // 
+IP-ASN,145925,ASN China // 
+IP-ASN,145926,ASN China // 
+IP-ASN,145927,ASN China // 
+IP-ASN,145928,ASN China // 
+IP-ASN,145929,ASN China // 
+IP-ASN,145930,ASN China // 
+IP-ASN,145931,ASN China // 
+IP-ASN,145932,ASN China // 
+IP-ASN,145933,ASN China // 
+IP-ASN,145934,ASN China // 
+IP-ASN,145935,ASN China // 
+IP-ASN,145936,ASN China // 
+IP-ASN,145937,ASN China // 
+IP-ASN,145938,ASN China // 
+IP-ASN,145939,ASN China // 
+IP-ASN,145940,ASN China // 
+IP-ASN,145941,ASN China // 
+IP-ASN,145942,ASN China // 
+IP-ASN,145943,ASN China // 
+IP-ASN,145944,ASN China // 
+IP-ASN,145945,ASN China // 
+IP-ASN,145946,ASN China // 
+IP-ASN,145947,ASN China // 
+IP-ASN,145948,ASN China // 
+IP-ASN,145949,ASN China // 
+IP-ASN,145950,ASN China // 
+IP-ASN,145951,ASN China // 
+IP-ASN,145952,ASN China // 
+IP-ASN,145953,ASN China // 
+IP-ASN,145954,ASN China // 
+IP-ASN,145955,ASN China // 
+IP-ASN,145956,ASN China // 
+IP-ASN,145957,ASN China // 
+IP-ASN,145958,ASN China // 
+IP-ASN,145959,ASN China // 
+IP-ASN,145960,ASN China // 
+IP-ASN,145961,ASN China // 
+IP-ASN,145962,ASN China // 
+IP-ASN,145963,ASN China // 
+IP-ASN,145964,ASN China // 
+IP-ASN,145965,ASN China // 
+IP-ASN,145966,ASN China // 
+IP-ASN,145967,ASN China // 
+IP-ASN,145968,ASN China // 
+IP-ASN,145969,ASN China // 
+IP-ASN,145970,ASN China // 
+IP-ASN,145971,ASN China // 
+IP-ASN,145972,ASN China // 
+IP-ASN,145973,ASN China // 
+IP-ASN,145974,ASN China // 
+IP-ASN,145975,ASN China // 
+IP-ASN,145976,ASN China // 
+IP-ASN,145977,ASN China // 
+IP-ASN,145978,ASN China // 
+IP-ASN,145979,ASN China // 
+IP-ASN,145980,ASN China // 
+IP-ASN,145981,ASN China // 
+IP-ASN,145982,ASN China // 
+IP-ASN,145983,ASN China // 
+IP-ASN,145984,ASN China // 
+IP-ASN,145985,ASN China // 
+IP-ASN,145986,ASN China // 
+IP-ASN,145987,ASN China // 
+IP-ASN,145988,ASN China // 
+IP-ASN,145989,ASN China // 
+IP-ASN,145990,ASN China // 
+IP-ASN,145991,ASN China // 
+IP-ASN,145992,ASN China // 
+IP-ASN,145993,ASN China // 
+IP-ASN,145994,ASN China // 
+IP-ASN,145995,ASN China // 
+IP-ASN,145996,ASN China // 
+IP-ASN,145997,ASN China // 
+IP-ASN,145998,ASN China // 
+IP-ASN,145999,ASN China // 
+IP-ASN,146000,ASN China // 
+IP-ASN,146001,ASN China // 
+IP-ASN,146002,ASN China // 
+IP-ASN,146003,ASN China // 
+IP-ASN,146004,ASN China // 
+IP-ASN,146005,ASN China // 
+IP-ASN,146006,ASN China // 
+IP-ASN,146007,ASN China // 
+IP-ASN,146008,ASN China // 
+IP-ASN,146009,ASN China // 
+IP-ASN,146010,ASN China // 
+IP-ASN,146011,ASN China // 
+IP-ASN,146012,ASN China // 
+IP-ASN,146013,ASN China // 
+IP-ASN,146014,ASN China // 
+IP-ASN,146015,ASN China // 
+IP-ASN,146016,ASN China // 
+IP-ASN,146017,ASN China // 
+IP-ASN,146018,ASN China // 
+IP-ASN,146019,ASN China // 
+IP-ASN,146020,ASN China // 
+IP-ASN,146021,ASN China // 
+IP-ASN,146022,ASN China // 
+IP-ASN,146023,ASN China // 
+IP-ASN,146024,ASN China // 
+IP-ASN,146025,ASN China // 
+IP-ASN,146026,ASN China // 
+IP-ASN,146027,ASN China // 
+IP-ASN,146028,ASN China // 
+IP-ASN,146029,ASN China // 
+IP-ASN,146030,ASN China // 
+IP-ASN,146031,ASN China // 
+IP-ASN,146032,ASN China // 
+IP-ASN,146033,ASN China // 
+IP-ASN,146034,ASN China // 
+IP-ASN,146035,ASN China // 
+IP-ASN,146036,ASN China // 
+IP-ASN,146037,ASN China // 
+IP-ASN,146038,ASN China // 
+IP-ASN,146039,ASN China // 
+IP-ASN,146040,ASN China // 
+IP-ASN,146041,ASN China // 
+IP-ASN,146042,ASN China // 
+IP-ASN,146043,ASN China // 
+IP-ASN,146044,ASN China // 
+IP-ASN,146045,ASN China // 
+IP-ASN,146046,ASN China // 
+IP-ASN,146047,ASN China // 
+IP-ASN,146048,ASN China // 
+IP-ASN,146049,ASN China // 
+IP-ASN,146050,ASN China // 
+IP-ASN,146051,ASN China // 
+IP-ASN,146052,ASN China // 
+IP-ASN,146053,ASN China // 
+IP-ASN,146054,ASN China // 
+IP-ASN,146055,ASN China // 
+IP-ASN,146056,ASN China // 
+IP-ASN,146057,ASN China // 
+IP-ASN,146058,ASN China // 
+IP-ASN,146059,ASN China // 
+IP-ASN,146060,ASN China // 
+IP-ASN,146061,ASN China // 
+IP-ASN,146062,ASN China // 
+IP-ASN,146063,ASN China // 
+IP-ASN,146064,ASN China // 
+IP-ASN,146065,ASN China // 
+IP-ASN,146066,ASN China // 
+IP-ASN,146067,ASN China // 
+IP-ASN,146068,ASN China // 
+IP-ASN,146069,ASN China // 
+IP-ASN,146070,ASN China // 
+IP-ASN,146071,ASN China // 
+IP-ASN,146072,ASN China // 
+IP-ASN,146073,ASN China // 
+IP-ASN,146074,ASN China // 
+IP-ASN,146075,ASN China // 
+IP-ASN,146076,ASN China // 
+IP-ASN,146077,ASN China // 
+IP-ASN,146078,ASN China // 
+IP-ASN,146079,ASN China // 
+IP-ASN,146080,ASN China // 
+IP-ASN,146081,ASN China // 
+IP-ASN,146082,ASN China // 
+IP-ASN,146083,ASN China // 
+IP-ASN,146084,ASN China // 
+IP-ASN,146085,ASN China // 
+IP-ASN,146086,ASN China // 
+IP-ASN,146087,ASN China // 
+IP-ASN,146088,ASN China // 
+IP-ASN,146089,ASN China // 
+IP-ASN,146090,ASN China // 
+IP-ASN,146091,ASN China // 
+IP-ASN,146092,ASN China // 
+IP-ASN,146093,ASN China // 
+IP-ASN,146094,ASN China // 
+IP-ASN,146095,ASN China // 
+IP-ASN,146096,ASN China // 
+IP-ASN,146097,ASN China // 
+IP-ASN,146098,ASN China // 
+IP-ASN,146099,ASN China // 
+IP-ASN,146100,ASN China // 
+IP-ASN,146101,ASN China // 
+IP-ASN,146102,ASN China // 
+IP-ASN,146103,ASN China // 
+IP-ASN,146104,ASN China // 
+IP-ASN,146105,ASN China // 
+IP-ASN,146106,ASN China // 
+IP-ASN,146107,ASN China // 
+IP-ASN,146108,ASN China // 
+IP-ASN,146109,ASN China // 
+IP-ASN,146110,ASN China // 
+IP-ASN,146111,ASN China // 
+IP-ASN,146112,ASN China // 
+IP-ASN,146113,ASN China // 
+IP-ASN,146114,ASN China // 
+IP-ASN,146115,ASN China // 
+IP-ASN,146116,ASN China // 
+IP-ASN,146117,ASN China // 
+IP-ASN,146118,ASN China // 
+IP-ASN,146119,ASN China // 
+IP-ASN,146120,ASN China // 
+IP-ASN,146121,ASN China // 
+IP-ASN,146122,ASN China // 
+IP-ASN,146123,ASN China // 
+IP-ASN,146124,ASN China // 
+IP-ASN,146125,ASN China // 
+IP-ASN,146126,ASN China // 
+IP-ASN,146127,ASN China // 
+IP-ASN,146128,ASN China // 
+IP-ASN,146129,ASN China // 
+IP-ASN,146130,ASN China // 
+IP-ASN,146131,ASN China // 
+IP-ASN,146132,ASN China // 
+IP-ASN,146133,ASN China // 
+IP-ASN,146134,ASN China // 
+IP-ASN,146135,ASN China // 
+IP-ASN,146136,ASN China // 
+IP-ASN,146137,ASN China // 
+IP-ASN,146138,ASN China // 
+IP-ASN,146139,ASN China // 
+IP-ASN,146140,ASN China // 
+IP-ASN,146141,ASN China // 
+IP-ASN,146142,ASN China // 
+IP-ASN,146143,ASN China // 
+IP-ASN,146144,ASN China // 
+IP-ASN,146145,ASN China // 
+IP-ASN,146146,ASN China // 
+IP-ASN,146147,ASN China // 
+IP-ASN,146148,ASN China // 
+IP-ASN,146149,ASN China // 
+IP-ASN,146150,ASN China // 
+IP-ASN,146151,ASN China // 
+IP-ASN,146152,ASN China // 
+IP-ASN,146153,ASN China // 
+IP-ASN,146154,ASN China // 
+IP-ASN,146155,ASN China // 
+IP-ASN,146156,ASN China // 
+IP-ASN,146157,ASN China // 
+IP-ASN,146158,ASN China // 
+IP-ASN,146159,ASN China // 
+IP-ASN,146160,ASN China // 
+IP-ASN,146161,ASN China // 
+IP-ASN,146162,ASN China // 
+IP-ASN,146163,ASN China // 
+IP-ASN,146164,ASN China // 
+IP-ASN,146165,ASN China // 
+IP-ASN,146166,ASN China // 
+IP-ASN,146167,ASN China // 
+IP-ASN,146168,ASN China // 
+IP-ASN,146169,ASN China // 
+IP-ASN,146170,ASN China // 
+IP-ASN,146171,ASN China // 
+IP-ASN,146172,ASN China // 
+IP-ASN,146173,ASN China // 
+IP-ASN,146174,ASN China // 
+IP-ASN,146175,ASN China // 
+IP-ASN,146176,ASN China // 
+IP-ASN,146177,ASN China // 
+IP-ASN,146178,ASN China // 
+IP-ASN,146179,ASN China // 
+IP-ASN,146180,ASN China // 
+IP-ASN,146181,ASN China // 
+IP-ASN,146182,ASN China // 
+IP-ASN,146183,ASN China // 
+IP-ASN,146184,ASN China // 
+IP-ASN,146185,ASN China // 
+IP-ASN,146186,ASN China // 
+IP-ASN,146187,ASN China // 
+IP-ASN,146188,ASN China // 
+IP-ASN,146189,ASN China // 
+IP-ASN,146190,ASN China // 
+IP-ASN,146191,ASN China // 
+IP-ASN,146192,ASN China // 
+IP-ASN,146193,ASN China // 
+IP-ASN,146194,ASN China // 
+IP-ASN,146195,ASN China // 
+IP-ASN,146196,ASN China // 
+IP-ASN,146197,ASN China // 
+IP-ASN,146198,ASN China // 
+IP-ASN,146199,ASN China // 
+IP-ASN,146200,ASN China // 
+IP-ASN,146201,ASN China // 
+IP-ASN,146202,ASN China // 
+IP-ASN,146203,ASN China // 
+IP-ASN,146204,ASN China // 
+IP-ASN,146205,ASN China // 
+IP-ASN,146206,ASN China // 
+IP-ASN,146207,ASN China // 
+IP-ASN,146208,ASN China // 
+IP-ASN,146209,ASN China // 
+IP-ASN,146210,ASN China // 
+IP-ASN,146211,ASN China // 
+IP-ASN,146212,ASN China // 
+IP-ASN,146213,ASN China // 
+IP-ASN,146214,ASN China // 
+IP-ASN,146215,ASN China // 
+IP-ASN,146216,ASN China // 
+IP-ASN,146217,ASN China // 
+IP-ASN,146218,ASN China // 
+IP-ASN,146219,ASN China // 
+IP-ASN,146220,ASN China // 
+IP-ASN,146221,ASN China // 
+IP-ASN,146222,ASN China // 
+IP-ASN,146223,ASN China // 
+IP-ASN,146224,ASN China // 
+IP-ASN,146225,ASN China // 
+IP-ASN,146226,ASN China // 
+IP-ASN,146227,ASN China // 
+IP-ASN,146228,ASN China // 
+IP-ASN,146229,ASN China // 
+IP-ASN,146230,ASN China // 
+IP-ASN,146231,ASN China // 
+IP-ASN,146232,ASN China // 
+IP-ASN,146233,ASN China // 
+IP-ASN,146234,ASN China // 
+IP-ASN,146235,ASN China // 
+IP-ASN,146236,ASN China // 
+IP-ASN,146237,ASN China // 
+IP-ASN,146238,ASN China // 
+IP-ASN,146239,ASN China // 
+IP-ASN,146240,ASN China // 
+IP-ASN,146241,ASN China // 
+IP-ASN,146242,ASN China // 
+IP-ASN,146243,ASN China // 
+IP-ASN,146244,ASN China // 
+IP-ASN,146245,ASN China // 
+IP-ASN,146246,ASN China // 
+IP-ASN,146247,ASN China // 
+IP-ASN,146248,ASN China // 
+IP-ASN,146249,ASN China // 
+IP-ASN,146250,ASN China // 
+IP-ASN,146251,ASN China // 
+IP-ASN,146252,ASN China // 
+IP-ASN,146253,ASN China // 
+IP-ASN,146254,ASN China // 
+IP-ASN,146255,ASN China // 
+IP-ASN,146256,ASN China // 
+IP-ASN,146257,ASN China // 
+IP-ASN,146258,ASN China // 
+IP-ASN,146259,ASN China // 
+IP-ASN,146260,ASN China // 
+IP-ASN,146261,ASN China // 
+IP-ASN,146262,ASN China // 
+IP-ASN,146263,ASN China // 
+IP-ASN,146264,ASN China // 
+IP-ASN,146265,ASN China // 
+IP-ASN,146266,ASN China // 
+IP-ASN,146267,ASN China // 
+IP-ASN,146268,ASN China // 
+IP-ASN,146269,ASN China // 
+IP-ASN,146270,ASN China // 
+IP-ASN,146271,ASN China // 
+IP-ASN,146272,ASN China // 
+IP-ASN,146273,ASN China // 
+IP-ASN,146274,ASN China // 
+IP-ASN,146275,ASN China // 
+IP-ASN,146276,ASN China // 
+IP-ASN,146277,ASN China // 
+IP-ASN,146278,ASN China // 
+IP-ASN,146279,ASN China // 
+IP-ASN,146280,ASN China // 
+IP-ASN,146281,ASN China // 
+IP-ASN,146282,ASN China // 
+IP-ASN,146283,ASN China // 
+IP-ASN,146284,ASN China // 
+IP-ASN,146285,ASN China // 
+IP-ASN,146286,ASN China // 
+IP-ASN,146287,ASN China // 
+IP-ASN,146288,ASN China // 
+IP-ASN,146289,ASN China // 
+IP-ASN,146290,ASN China // 
+IP-ASN,146291,ASN China // 
+IP-ASN,146292,ASN China // 
+IP-ASN,146293,ASN China // 
+IP-ASN,146294,ASN China // 
+IP-ASN,146295,ASN China // 
+IP-ASN,146296,ASN China // 
+IP-ASN,146297,ASN China // 
+IP-ASN,146298,ASN China // 
+IP-ASN,146299,ASN China // 
+IP-ASN,146300,ASN China // 
+IP-ASN,146301,ASN China // 
+IP-ASN,146302,ASN China // 
+IP-ASN,146303,ASN China // 
+IP-ASN,146304,ASN China // 
+IP-ASN,146305,ASN China // 
+IP-ASN,146306,ASN China // 
+IP-ASN,146307,ASN China // 
+IP-ASN,146308,ASN China // 
+IP-ASN,146309,ASN China // 
+IP-ASN,146310,ASN China // 
+IP-ASN,146311,ASN China // 
+IP-ASN,146312,ASN China // 
+IP-ASN,146313,ASN China // 
+IP-ASN,146314,ASN China // 
+IP-ASN,146315,ASN China // 
+IP-ASN,146316,ASN China // 
+IP-ASN,146317,ASN China // 
+IP-ASN,146318,ASN China // 
+IP-ASN,146319,ASN China // 
+IP-ASN,146320,ASN China // 
+IP-ASN,146321,ASN China // 
+IP-ASN,146322,ASN China // 
+IP-ASN,146323,ASN China // 
+IP-ASN,146324,ASN China // 
+IP-ASN,146325,ASN China // 
+IP-ASN,146326,ASN China // 
+IP-ASN,146327,ASN China // 
+IP-ASN,146328,ASN China // 
+IP-ASN,146329,ASN China // 
+IP-ASN,146330,ASN China // 
+IP-ASN,146331,ASN China // 
+IP-ASN,146332,ASN China // 
+IP-ASN,146333,ASN China // 
+IP-ASN,146334,ASN China // 
+IP-ASN,146335,ASN China // 
+IP-ASN,146336,ASN China // 
+IP-ASN,146337,ASN China // 
+IP-ASN,146338,ASN China // 
+IP-ASN,146339,ASN China // 
+IP-ASN,146340,ASN China // 
+IP-ASN,146341,ASN China // 
+IP-ASN,146342,ASN China // 
+IP-ASN,146343,ASN China // 
+IP-ASN,146344,ASN China // 
+IP-ASN,146345,ASN China // 
+IP-ASN,146346,ASN China // 
+IP-ASN,146347,ASN China // 
+IP-ASN,146348,ASN China // 
+IP-ASN,146349,ASN China // 
+IP-ASN,146350,ASN China // 
+IP-ASN,146351,ASN China // 
+IP-ASN,146352,ASN China // 
+IP-ASN,146353,ASN China // 
+IP-ASN,146354,ASN China // 
+IP-ASN,146355,ASN China // 
+IP-ASN,146356,ASN China // 
+IP-ASN,146357,ASN China // 
+IP-ASN,146358,ASN China // 
+IP-ASN,146359,ASN China // 
+IP-ASN,146360,ASN China // 
+IP-ASN,146361,ASN China // 
+IP-ASN,146362,ASN China // 
+IP-ASN,146363,ASN China // 
+IP-ASN,146364,ASN China // 
+IP-ASN,146365,ASN China // 
+IP-ASN,146366,ASN China // 
+IP-ASN,146367,ASN China // 
+IP-ASN,146368,ASN China // 
+IP-ASN,146369,ASN China // 
+IP-ASN,146370,ASN China // 
+IP-ASN,146371,ASN China // 
+IP-ASN,146372,ASN China // 
+IP-ASN,146373,ASN China // 
+IP-ASN,146374,ASN China // 
+IP-ASN,146375,ASN China // 
+IP-ASN,146376,ASN China // 
+IP-ASN,146377,ASN China // 
+IP-ASN,146378,ASN China // 
+IP-ASN,146379,ASN China // 
+IP-ASN,146380,ASN China // 
+IP-ASN,146381,ASN China // 
+IP-ASN,146382,ASN China // 
+IP-ASN,146383,ASN China // 
+IP-ASN,146384,ASN China // 
+IP-ASN,146385,ASN China // 
+IP-ASN,146386,ASN China // 
+IP-ASN,146387,ASN China // 
+IP-ASN,146388,ASN China // 
+IP-ASN,146389,ASN China // 
+IP-ASN,146390,ASN China // 
+IP-ASN,146391,ASN China // 
+IP-ASN,146392,ASN China // 
+IP-ASN,146393,ASN China // 
+IP-ASN,146394,ASN China // 
+IP-ASN,146395,ASN China // 
+IP-ASN,146396,ASN China // 
+IP-ASN,146397,ASN China // 
+IP-ASN,146398,ASN China // 
+IP-ASN,146399,ASN China // 
+IP-ASN,146400,ASN China // 
+IP-ASN,146401,ASN China // 
+IP-ASN,146402,ASN China // 
+IP-ASN,146403,ASN China // 
+IP-ASN,146404,ASN China // 
+IP-ASN,146405,ASN China // 
+IP-ASN,146406,ASN China // 
+IP-ASN,146407,ASN China // 
+IP-ASN,146408,ASN China // 
+IP-ASN,146409,ASN China // 
+IP-ASN,146410,ASN China // 
+IP-ASN,146411,ASN China // 
+IP-ASN,146412,ASN China // 
+IP-ASN,146413,ASN China // 
+IP-ASN,146414,ASN China // 
+IP-ASN,146415,ASN China // 
+IP-ASN,146416,ASN China // 
+IP-ASN,146417,ASN China // 
+IP-ASN,146418,ASN China // 
+IP-ASN,146419,ASN China // 
+IP-ASN,146420,ASN China // 
+IP-ASN,146421,ASN China // 
+IP-ASN,146422,ASN China // 
+IP-ASN,146423,ASN China // 
+IP-ASN,146424,ASN China // 
+IP-ASN,146425,ASN China // 
+IP-ASN,146426,ASN China // 
+IP-ASN,146427,ASN China // 
+IP-ASN,146428,ASN China // 
+IP-ASN,146429,ASN China // 
+IP-ASN,146430,ASN China // 
+IP-ASN,146431,ASN China // 
+IP-ASN,146432,ASN China // 
+IP-ASN,146433,ASN China // 
+IP-ASN,146434,ASN China // 
+IP-ASN,146435,ASN China // 
+IP-ASN,146436,ASN China // 
+IP-ASN,146437,ASN China // 
+IP-ASN,146438,ASN China // 
+IP-ASN,146439,ASN China // 
+IP-ASN,146440,ASN China // 
+IP-ASN,146441,ASN China // 
+IP-ASN,146442,ASN China // 
+IP-ASN,146443,ASN China // 
+IP-ASN,146444,ASN China // 
+IP-ASN,146445,ASN China // 
+IP-ASN,146446,ASN China // 
+IP-ASN,146447,ASN China // 
+IP-ASN,146448,ASN China // 
+IP-ASN,146449,ASN China // 
+IP-ASN,146450,ASN China // 
+IP-ASN,146451,ASN China // 
+IP-ASN,146452,ASN China // 
+IP-ASN,146453,ASN China // 
+IP-ASN,146454,ASN China // 
+IP-ASN,146455,ASN China // 
+IP-ASN,146456,ASN China // 
+IP-ASN,146457,ASN China // 
+IP-ASN,146458,ASN China // 
+IP-ASN,146459,ASN China // 
+IP-ASN,146460,ASN China // 
+IP-ASN,146461,ASN China // 
+IP-ASN,146462,ASN China // 
+IP-ASN,146463,ASN China // 
+IP-ASN,146464,ASN China // 
+IP-ASN,146465,ASN China // 
+IP-ASN,146466,ASN China // 
+IP-ASN,146467,ASN China // 
+IP-ASN,146468,ASN China // 
+IP-ASN,146469,ASN China // 
+IP-ASN,146470,ASN China // 
+IP-ASN,146471,ASN China // 
+IP-ASN,146472,ASN China // 
+IP-ASN,146473,ASN China // 
+IP-ASN,146474,ASN China // 
+IP-ASN,146475,ASN China // 
+IP-ASN,146476,ASN China // 
+IP-ASN,146477,ASN China // 
+IP-ASN,146478,ASN China // 
+IP-ASN,146479,ASN China // 
+IP-ASN,146480,ASN China // 
+IP-ASN,146481,ASN China // 
+IP-ASN,146482,ASN China // 
+IP-ASN,146483,ASN China // 
+IP-ASN,146484,ASN China // 
+IP-ASN,146485,ASN China // 
+IP-ASN,146486,ASN China // 
+IP-ASN,146487,ASN China // 
+IP-ASN,146488,ASN China // 
+IP-ASN,146489,ASN China // 
+IP-ASN,146490,ASN China // 
+IP-ASN,146491,ASN China // 
+IP-ASN,146492,ASN China // 
+IP-ASN,146493,ASN China // 
+IP-ASN,146494,ASN China // 
+IP-ASN,146495,ASN China // 
+IP-ASN,146496,ASN China // 
+IP-ASN,146497,ASN China // 
+IP-ASN,146498,ASN China // 
+IP-ASN,146499,ASN China // 
+IP-ASN,146500,ASN China // 
+IP-ASN,146501,ASN China // 
+IP-ASN,146502,ASN China // 
+IP-ASN,146503,ASN China // 
+IP-ASN,146504,ASN China // 
+IP-ASN,146505,ASN China // 
+IP-ASN,146506,ASN China // 
+IP-ASN,146507,ASN China // 
+IP-ASN,146508,ASN China // 
+IP-ASN,146509,ASN China // 
+IP-ASN,146510,ASN China // 
+IP-ASN,146511,ASN China // 
+IP-ASN,146512,ASN China // 
+IP-ASN,146513,ASN China // 
+IP-ASN,146514,ASN China // 
+IP-ASN,146515,ASN China // 
+IP-ASN,146516,ASN China // 
+IP-ASN,146517,ASN China // 
+IP-ASN,146518,ASN China // 
+IP-ASN,146519,ASN China // 
+IP-ASN,146520,ASN China // 
+IP-ASN,146521,ASN China // 
+IP-ASN,146522,ASN China // 
+IP-ASN,146523,ASN China // 
+IP-ASN,146524,ASN China // 
+IP-ASN,146525,ASN China // 
+IP-ASN,146526,ASN China // 
+IP-ASN,146527,ASN China // 
+IP-ASN,146528,ASN China // 
+IP-ASN,146529,ASN China // 
+IP-ASN,146530,ASN China // 
+IP-ASN,146531,ASN China // 
+IP-ASN,146532,ASN China // 
+IP-ASN,146533,ASN China // 
+IP-ASN,146534,ASN China // 
+IP-ASN,146535,ASN China // 
+IP-ASN,146536,ASN China // 
+IP-ASN,146537,ASN China // 
+IP-ASN,146538,ASN China // 
+IP-ASN,146539,ASN China // 
+IP-ASN,146540,ASN China // 
+IP-ASN,146541,ASN China // 
+IP-ASN,146542,ASN China // 
+IP-ASN,146543,ASN China // 
+IP-ASN,146544,ASN China // 
+IP-ASN,146545,ASN China // 
+IP-ASN,146546,ASN China // 
+IP-ASN,146547,ASN China // 
+IP-ASN,146548,ASN China // 
+IP-ASN,146549,ASN China // 
+IP-ASN,146550,ASN China // 
+IP-ASN,146551,ASN China // 
+IP-ASN,146552,ASN China // 
+IP-ASN,146553,ASN China // 
+IP-ASN,146554,ASN China // 
+IP-ASN,146555,ASN China // 
+IP-ASN,146556,ASN China // 
+IP-ASN,146557,ASN China // 
+IP-ASN,146558,ASN China // 
+IP-ASN,146559,ASN China // 
+IP-ASN,146560,ASN China // 
+IP-ASN,146561,ASN China // 
+IP-ASN,146562,ASN China // 
+IP-ASN,146563,ASN China // 
+IP-ASN,146564,ASN China // 
+IP-ASN,146565,ASN China // 
+IP-ASN,146566,ASN China // 
+IP-ASN,146567,ASN China // 
+IP-ASN,146568,ASN China // 
+IP-ASN,146569,ASN China // 
+IP-ASN,146570,ASN China // 
+IP-ASN,146571,ASN China // 
+IP-ASN,146572,ASN China // 
+IP-ASN,146573,ASN China // 
+IP-ASN,146574,ASN China // 
+IP-ASN,146575,ASN China // 
+IP-ASN,146576,ASN China // 
+IP-ASN,146577,ASN China // 
+IP-ASN,146578,ASN China // 
+IP-ASN,146579,ASN China // 
+IP-ASN,146580,ASN China // 
+IP-ASN,146581,ASN China // 
+IP-ASN,146582,ASN China // 
+IP-ASN,146583,ASN China // 
+IP-ASN,146584,ASN China // 
+IP-ASN,146585,ASN China // 
+IP-ASN,146586,ASN China // 
+IP-ASN,146587,ASN China // 
+IP-ASN,146588,ASN China // 
+IP-ASN,146589,ASN China // 
+IP-ASN,146590,ASN China // 
+IP-ASN,146591,ASN China // 
+IP-ASN,146592,ASN China // 
+IP-ASN,146593,ASN China // 
+IP-ASN,146594,ASN China // 
+IP-ASN,146595,ASN China // 
+IP-ASN,146596,ASN China // 
+IP-ASN,146597,ASN China // 
+IP-ASN,146598,ASN China // 
+IP-ASN,146599,ASN China // 
+IP-ASN,146600,ASN China // 
+IP-ASN,146601,ASN China // 
+IP-ASN,146602,ASN China // 
+IP-ASN,146603,ASN China // 
+IP-ASN,146604,ASN China // 
+IP-ASN,146605,ASN China // 
+IP-ASN,146606,ASN China // 
+IP-ASN,146607,ASN China // 
+IP-ASN,146608,ASN China // 
+IP-ASN,146609,ASN China // 
+IP-ASN,146610,ASN China // 
+IP-ASN,146611,ASN China // 
+IP-ASN,146612,ASN China // 
+IP-ASN,146613,ASN China // 
+IP-ASN,146614,ASN China // 
+IP-ASN,146615,ASN China // 
+IP-ASN,146616,ASN China // 
+IP-ASN,146617,ASN China // 
+IP-ASN,146618,ASN China // 
+IP-ASN,146619,ASN China // 
+IP-ASN,146620,ASN China // 
+IP-ASN,146621,ASN China // 
+IP-ASN,146622,ASN China // 
+IP-ASN,146623,ASN China // 
+IP-ASN,146624,ASN China // 
+IP-ASN,146625,ASN China // 
+IP-ASN,146626,ASN China // 
+IP-ASN,146627,ASN China // 
+IP-ASN,146628,ASN China // 
+IP-ASN,146629,ASN China // 
+IP-ASN,146630,ASN China // 
+IP-ASN,146631,ASN China // 
+IP-ASN,146632,ASN China // 
+IP-ASN,146633,ASN China // 
+IP-ASN,146634,ASN China // 
+IP-ASN,146635,ASN China // 
+IP-ASN,146636,ASN China // 
+IP-ASN,146637,ASN China // 
+IP-ASN,146638,ASN China // 
+IP-ASN,146639,ASN China // 
+IP-ASN,146640,ASN China // 
+IP-ASN,146641,ASN China // 
+IP-ASN,146642,ASN China // 
+IP-ASN,146643,ASN China // 
+IP-ASN,146644,ASN China // 
+IP-ASN,146645,ASN China // 
+IP-ASN,146646,ASN China // 
+IP-ASN,146647,ASN China // 
+IP-ASN,146648,ASN China // 
+IP-ASN,146649,ASN China // 
+IP-ASN,146650,ASN China // 
+IP-ASN,146651,ASN China // 
+IP-ASN,146652,ASN China // 
+IP-ASN,146653,ASN China // 
+IP-ASN,146654,ASN China // 
+IP-ASN,146655,ASN China // 
+IP-ASN,146656,ASN China // 
+IP-ASN,146657,ASN China // 
+IP-ASN,146658,ASN China // 
+IP-ASN,146659,ASN China // 
+IP-ASN,146660,ASN China // 
+IP-ASN,146661,ASN China // 
+IP-ASN,146662,ASN China // 
+IP-ASN,146663,ASN China // 
+IP-ASN,146664,ASN China // 
+IP-ASN,146665,ASN China // 
+IP-ASN,146666,ASN China // 
+IP-ASN,146667,ASN China // 
+IP-ASN,146668,ASN China // 
+IP-ASN,146669,ASN China // 
+IP-ASN,146670,ASN China // 
+IP-ASN,146671,ASN China // 
+IP-ASN,146672,ASN China // 
+IP-ASN,146673,ASN China // 
+IP-ASN,146674,ASN China // 
+IP-ASN,146675,ASN China // 
+IP-ASN,146676,ASN China // 
+IP-ASN,146677,ASN China // 
+IP-ASN,146678,ASN China // 
+IP-ASN,146679,ASN China // 
+IP-ASN,146680,ASN China // 
+IP-ASN,146681,ASN China // 
+IP-ASN,146682,ASN China // 
+IP-ASN,146683,ASN China // 
+IP-ASN,146684,ASN China // 
+IP-ASN,146685,ASN China // 
+IP-ASN,146686,ASN China // 
+IP-ASN,146687,ASN China // 
+IP-ASN,146688,ASN China // 
+IP-ASN,146689,ASN China // 
+IP-ASN,146690,ASN China // 
+IP-ASN,146691,ASN China // 
+IP-ASN,146692,ASN China // 
+IP-ASN,146693,ASN China // 
+IP-ASN,146694,ASN China // 
+IP-ASN,146695,ASN China // 
+IP-ASN,146696,ASN China // 
+IP-ASN,146697,ASN China // 
+IP-ASN,146698,ASN China // 
+IP-ASN,146699,ASN China // 
+IP-ASN,146700,ASN China // 
+IP-ASN,146701,ASN China // 
+IP-ASN,146702,ASN China // 
+IP-ASN,146703,ASN China // 
+IP-ASN,146704,ASN China // 
+IP-ASN,146705,ASN China // 
+IP-ASN,146706,ASN China // 
+IP-ASN,146707,ASN China // 
+IP-ASN,146708,ASN China // 
+IP-ASN,146709,ASN China // 
+IP-ASN,146710,ASN China // 
+IP-ASN,146711,ASN China // 
+IP-ASN,146712,ASN China // 
+IP-ASN,146713,ASN China // 
+IP-ASN,146714,ASN China // 
+IP-ASN,146715,ASN China // 
+IP-ASN,146716,ASN China // 
+IP-ASN,146717,ASN China // 
+IP-ASN,146718,ASN China // 
+IP-ASN,146719,ASN China // 
+IP-ASN,146720,ASN China // 
+IP-ASN,146721,ASN China // 
+IP-ASN,146722,ASN China // 
+IP-ASN,146723,ASN China // 
+IP-ASN,146724,ASN China // 
+IP-ASN,146725,ASN China // 
+IP-ASN,146726,ASN China // 
+IP-ASN,146727,ASN China // 
+IP-ASN,146728,ASN China // 
+IP-ASN,146729,ASN China // 
+IP-ASN,146730,ASN China // 
+IP-ASN,146731,ASN China // 
+IP-ASN,146732,ASN China // 
+IP-ASN,146733,ASN China // 
+IP-ASN,146734,ASN China // 
+IP-ASN,146735,ASN China // 
+IP-ASN,146736,ASN China // 
+IP-ASN,146737,ASN China // 
+IP-ASN,146738,ASN China // 
+IP-ASN,146739,ASN China // 
+IP-ASN,146740,ASN China // 
+IP-ASN,146741,ASN China // 
+IP-ASN,146742,ASN China // 
+IP-ASN,146743,ASN China // 
+IP-ASN,146744,ASN China // 
+IP-ASN,146745,ASN China // 
+IP-ASN,146746,ASN China // TaiKang Insurance Group 有限公司.,武汉 Operating Center
+IP-ASN,146753,ASN China // kgzxnet
+IP-ASN,146758,ASN China // 上海 Sensetime 技术开发有限公司
+IP-ASN,146771,ASN China // CCB Fintech 有限公司
+IP-ASN,146772,ASN China // 深圳 Pengcheng communication network 有限公司
+IP-ASN,146774,ASN China // Hardcore Communication Co.
+IP-ASN,146792,ASN China // 上海 Shenfu信息科技有限公司
+IP-ASN,146809,ASN China // Poly facility (北京) Technology 有限公司
+IP-ASN,146812,ASN China // Deutsche Bank (China) 有限公司 上海 Branch
+IP-ASN,146814,ASN China // Hong Kong大学 of Science and Technology, Dongchung Town,
+IP-ASN,146817,ASN China // 湖北 Feixun Network 有限公司
+IP-ASN,146822,ASN China // 深圳市 Zhongyun Shujujishu Youxiangongsi
+IP-ASN,146824,ASN China // GOLD SEA COMMUNICATIONS 有限公司
+IP-ASN,146827,ASN China // 北京 XunTong Communication Service 有限公司
+IP-ASN,146834,ASN China // 四川 XunYou Network Technologe 有限公司
+IP-ASN,146842,ASN China // ChinaDataCom 有限公司
+IP-ASN,146845,ASN China // 上海 Longjing信息科技有限公司
+IP-ASN,146966,ASN China // 中国电信
+IP-ASN,147008,ASN China // 深圳 Dianjiang Technology 有限公司
+IP-ASN,147038,ASN China // 中国电信
+IP-ASN,148969,ASN China // 中国电信
+IP-ASN,148981,ASN China // 中国电信
+IP-ASN,149056,ASN China // 哈尔滨 Liangyue 网络科技有限公司
+IP-ASN,149057,ASN China // 深圳 Moerin Technology 有限公司
+IP-ASN,149163,ASN China // 宜昌 Shuangsen 网络科技Ltd
+IP-ASN,149178,ASN China // 中国电信
+IP-ASN,149292,ASN China // 上海 YanFu Technology 有限公司
+IP-ASN,149475,ASN China // 南京天开信息技术有限公司
+IP-ASN,149506,ASN China // YousaFan LTD
+IP-ASN,149513,ASN China // 91440300MA5DH1CC86
+IP-ASN,149648,ASN China // 福州 Lefeng Networks Technology 有限公司
+IP-ASN,149790,ASN China // Octopus 云计算(上海) 有限公司
+IP-ASN,149793,ASN China // Xin Yang Bai Xing Network Tecnology 有限公司
+IP-ASN,149795,ASN China // XiaoJin233 Network
+IP-ASN,149837,ASN China // 中国电信
+IP-ASN,149979,ASN China // 中国电信
+# IP-ASN,150141,ASN China // Wang Jiacheng
+IP-ASN,150145,ASN China // 中国电信
+# IP-ASN,150166,ASN China // The New Development Bank
+IP-ASN,150173,ASN China // Polo云计算(Hong Kong) Limited
+# IP-ASN,150184,ASN China // Chen Chi
+# IP-ASN,150323,ASN China // Huang Xinnian
+# IP-ASN,150373,ASN China // Zhang Bocheng
+# IP-ASN,150374,ASN China // Jiang Men Shi Tian Da Cloud 有限公司 【未广播中国大陆IP】
+# IP-ASN,150400,ASN China // 深圳 Qiaolian 网络科技有限公司 【未广播中国大陆IP】
+# IP-ASN,150775,ASN China // 深圳 Zhian Network 有限公司
+# IP-ASN,151187,ASN China // Shen Jiale
+# IP-ASN,151192,ASN China // Shangren Lu
+# IP-ASN,151193,ASN China // Shandong Deju信息科技有限公司
+# IP-ASN,151194,ASN China // Zhu Yucheng
+# IP-ASN,151202,ASN China // Suzhou Honoka Technology 有限公司
+# IP-ASN,151311,ASN China // 深圳 Humeng Technology 有限公司
+# IP-ASN,151313,ASN China // Pacific Insurance Technology 有限公司
+# IP-ASN,151331,ASN China // Yang Banglong
+IP-ASN,151397,ASN China // 中国电信
+# IP-ASN,151416,ASN China // Liu Lang
+# IP-ASN,151418,ASN China // Zhang Junkai
+IP-ASN,151464,ASN China // 上海 Luogu 网络科技有限公司
+IP-ASN,151493,ASN China // 北京 Kouding Technology 有限公司
+# IP-ASN,151494,ASN China // Lin Kangyi
+IP-ASN,151640,ASN China // Bengbu Qingye Technology
+# IP-ASN,151673,ASN China // Chen Xinyu
+IP-ASN,151674,ASN China // Cheng Yijia
+# IP-ASN,151782,ASN China // Zhao Xingxing
+# IP-ASN,151785,ASN China // Zhou Yang
+IP-ASN,151814,ASN China // Guo Chuang Xin Xing (北京) Technology 有限公司
+IP-ASN,151823,ASN China // 中国电信
+IP-ASN,152092,ASN China // 河南 Angran 云计算Technology 有限公司
+# IP-ASN,197433,ASN China // XuanMing Liu
+# IP-ASN,197626,ASN China // XU ZIYAO
+# IP-ASN,197856,ASN China // Zhou Xiaopeng
+# IP-ASN,197866,ASN China // Jinqiang Zhang
+# IP-ASN,198025,ASN China // Yucheng Zhu
+# IP-ASN,198266,ASN China // Yunrui Gu
+# IP-ASN,198304,ASN China // Pinjia Zhao
+# IP-ASN,198527,ASN China // Haolin Li
+# IP-ASN,198764,ASN China // Rui Li
+# IP-ASN,199068,ASN China // XiaoYin Shi
+# IP-ASN,199307,ASN China // HE LI
+# IP-ASN,199310,ASN China // XIN BING XIAN
+# IP-ASN,199392,ASN China // SHIZHENG NIE
+# IP-ASN,199406,ASN China // Jin Han Shen trading as Yinyun 网络科技Studio
+# IP-ASN,199436,ASN China // BangLong Yang
+# IP-ASN,199684,ASN China // Shangren Lu
+# IP-ASN,199691,ASN China // Zhile Gong
+# IP-ASN,199832,ASN China // QUN LIN
+# IP-ASN,199932,ASN China // Tianle Shi
+# IP-ASN,200021,ASN China // Tianhong Peng
+# IP-ASN,200078,ASN China // Gao Yijia
+# IP-ASN,200103,ASN China // XUAN ZHU
+# IP-ASN,200256,ASN China // Yue Cao
+# IP-ASN,200257,ASN China // ZHIYUAN XIANG
+# IP-ASN,200267,ASN China // Yiping Zhao
+# IP-ASN,200268,ASN China // Haihan Chen
+# IP-ASN,200536,ASN China // Bo Xu
+# IP-ASN,200545,ASN China // Liu Quanhao
+# IP-ASN,200558,ASN China // ZIPENG DENG
+# IP-ASN,200592,ASN China // Junyang Liang
+# IP-ASN,200728,ASN China // YILI
+# IP-ASN,200782,ASN China // Xu Mingyu
+# IP-ASN,200789,ASN China // Wei Teng LIn
+# IP-ASN,200809,ASN China // QUN LIN
+# IP-ASN,200853,ASN China // Yifan Li
+# IP-ASN,200890,ASN China // Jianfeng Ren
+# IP-ASN,200895,ASN China // Xiaodong Yang
+# IP-ASN,200907,ASN China // Bai Shijie
+# IP-ASN,200912,ASN China // Xuanchen Zhu
+# IP-ASN,200936,ASN China // Chengjie Guo
+# IP-ASN,200949,ASN China // Qian Liu
+# IP-ASN,200954,ASN China // JINGMING SHANG
+# IP-ASN,200959,ASN China // Yaoxuan Chen
+# IP-ASN,202256,ASN China // Dongyu Zhang
+# IP-ASN,203083,ASN China // Yuxin Zhang
+# IP-ASN,203236,ASN China // Mingyang Shen
+# IP-ASN,203655,ASN China // zhiwensun
+# IP-ASN,203664,ASN China // LAN XING trading as "Haikou Meilan Lanxing Electronic Technology Trading House"
+# IP-ASN,203804,ASN China // Pengyuan Fan
+# IP-ASN,203888,ASN China // Yu Li
+# IP-ASN,203899,ASN China // Jingyuan Wang
+# IP-ASN,204185,ASN China // Yuchen Ma
+# IP-ASN,204214,ASN China // CHEN ZAO RONG
+# IP-ASN,205152,ASN China // Han Dai
+# IP-ASN,205532,ASN China // Zichao Heng
+# IP-ASN,205603,ASN China // Xinyu Wei
+# IP-ASN,205610,ASN China // Huanjie Zhu
+# IP-ASN,205618,ASN China // Yichen Lu
+# IP-ASN,205634,ASN China // Zihan Chen
+# IP-ASN,205651,ASN China // Hao Qiao
+IP-ASN,205794,ASN China // JINZE YANG
+# IP-ASN,205825,ASN China // XINYU-XIAO
+# IP-ASN,205923,ASN China // Yeung Yat Wu
+# IP-ASN,205947,ASN China // Ren Xiang
+# IP-ASN,206315,ASN China // Shucheng Li
+# IP-ASN,206628,ASN China // Tianyu-Zhu
+IP-ASN,206729,ASN China // Vincent Yang
+# IP-ASN,206843,ASN China // Jikai Ren
+# IP-ASN,206919,ASN China // Xuluo Chen
+# IP-ASN,207338,ASN China // Zhang Zongyu
+# IP-ASN,207401,ASN China // 上海 Moyu Technology 有限公司 【未广播中国大陆IP】
+# IP-ASN,208191,ASN China // MINGWEI LI
+# IP-ASN,208266,ASN China // Hanqi Yang
+# IP-ASN,208577,ASN China // Chaohui Liu
+# IP-ASN,208618,ASN China // Yangyu Chen
+IP-ASN,208679,ASN China // YIKAI-ZHAO
+# IP-ASN,208680,ASN China // ZHANG RANRUI
+# IP-ASN,208698,ASN China // Huang Zhijie
+# IP-ASN,208830,ASN China // ifanr Inc.
+# IP-ASN,208872,ASN China // Jing Mi
+# IP-ASN,208993,ASN China // Wei Xiaofan
+# IP-ASN,209083,ASN China // Jiahui Qiu
+# IP-ASN,209100,ASN China // 成渝，王
+# IP-ASN,209101,ASN China // Huanzhong (北京) Data 网络科技有限公司 【未广播中国大陆IP】
+# IP-ASN,209218,ASN China // Yang Qi
+# IP-ASN,209261,ASN China // Qiao Jiang
+# IP-ASN,209294,ASN China // Fan Zhang
+# IP-ASN,209300,ASN China // Wende Tan
+# IP-ASN,209306,ASN China // Jin Shaohai
+# IP-ASN,209484,ASN China // Jinan Xiangyun Tianhai信息科技有限公司 【未广播中国大陆IP】
+# IP-ASN,209556,ASN China // Benli Zhong
+# IP-ASN,209574,ASN China // Xiao Tan
+# IP-ASN,209586,ASN China // SUNYOU PAN
+# IP-ASN,209645,ASN China // Jixian Zeng
+# IP-ASN,209650,ASN China // Wu Zhiyuan
+# IP-ASN,209661,ASN China // SIQI WANG
+# IP-ASN,209686,ASN China // Xingyu Guo
+# IP-ASN,209864,ASN China // Zhaofeng Li
+IP-ASN,210041,ASN China // Licheng MAO
+# IP-ASN,210320,ASN China // Zihan Sun 【未广播中国大陆IP】
+IP-ASN,210426,ASN China // Liang Zhu 【未广播中国大陆IP】
+IP-ASN,210714,ASN China // Wang Yongjin 【未广播中国大陆IP】
+# IP-ASN,210815,ASN China // Feng, Zhe 【未广播中国大陆IP】
+# IP-ASN,210872,ASN China // Cui, Jiacheng 【未广播中国大陆IP】
+IP-ASN,210903,ASN China // 承德青曜网络技术服务有限公司
+IP-ASN,210934,ASN China // YAO PEI 【未广播中国大陆IP】
+# IP-ASN,211051,ASN China // Dazhong Technology Network Studio of Tieling County 【未广播中国大陆IP】
+# IP-ASN,211293,ASN China // Xie Jinshao 【未广播中国大陆IP】
+IP-ASN,211481,ASN China // JINGQUAN LI
+IP-ASN,211571,ASN China // Xin Zhao
+IP-ASN,211843,ASN China // 南京天开信息技术有限公司
+# IP-ASN,211980,ASN China // Ding Yu 【未广播中国大陆IP】
+# IP-ASN,211992,ASN China // Wei Tang
+# IP-ASN,212164,ASN China // Jiaxian He 【未广播中国大陆IP】
+IP-ASN,212237,ASN China // Changgong Zhang
+# IP-ASN,212292,ASN China // SKYWTH.COM LTD 【未广播中国大陆IP】
+# IP-ASN,212371,ASN China // Huizhou HuiGu CloudTech 有限公司 【未广播中国大陆IP】
+# IP-ASN,212532,ASN China // XIAO YANG WEN RUI 【未广播中国大陆IP】
+# IP-ASN,212623,ASN China // Fan Zhong 【未广播中国大陆IP】
+# IP-ASN,212690,ASN China // Enyu Li 【未广播中国大陆IP】
+# IP-ASN,212793,ASN China // Xiwei Ye 【未广播中国大陆IP】
+# IP-ASN,213069,ASN China // PANYUAN HUANG
+# IP-ASN,213115,ASN China // Aoi kato 【未广播中国大陆IP】
+# IP-ASN,215906,ASN China // Lili Fan 【未广播中国大陆IP】
+# IP-ASN,215969,ASN China // Tan Zhang 【未广播中国大陆IP】
+# IP-ASN,216056,ASN China // Jingqiu Xu 【未广播中国大陆IP】
+# IP-ASN,216173,ASN China // Guozhen Liu 【未广播中国大陆IP】
+# IP-ASN,216243,ASN China // CaiHui Ning 【未广播中国大陆IP】
+# IP-ASN,216299,ASN China // Yang Liuchang 【未广播中国大陆IP】
+# IP-ASN,216305,ASN China // Cong Zhang 【未广播中国大陆IP】
+# IP-ASN,216342,ASN China // JIANYU SHAO 【未广播中国大陆IP】
+# IP-ASN,216373,ASN China // Xin Xu 【未广播中国大陆IP】
+# IP-ASN,216405,ASN China // Zheng Chao 【未广播中国大陆IP】
