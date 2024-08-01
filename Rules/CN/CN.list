@@ -1,0 +1,26 @@
+# NAME: CN
+# AUTHOR: Blankwonder
+# HOMEPAGE: https://github.com/Blankwonder/surge-list/blob/master/cn.list
+# UPDATED: 2024-08-02 01:38:22
+# USER-AGENT: 4
+# HOST-KEYWORD: 6
+# HOST-SUFFIX: 1
+# IP-CIDR: 2
+# TOTAL: 13
+# China 补全
+
+USER-AGENT,MicroMessenger Client,CN
+USER-AGENT,WeChat*,CN
+USER-AGENT,MApi*,CN // Dianping
+# Ali
+HOST-KEYWORD,alipay,CN
+HOST-KEYWORD,taobao,CN
+HOST-KEYWORD,alicdn,CN
+HOST-KEYWORD,aliyun,CN
+HOST-KEYWORD,.tmall.,CN
+IP-CIDR,198.11.188.0/25,CN
+IP-CIDR,198.11.136.0/24,CN
+USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*,CN
+# China
+HOST-SUFFIX,CN,CN
+HOST-KEYWORD,baidu,CN
