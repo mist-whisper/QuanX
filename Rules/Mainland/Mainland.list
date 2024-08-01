@@ -1,7 +1,7 @@
 # NAME: Mainland
 # AUTHOR: Sukka Edward
 # HOPAGE: https://ruleset.skk.moe/List/non_ip/dostic.conf
-# UPDATED: 2024-08-02 01:08:24
+# UPDATED: 2024-08-02 01:35:24
 # This file contains known addresses that are avaliable in the Mainland China.
 # This ruleset is made by Sukka and Edward
 
@@ -410,7 +410,7 @@ HOST-SUFFIX,kugou.com,Mainland
 HOST-SUFFIX,kuwo.cn,Mainland
 HOST-SUFFIX,lagou.com,Mainland
 HOST-SUFFIX,leetcode.cn,Mainland
-HOST-SUFFIX,leetcode-cn,Mainland.com,Mainland
+HOST-SUFFIX,leetcode-cn.com,Mainland
 HOST-SUFFIX,leiniao.com,Mainland
 HOST-SUFFIX,leleketang.com,Mainland
 HOST-SUFFIX,link,Mainlandedin.cn,Mainland
