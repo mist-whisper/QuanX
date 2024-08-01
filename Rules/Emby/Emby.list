@@ -2,13 +2,15 @@
 # AUTHOR: justdoiting Edward
 # HOMEPAGE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Emby/Emby.list
 # HOMEPAGE: https://github.com/mist-whisper/Surge/blob/master/Rules/Emby/Emby.list
-# UPDATED: 2024-07-11 04:01:40
-# HOST: 16
-# HOST-KEYWORD: 11
-# HOST-SUFFIX: 47
-# TOTAL: 70
+# UPDATED: 2024-08-01 22:30:40
+# HOST: 21
+# HOST-KEYWORD: 8
+# HOST-SUFFIX: 44
+# PROCESS-NAME: 1
+# TOTAL: 74
 
 HOST,789.123456.al,Emby
+HOST,123456.al,Emby
 HOST,pub1.emby.wtf,Emby
 HOST,pub2.emby.wtf,Emby
 HOST,pub3.emby.wtf,Emby
@@ -16,16 +18,21 @@ HOST,dpx1.1110111.top,Emby
 HOST,7777777.buzz,Emby
 HOST,6666666.buzz,Emby
 HOST,i109.com,Emby
+DOMAIN,h1.i109.com
+DOMAIN,h2.i109.com
 HOST,vip.baisi.pro,Emby
+HOST,di.baisi.pro,Emby
 HOST,581658.best,Emby
 HOST,plex.tv,Emby
+HOST,0570.123456.buzz
+HOST,test.123456.buzz //地平线测速
+HOST,cf.imetyou.top
 
 HOST,emby.enjoyit.eu.org,Emby
 HOST,emby.lcloud.wiki,Emby
 HOST,notnetflix.cos.cat,Emby
 
-HOST-SUFFIX,di.baisi.pro,Emby
-HOST-SUFFIX,123456.al,Emby
+
 
 HOST-SUFFIX,285286.xyz,Emby
 HOST-SUFFIX,agahk1.jmsooo.com,Emby
@@ -76,7 +83,9 @@ HOST-KEYWORD,wtf,Emby
 HOST-KEYWORD,dpx,Emby
 HOST-KEYWORD,baisi,Emby
 HOST-KEYWORD,heisi,Emby
+HOST-KEYWORD,dpxemby
 
 HOST-KEYWORD,emby.wtf,Emby
 HOST-KEYWORD,jmsooo,Emby
 HOST-KEYWORD,odysseyplus,Emby
+PROCESS-NAME,com.mb.android
